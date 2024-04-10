@@ -330,7 +330,7 @@ para agilizar  el proceso de uso.
    **Sabremos** que hemos tenido exito
    **Cuando**  realicemos encuestas a estudiantes y la mayoría indique que prefieren nuestro servicio debido a su confiabilidad, comodidad y costo en comparación con otras opciones de transporte.
 
-**Hypothesis Statement 02:**
+ - **Hypothesis Statement 02:**
   **Creemos que** al ofrecer descuentos exclusivos a través de nuestra aplicación móvil, aumentaremos la lealtad de los clientes.
   **Sabremos** que hemos tenido éxito
   **Cuando** observemos un aumento en la participación de los clientes que utilizan los descuentos ofrecidos a través de la aplicación móvil, así como un aumento general de uso y el uso continuo del usuario.
