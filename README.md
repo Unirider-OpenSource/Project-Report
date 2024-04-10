@@ -58,3 +58,18 @@
 |||||
 |||||
 |||||
+
+**Project Report Collaboration Insights**
+URL del repositorio de GitHub de la organización: https://github.com/OpenUniRider
+
+_TB1_
+
+Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
+
+|Integrante|Actvidades Asignadas|
+|----------|----------|
+| | |
+| | |
+| | |
+| | |
+| | |
