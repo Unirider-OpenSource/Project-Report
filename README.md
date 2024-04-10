@@ -1313,4 +1313,16 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
 
-#
+# [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
+
+
+
+# [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
+
+1. NEI. (2021). *Encuesta Nacional de Hogares: Módulo de Victimización*. Lima, Perú: INEI.
+
+2. Traverso, J. L. (2020). *Impacto del crimen en la calidad de vida de los habitantes de Lima Metropolitana*. *Revista Peruana de Criminología*, 3(1), 45-58.
+
+3. Municipalidad Metropolitana de Lima. (2023). *Informe anual sobre el estado del transporte público en Lima*. Lima, Perú: Autor.
+
+
