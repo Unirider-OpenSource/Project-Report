@@ -864,6 +864,36 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 * _GitHub_: GitHub es una plataforma en línea que permite a los equipos colaborar en el desarrollo de software, alojar repositorios de código y gestionar proyectos de forma eficiente. En UniRider, utilizamos GitHub como nuestra plataforma de desarrollo de software para alojar el código fuente de nuestra aplicación web, realizar un seguimiento de los cambios en el código y gestionar las tareas y problemas del proyecto. La funcionalidad de control de versiones y colaboración de GitHub nos permite trabajar de forma conjunta en el desarrollo de software, lo que facilita la comunicación y la coordinación entre los miembros del equipo y garantiza la calidad y la integridad del código. https://github.com/
 
 ### [**5.1.2. Source Code Management.**](#source-code-management)
+
+|Integrantes| Cuenta de GitHub      |
+|----------|-----------------------|
+|Agama Espinoza, Eric Fabrizio	| U202213358@upc.edu.pe |
+|Anampa Lavado, Luis Angel| U202218664@upc.edu.pe |
+|Cortez Flores, Ely Rivaldo| U202215313@upc.edu.pe |
+|Mayta Lopez, Harold Jaime| U202114851@upc.edu.pe |
+|Pardo Zapata, Gustavo Adolfo	| U202120347@upc.edu.pe |
+
+**Despliegues**
+URL Landing Page desplegada:
+
+**Repositorios**
+URL del repositorio de Landing Page:
+
+URL del repositorio del Reporte Final:
+
+**Implementacion de Gitflow**
+
+![Gitflow](images/ramas.jpg)
+
+Gitflow es un modelo de ramificación para Git que se centra en la organización de las ramas de un proyecto de software. El modelo de Gitflow define una serie de ramas estándar y reglas para su uso, lo que facilita la colaboración y la gestión del código en un equipo de desarrollo. En UniRider, utilizamos el modelo de Gitflow para organizar y gestionar las ramas de nuestro proyecto, lo que nos permite trabajar de forma eficiente y colaborativa en el desarrollo de nuestra aplicación web.
+
+La rama **main** es la rama principal de nuestro proyecto, que contiene la versión estables, operativas y listas para implementar de UniRider. Estas variantes han sido previamente evaluadas y se ha verificado la total funcionalidad de estas tras su implementación. Emplearemos etiquetas para identificar cada variante estable y lista para implementar, lo que nos permitirá tener un seguimiento preciso de las variantes y simplificar la administración de futuras actualizaciones.
+
+La rama **develop** es la rama de desarrollo de nuestro proyecto, que contiene la versión en desarrollo de UniRider que aún no han sido sometidas a pruebas, aunque están completadas al 100% y contienen todas las características que se esperan hasta ese momento. Este canal se emplea para cargar la versión y llevar a cabo pruebas finales con el fin de corregir cualquier inconveniente antes de la publicación final en la rama main.
+
+La rama **feature** es la rama de características de nuestro proyecto, que contiene las nuevas características y funcionalidades que se están desarrollando para UniRider. Cada nueva característica se desarrolla en una rama de características separada, lo que permite a los miembros del equipo trabajar de forma independiente en diferentes aspectos de la aplicación y facilita la integración de las nuevas características en la rama de desarrollo.
+
+
 ### [**5.1.3. Source Code Style Guide \& Conventions.**](#source-code-style-guide--conventions)
 
 En esta sección, se establece y documenta la guía de estilo y las convenciones de codificación que deben seguirse en el proyecto.Estas convenciones se aplicarán a los diversos lenguajes utilizdos como HTML,CSS y Gherkin.Se prefiere que toda la nomenclatura y la documentación se realicen en inglés.
