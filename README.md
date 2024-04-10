@@ -632,6 +632,19 @@ En esta sección se resume la información recopilada, se realiza dos tablas con
 # [**Capítulo IV: Product Design.**](#capítulo-iv-product-design)
 ## [**4.1. Style Guidelines.**](#style-guidelines)
 ### [**4.1.1. General Style Guidelines.**](#general-style-guidelines)
+
+Un "style guideline" es un conjunto de reglas y directrices que definen cómo se debe redactar, diseñar o presentar documentos, contenido web, software u otros tipos de trabajos creativos. A continuación, se detallan los parámetros utilizados en la estructura del proyecto:
+
+**Branding:**
+
+_Brand Overview:_
+
+La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar de manera eficiente a los estudiantes universitarios. El transporte público convencional puede ser incómodo, y tener un coche propio no es una opción para muchos. Es por ello, que estamos desarrollando un sistema que permita a estos estudiantes universitarios compartir viajes en vehículos particulares, utilizando el concepto de compartir vehículos con otros (también conocido como carpooling). Este sistema web no solo ayudará a miles de estudiantes a ahorrar dinero en transporte, sino que también contribuye a reducir el tráfico. Gracias a nuestras diversas opciones, los estudiantes podran conectarse con sus compañeros que van en la misma dirección, compartir gastos de combustible y tener una experiencia de viaje más cómoda y social.
+
+* **Misión:** Revolucionar la forma en que los estudiantes universitarios se movilizan en entornos urbanos, proporcionando una solución de carpooling conveniente y económica.
+  <br><br>
+* **Visión:** Ser la principal plataforma de carpooling para estudiantes universitarios, facilitando la movilidad urbana de manera sostenible y colaborativa.
+
 ### [**4.1.2. Web Style Guidelines.**](#web-style-guidelines)
 ## [**4.2. Information Architecture.**](#information-architecture)
 ### [**4.2.1. Organization Systems.**](#organization-systems)
