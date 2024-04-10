@@ -966,7 +966,13 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 [**Figma Mobile Application**](https://www.figma.com/proto/PvLdtSaENiMYY9cQT6YMat/App-celular?type=design&node-id=11-2&t=ov9bcksZvKFHrT8j-0&scaling=min-zoom&page-id=0%3A1)
 ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
 ### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
+
+![SACD1](images/SACD1.jpeg)
+
 ### [**4.6.2. Software Architecture Container Diagrams.**](#software-architecture-container-diagrams)
+
+![SACD2](images/SACD2.jpeg)
+
 ### [**4.6.3. Software Architecture Components Diagrams.**](#software-architecture-components-diagrams)
 ## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
 ### [**4.7.1. Class Diagrams.**](#class-diagrams)
