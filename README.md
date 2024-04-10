@@ -687,6 +687,33 @@ A continuación se proporciona un análisis resumido para cada segmento.
  100% de los entrevistado desean seguridad y confiabilidad como tambien tienene la disposicion de compartir los aviajes.
 
 ## [**2.3. Needfinding.**](#needfinding)
+
+Presentamos las siguientes necesidades principales que hemos analizado en base a nuestros usuarios:
+
+**Segmento #1:** Estudiantes Universitarios que necesiten movilizarse
+
+- Una información más detallada del conductor en el historial de viaje.
+  
+- Una aplicación intuitiva que sea fácil de manejar.
+  
+- La confiabilidad al utilizar el servicio de carpooling.
+  
+- Experiencia de parte de los conductores.
+  
+- La capacidad de comunicarse directamente con el conductor antes y durante el viaje.
+  
+**Segmento objetivo #2:** Estudiantes Universitarios propietarios de vehiculo privado.
+
+- La seguridad y confiabilidad en el servicio.
+  
+- Flexibilidad de horarios 
+  
+- Facilidad de coordinacion
+  
+- Notificacion por cancelacion de asientos
+  
+- Creación de rutas para una mejor organización del servicio.
+
 ### [**2.3.1. User Personas.**](#user-personas)
 ### [**2.3.2. User Task Matrix.**](#user-task-matrix)
 ### [**2.3.3. User Journey Mapping**](#user-journey-mapping)
