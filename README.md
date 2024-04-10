@@ -180,6 +180,34 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 
    ![Logo de Markdown](images/logoUniRider.png)
 ### [**1.1.2.  Perfiles de los integrantes del equipo.**](#perfiles-de-los-integrantes-del-equipo)
+
+<table>
+  <tr>
+    <td>Perfiles de los integrantes del equipo</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Eric Agama</td>
+    <td><img src="" alt="" width="100" height="100"></td>
+  </tr>
+  <tr>
+    <td>Luis Anampa</td>
+    <td><img src="" alt="Imagen 2" width="100" height="100"></td>
+  </tr>
+  <tr>
+    <td>Ely Cortez</td>
+    <td><img src="" alt="Imagen 3" width="100" height="100"></td>
+  </tr>
+  <tr>
+    <td>Harold Mayta</td>
+    <td><img src="" alt="Imagen 4" width="100" height="100"></td>
+  </tr>
+  <tr>
+    <td>Gustavo Pardo</td>
+    <td><img src="" alt="Imagen 5" width="100" height="100"></td>
+  </tr>
+</table>
+
 ## [**1.2. Solution Profile.**](#solution-profile)
 ### [**1.2.1. Antecedentes y Problemática.**](#antecedentes-y-problemática)
 ##### What (Qué)
