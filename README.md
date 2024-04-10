@@ -492,6 +492,75 @@ El entrevistado destaca la importancia de la verificación de identidad y la cal
 
 El entrevistado comprende la importacia del carpooling y su impacto en la seguridad al evitar cuentas duplicadas. Destaca la utilidad de compartir experiencias y calificar a los conductores. Desea visualizar rutas y detalles del conductor, prefiere pagar en efectivo pero acepta monedero virtual. Valora la comunicación directa con el conductor. Solicita información detallada del automóvil y un soporte tecnicmo eficientes. Sugiere colaboraciones con universidades para mejorar el acceso al servicio para todos los estudiantes.
 
+**Segmento objetivo #2:** Estudiantes Universitarios propetarios de vehiculo privado.
+
+![Entrevista 4](images/Entrevista4.png)
+
+**Entrevistado N°4:** Jefrey Sanchez
+
+**- Sexo:** Masculino
+
+**- Edad:** 23 años
+
+**- Ubicación en la que vive:** Callao
+
+**Acerca de la entrevista:** Estudia Ingenieria de software en la UPC cursando en el septimo ciclo actualmente
+
+**- Link:** [upc-pre-202401-si729-SW58-interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120347_upc_edu_pe/EfowbxxGBQVOoyk745LqFXEBnq9i_JaPQ1iGuiLOJ4Nc8Q?e=fNxcvi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+**- Instante en el que inicia:** 7:00
+
+**- Duración:** 9:26 min
+
+**Resumen:**
+
+El posible conductor de UniRider enfatiza la necesidad de verificación de identidad tanto para los conductores y pasajeros, sugiere notificaciones de cancelación de asientos.Espera utilizar las ganancias obtenidas para el debido mantenimiento del automóvil y esta dispuesto a promover la plataforma entre otros estudiantes. Cabe resaltar que muestra un gran compromiso con la calidad del servicio y la seguridad del conductor y de los futuros usuarios , ya que conoce lo agotador y dificil que puede ser el viaje a un centro de estudios
+
+![Entrevista 5](images/Entrevista5.png)
+
+**Entrevistado N°5:** Leo Sicha
+
+**- Sexo:** Maxculino
+
+**- Edad:** 22 años
+
+**- Ubicación en la que vive:** Ate
+
+**Acerca de la entrevista:** Estudia Ingenieria de Sistemas en la UPC
+
+**- Link:** https://drive.google.com/file/d/1QHZQD3JM9jqrBbkbcWzPBekCUn0aHpe4/view?usp=sharing
+
+**- Instante en el que inicia:** 00:00 min
+
+**- Duración:** 7:00 min
+
+**Resumen:**
+
+El conductor se muestra a favor de la verificación de identidad para garantizar la seguridad de todos los usuarios. Aunque tiene poca experiencia en viajes largos, está acostumbrado al tráfico en Lima y esta dispuesto a brindar el servicio de carpoolig. Considera necesaria la función de cancelación para evitar problemas y esta interesado en ganar un ingreso de forma pasiva al compartir su viaje. Valora la posibilidad de crear rutas para una mejor organización del servicio. Además,tuvo experiencia previa llevando compañeros en su misma ruta y esta dispuesto a promover activamente UniRider.
+
+![Entrevista 6](images/Entrevista6.png)
+
+**Entrevistado N°6:** Mathias Kunimoto
+
+**- Sexo:** Masculino
+
+**- Edad:** 20 años
+
+**- Ubicación en la que vive:** Jesus Maria
+
+**Acerca de la entrevista:** Estudiante ing de software en la UPC actualmente en el quinto ciclo de la carrera
+
+**- Link:**  [upc-pre-202401-si729-SW58-interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120347_upc_edu_pe/EfowbxxGBQVOoyk745LqFXEBnq9i_JaPQ1iGuiLOJ4Nc8Q?e=fNxcvi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+**- Instante en el que inicia:** 16:27
+
+**- Duración:** 10:26
+
+**Resumen:**
+
+El entrevistado expresa la necesidad de verificar la información debido a la informalidad en el país. Lleva conduciendo 1 año y 2 meses y se siente cómodo manejando rutas largas.Valora la cancelación para que los pasajeros elijan según sus condiciones. Quiere esablecer su propia ruta para ganar ingresos pasivos. Dispuesto a promover UniRider como una opción segura y cómoda para los estudiantes. En resumen, prioriza la seguridad y comodidad del servicios
 
 Video de las entrevistas:
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120347_upc_edu_pe/EfowbxxGBQVOoyk745LqFXEBnq9i_JaPQ1iGuiLOJ4Nc8Q?e=fNxcvi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
