@@ -188,7 +188,7 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
   </tr>
   <tr>
     <td>Eric Agama</td>
-    <td><img src="" alt="" width="100" height="100"></td>
+    <td><img src="images/Foto Eric .jpg" alt="" width="100" height="100"></td>
   </tr>
   <tr>
     <td>Luis Anampa</td>
