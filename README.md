@@ -1303,6 +1303,23 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 
 ## [**5.2. Landing Page, Services \& Applications Implementation.**](#landing-page-services--applications-implementation)
 ### [**5.2.1. Sprint 1.**](#sprint-1)
+
+| Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.|
+| -------------------------------- | ----------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | 09/04/2024|
+| Time                             | 22:00 horas (GMT-5)|
+| Location                         | Reunión realizada mediante Discord|
+| Prepared By                      | Mayta Lopez, Harold Jaime	|
+| PAttendees (to planning meeting) | <li>Mayta Lopez, Harold Jaime</li>	 <li>Agama Espinoza, Eric Fabrizio </li> <li>Cortez Flores, Ely Rivaldo  </li> <li>Pardo Zapata, Gustavo Adolfo </li> <li>Anampa Lavado, Luis Angel </li>|
+|Sprint n -1 Review|
+|Resumen|Se creará la organización de UniRider en Github y el repositorio de la organización. |
+|Sprint n -1 Retrospective|
+|Resumen|Se implemento para el landing se ha realizado mediante html css y js.|
+| **Sprint Goal & User Stories**   |
+| Sprint 1 Velocity                |  21 points|
+| Sum of Story Points              |  21 points|
+
 #### [**5.2.1.1. Sprint Planning 1.**](#sprint-planning-1)
 #### [**5.2.1.2. Sprint Backlog 1.**](#sprint-backlog-1)
 #### [**5.2.1.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
