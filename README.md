@@ -563,6 +563,41 @@ El conductor se muestra a favor de la verificación de identidad para garantizar
 El entrevistado expresa la necesidad de verificar la información debido a la informalidad en el país. Lleva conduciendo 1 año y 2 meses y se siente cómodo manejando rutas largas.Valora la cancelación para que los pasajeros elijan según sus condiciones. Quiere esablecer su propia ruta para ganar ingresos pasivos. Dispuesto a promover UniRider como una opción segura y cómoda para los estudiantes. En resumen, prioriza la seguridad y comodidad del servicios
 
 ### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
+
+A continuación se proporciona un análisis resumido para cada segmento.
+
+**Segmento objetivo #1:** Estudiantes Universitarios que necesitan movilizarse.
+
+* Los entrevistados enfatizan la importancia de la seguridad y la confiabilidad al utilizar el servicio de carpooling.
+
+* Valoran la verificación de identidad, la comunicación directa con el conductor y un soporte técnico eficiente
+
+* Prefieren pagar en efectivo y consideran esencial contar con información detallada del conductor
+
+* La calificación del conductor es un factor crucial al seleccionar un viajje y consideran promover el servicio de Unirider
+
+* Desean una experiencia segura, transparente y comoda al utilizar el servicio de carpooling.
+
+**Analisis detallado con estadistica:**
+
+ El 100% de los entrevistado desean seguridad,confiabilidad y consideran prioritario la calificación del conductor.
+ 
+ El 60% de los entrevistados prefierio pagar en efectivo, mientras que el 40% optó por usar un monedero virtual.
+
+**Segmento objetivo #2:** Estudiantes Universitarios propietarios de vehiculo privado.
+
+* Los entrevistados también destacan la importancia de la seguridad y confiabilidad en el servicio.
+
+* Valoran la verificación de identidad para garantizar la seguridad de todos los usuario.
+
+* Están dispuestos a compartir sus viajes para ganar ingresos pasivos y promover activamente Unirider.
+
+* Priorizan la calidad del servicio y la seguridad del conductor y los futuros usuarios
+
+**Analisis detallado con estadistica:**
+
+ 100% de los entrevistado desean seguridad y confiabilidad como tambien tienene la disposicion de compartir los aviajes.
+
 ## [**2.3. Needfinding.**](#needfinding)
 ### [**2.3.1. User Personas.**](#user-personas)
 ### [**2.3.2. User Task Matrix.**](#user-task-matrix)
