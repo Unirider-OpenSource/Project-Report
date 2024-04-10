@@ -1303,7 +1303,7 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 
 ## [**5.2. Landing Page, Services \& Applications Implementation.**](#landing-page-services--applications-implementation)
 ### [**5.2.1. Sprint 1.**](#sprint-1)
-
+#### [**5.2.1.1. Sprint Planning 1.**](#sprint-planning-1)
 | Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.|
 | -------------------------------- | ----------------------------------------------------------- |
 | Sprint Planning Background       |
@@ -1319,9 +1319,6 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 | **Sprint Goal & User Stories**   |
 | Sprint 1 Velocity                |  21 points|
 | Sum of Story Points              |  21 points|
-
-#### [**5.2.1.1. Sprint Planning 1.**](#sprint-planning-1)
-
 
 #### [**5.2.1.2. Sprint Backlog 1.**](#sprint-backlog-1)
 
