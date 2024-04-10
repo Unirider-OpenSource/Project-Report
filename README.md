@@ -960,10 +960,10 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 ![UserFlowDiagrams](images/UserFlow9.png)
 
 ## [**4.5. Web Applications Prototyping.**](#web-applications-prototyping)
-### [**Web Application.**]
-[Figma Web Application](https://www.figma.com/proto/EwjGSJ6rrm0CnMdTbftA6k/Web-Application-Wireframe-%2F-Mock-Up?type=design&node-id=15-482&t=ujEphZo6qTextt9h-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=15%3A482&mode=design)
-### [**Mobile Application.**]
-[Figma Mobile Application](https://www.figma.com/proto/PvLdtSaENiMYY9cQT6YMat/App-celular?type=design&node-id=11-2&t=ov9bcksZvKFHrT8j-0&scaling=min-zoom&page-id=0%3A1)
+[**Figma Web Application**](https://www.figma.com/proto/EwjGSJ6rrm0CnMdTbftA6k/Web-Application-Wireframe-%2F-Mock-Up?type=design&node-id=15-482&t=ujEphZo6qTextt9h-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=15%3A482&mode=design)
+
+
+[**Figma Mobile Application**](https://www.figma.com/proto/PvLdtSaENiMYY9cQT6YMat/App-celular?type=design&node-id=11-2&t=ov9bcksZvKFHrT8j-0&scaling=min-zoom&page-id=0%3A1)
 ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
 ### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
 ### [**4.6.2. Software Architecture Container Diagrams.**](#software-architecture-container-diagrams)
