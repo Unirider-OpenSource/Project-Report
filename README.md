@@ -1333,6 +1333,21 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 | GW07 | Apartado planes     | G07 | Funcionalidad de los Botones(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a los planes de la página. Debe ser responsive.  | 3| Luis Anampa | Done|
 | GW08 | Apartado encabezado    | G08 | Desarrollo responsive de la página| Desarrollo e implementación de un estilo responsive en toda la página.| 2| Luis Anampa  | Done|
 #### [**5.2.1.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| landing-page |feature/index.html|759cc14| feat: (Landing page ) header| -| 10/04/2024         |
+| landing-page |feature/index.html|40c7f15| feat: (landingPage) added header and navbar| -| 10/04/2024|
+| landing-page |feature/index.html|abdd069| feat: add Home| -| 10/04/2024|
+| landing-page |feature/index.html|ea53c5f| feat: (Landing page) added About us| -| 10/04/2024|
+| landing-page |feature/index.html|f269ea5| feat: (Landing Page) implement product section| -|10/04/2024|
+| landing-page |feature/index.html|076717c| Feat: (Landing page) plans section| -|10/04/2024|
+| landing-page |feature/index.html|bc1bc4a| feat: (landingPage) add team section| -|10/04/2024|
+| landing-page |feature/index.html|166d6a4|feat: (Landing Page) add contact section| -|10/04/2024|
+| landing-page |feature/index.html|6371146| feat: (Landing page) add Footer section| -|10/04/2024|
+| landing-page |feature/index.html|02f2eld| feat: (Landing Page) implement responsive| -|10/04/2024|
+
+
 #### [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 #### [**5.2.1.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 #### [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
