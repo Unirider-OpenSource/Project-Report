@@ -192,8 +192,8 @@ y buscando siempre las mejores opciones para el equipo. Manejo el lenguaje Luau 
     <td><img src="images/Foto Eric .jpg" alt="" width="100" height="100"></td>
   </tr>
   <tr>
-    <td>Luis Anampa</td>
-    <td><img src="" alt="Imagen 2" width="100" height="100"></td>
+    <td>Mi nombre es Angel Anampa y tengo 19 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Elegí dicha carrera porque soy una persona que le interesa mucho los temas que tienen que ver con tecnología , me gustan los videojuegos. Me considero una persona atenta, responsable , optimista que sabe solucionar los problemas. Como integrante del equipo me comprometo a apoyar al grupo en este trabajo.</td>
+    <td><img src="images/angel.jpg" alt="Imagen 2" width="100" height="100"></td>
   </tr>
   <tr>
     <td>Mi nombre es Ely Rivaldo Cortez Flores, tengo 18 años estudio la
