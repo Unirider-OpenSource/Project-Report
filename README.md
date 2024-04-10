@@ -1390,6 +1390,9 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 
 https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
 
+![github](images/github.png)
+
+![github](images/github2.png)
 
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
