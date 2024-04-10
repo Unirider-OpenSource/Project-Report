@@ -614,6 +614,17 @@ A continuación se proporciona un análisis resumido para cada segmento.
 
 # [**Capítulo III: Requirements Specification.**](#capítulo-iii-requirements-specification)
 ## [**3.1. To-Be Scenario Mapping.**](#to-be-scenario-mapping)
+
+En esta sección se resume la información recopilada, se realiza dos tablas con la situación a mejorar del segmento objetivo, analizando que pasos que se realizaran y como se siente.
+
+*Segmento Estudiantes Universitarios que necesiten movilizarse*
+
+![SMobjetivo1](images/ScenarioMapO1.jpg)
+
+*Segmento Estudiantes Universitarios propetarios de vehiculo privado*
+
+![SMobjetivo2](images/ScenarioMapO2.jpg)
+
 ## [**3.2.User Stories.**](#user-stories)
 ## [**3.3. Impact Mapping.**](#impact-mapping)
 ## [**3.4. Product Backlog.**](#product-backlog)
