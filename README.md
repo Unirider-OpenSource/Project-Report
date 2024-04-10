@@ -421,6 +421,28 @@ En el ámbito del servicio de carpooling , existen otros servicios que presentan
 
 ### [**2.1.1. Análisis competitivo.**](#análisis-competitivo)
 ### [**2.1.2. Estrategias y tácticas frente a competidores.**](#estrategias-y-tácticas-frente-a-competidores)
+
+Haciendo uso de del análisis FODA anterior, hemos planteado las siguientes estrategias competitivas:
+
+Estrategias de cercanía con los usuarios:
+
+#1 Contactos con instituciones educativas para promocionar nuestra aplicación 
+
+UniRider al ser nuevo en el mercado tiene una gran desventaja en este aspecto. Para solucionar este problema se puede contactar con las instituciones educativas locales que ayuden a promocionar nuestra aplicación a través de sus redes y asi obtener la confiabilidad de nuestros usuarios. 
+
+#2 Realizar encuestas de satisfacción para los clientes
+Hemos visto que los clientes de la competencia tienen ideas o reseñas de la aplicación que les gustaría compartir y también que sean tomados en cuenta. Para ello, UniRider organizará cada 2 meses una encuesta de satisfacción de usuario, en la cual podrá decir su opinión de la aplicación así como ideas que les gustaría que tuviera nuestro producto.
+
+Estrategias de liderazgo a través del producto:
+
+#1 Ofrecer más características gratuitas
+
+Se analizó que muchos de nuestros competidores tienen funciones de pago que pueden ser muy requeridas para los clientes. Con esto en mente, UniRider agregará más de estas características de forma gratuita para nuestros usuarios.
+
+#2  Garantizar un sistema de guardado de información
+
+UniRider se compromete a implementar un sistema de guardado de información para ofrecer a nuestros clientes la capacidad de guardar sus rutas de viaje. Este sistema se diseñará con el objetivo de proporcionar una experiencia sin problemas y garantizar la confidencialidad de los datos del usuario.
+
 ## [**2.2. Entrevistas.**](#entrevistas)
 ### [**2.2.1. Diseño de entrevistas.**](#diseño-de-entrevistas)
 
