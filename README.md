@@ -1321,7 +1321,20 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 | Sum of Story Points              |  21 points|
 
 #### [**5.2.1.1. Sprint Planning 1.**](#sprint-planning-1)
+
+
 #### [**5.2.1.2. Sprint Backlog 1.**](#sprint-backlog-1)
+
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| GW01 | Apartado del Header  | G01 | Header responsivos (Desarrollado en HTML y CSS).| Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3| Ely Cortez  | Done|
+| GW02 | Apartado del Footer    | G02 | Footer responsivos (Desarrollado en HTML y CSS).| Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2| Gustavo Pardo | Done|
+| GW03 | Apartado Home          | G03 | (Desarrollado en HTML y CSS)| Desarrollo e implementación de los estilos que corresponden a la sección Home. Debe ser responsive.           | 3|  Harold Mayta  | Done|
+| GW04 | Apartado Producto   | G04 | (Desarrollado en HTML y CSS)| Desarrollo e implementación de los estilos que corresponden a Producto. Debe ser responsive.    | 2| Erick Agama   | Done|
+| GW05 | Apartado contacto          | G05 | Sección "Contacto"(Desarrollado en HTML y CSS)| Desarrollo e implementación de los estilos que corresponden a la sección Testimonios. Debe ser responsive.    | 3|  Harold Mayta  | Done|
+| GW06 | Sección Sobre equipo | G06 | Información del equipo (Desarrollado en HTML y CSS)| Desarrollo e implementación de los estilos que corresponden a la información del equipo. Debe ser responsive. | 3|Ely Cortez | Done|
+| GW07 | Apartado planes     | G07 | Funcionalidad de los Botones(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a los planes de la página. Debe ser responsive.  | 3| Luis Anampa | Done|
+| GW08 | Apartado encabezado    | G08 | Desarrollo responsive de la página| Desarrollo e implementación de un estilo responsive en toda la página.| 2| Luis Anampa  | Done|
 #### [**5.2.1.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 #### [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 #### [**5.2.1.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
