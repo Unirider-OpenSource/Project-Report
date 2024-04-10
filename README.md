@@ -70,11 +70,11 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 |Integrante|Actvidades Asignadas|
 |----------|----------|
-| | |
-| | |
-| | |
-| | |
-| | |
+|Gustavo Pardo|Capitulo 2: Analisis de entrevista<br>Capitulo 3: Scenario Mapping,User Stories,Impact Mapping,Product Backlog. <br> Capitulo 5:Source Code Style Guide |
+|Ely Cortez |Capitulo 1:StarUp profile,Solution Profile <br> Capitulo 4: Landing Page UI design<br> Capitulo 5: Landing Page|
+|Harold Mayta |Capitulo 2: Entrevistas <br> Capitulo 4: Domain Driven SA - Database Design<br> Capitulo 5: Software Configuration Management |
+|Eric Agama|Capitulo 4: Style Guidelines,Web applications UX/UI Design,Web Application Prototyping |
+|Luis Anampa|Capitulo 1: Segmentos Objetivos<br>Capitulo 2: Competidores,Entrevistas,needfinding<br> Capitulo 5: Sprint Planning/Baclokg 1  |
 
 # Student Outcome
 
