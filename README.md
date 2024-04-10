@@ -176,7 +176,7 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 
    ![Logo de Markdown](images/logoStarUpUniRider.png)
 
-   **Logotipo del servicio**
+   **Logotipo del servicio:**
 
    ![Logo de Markdown](images/logoUniRider.png)
 ### [**1.1.2.  Perfiles de los integrantes del equipo.**](#perfiles-de-los-integrantes-del-equipo)
