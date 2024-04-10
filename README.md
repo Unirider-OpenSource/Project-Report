@@ -226,6 +226,13 @@ Los estudiantes universitarios que deseen una alternativa que sea eficiente, có
 
 ### [**1.2.2. Lean UX Process.**](#lean-ux-process)
 #### [**1.2.2.1. Lean UX Problem Statements.**](#lean-ux-problem-statements)
+
+###### Problem Statement:
+El propósito de UniRider es facilitar el desplazamiento a los estudiantes universitarios de Lima , con el objetivo de reducir la probabilidad de experimentar estrés, robos o simplemente la fatiga de viajar en un autobús abarrotado, todo esto con la finalidad de reducir los gastos de pasaje.
+Aunque existen aplicaciones de viajes compartidos disponibles, estas no están diseñadas específicamente para satisfacer las necesidades y preferencias de los estudiantes universitarios. Esto dificulta que los estudiantes encuentren compañeros de viaje con horarios y rutas compatibles, lo que dificultaría la posibilidad de usar un transporte compartido.
+Por lo tanto, es esencial que UniRider aborde este problema mediante el desarrollo de herramientas y funcionalidades que mejoren la eficiencia y la accesibilidad del transporte compartido para los estudiantes universitarios. La aplicación debe tratar de solucionar las problemáticas identificadas en un principio para poder generar la confianza de los estudiantes y hacerse un nombre en el mercado y también en la comunidad universitaria.
+Ya que se identificó que uno de los problemas es la posibilidad de que durante el viaje, no se llegue a completar todos los asientos, es por eso la importancia de tener un posicionamiento en el mercado de aplicaciones de transporte.
+
 #### [**1.2.2.2. Lean UX Assumptions.**](#lean-ux-assumptions)
 #### [**1.2.2.3. Lean UX Hypothesis Statements.**](#lean-ux-hypothesis-statements)
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
