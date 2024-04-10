@@ -207,6 +207,23 @@ Los usuarios del sistema serán principalmente estudiantes universitarios. Por u
 ##### Why (Por qué)
 ###### ¿Cuál es la causa del problema?
 La causa principal del problema es la falta de opciones confortables, eficientes y económicas de transporte universitario para los estudiantes.
+
+### ¿Cuáles son las 2H?
+
+##### How (Cómo)
+###### ¿Cómo se utilizará el producto?
+El producto sera empleado mediante una  plataforma web, donde los estudiantes podrán programar sus viajes, conocer los horarios y rutas disponibles, realizar pagos en línea y recibir actualizaciones en tiempo real sobre el estado del servicio. 
+
+###### ¿Cómo lograremos desarrollar la correcta gestión del proceso de carpooling entre estudiantes?
+Después de que el estudiante inicia sesión en el sistema y elige su universidad de destino, el sistema presenta los conductores disponibles que viajan por la misma ruta. Si el estudiante está conforme con la hora estimada de llegada y la calificación del conductor, puede reservar un viaje y proceder con el pago. Una vez que el conductor complete todos los asientos, debe indicar que no hay más asientos disponibles. Después de llegar a destino, los usuarios tienen la opción de calificar al conductor.
+
+##### How much (Cuánto)
+###### ¿Cuál es la magnitud del problema?
+En Lima, se registran numerosos problemas socioculturales, como la delincuencia y el tráfico, que pueden ser especialmente perjudiciales para los estudiantes que suelen llevar consigo sus teléfonos celulares y computadoras portátiles (INEI, 2021). Estudios previos han demostrado que el crimen en Lima afecta negativamente la calidad de vida de los residentes, exacerbando los niveles de estrés y ansiedad (Traverso, 2020). Además, la situación del tráfico en la ciudad ha sido objeto de preocupación constante, ya que los estudiantes corren el riesgo de llegar tarde a clases o exámenes debido a las frecuentes paradas de los autobuses en cada tramo (Municipalidad Metropolitana de Lima, 2023).
+
+###### Quienes seran los beneficiados por el servicio?
+Los estudiantes universitarios que deseen una alternativa que sea eficiente, cómoda y económica, así como aquellos que busquen generar ingresos o reducir sus gastos en combustible durante su viaje hacia la universidad.
+
 ### [**1.2.2. Lean UX Process.**](#lean-ux-process)
 #### [**1.2.2.1. Lean UX Problem Statements.**](#lean-ux-problem-statements)
 #### [**1.2.2.2. Lean UX Assumptions.**](#lean-ux-assumptions)
