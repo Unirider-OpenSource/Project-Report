@@ -419,6 +419,10 @@ _Preguntas complementarias_:
 - ¿Estarías dispuesto/a a promover activamente UniRider entre otros estudiantes en el campus para aumentar la participación en la plataforma?
 
 ### [**2.2.2. Registro de entrevistas.**](#registro-de-entrevistas)
+
+Video de las entrevistas:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120347_upc_edu_pe/EfowbxxGBQVOoyk745LqFXEBnq9i_JaPQ1iGuiLOJ4Nc8Q?e=fNxcvi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
 ## [**2.3. Needfinding.**](#needfinding)
 ### [**2.3.1. User Personas.**](#user-personas)
