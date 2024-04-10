@@ -53,11 +53,13 @@
 </div>
 
 **Registro de Versiones del Informe**
-| Versión | Fecha       | Autor | Descripción de modificación            |
-|---------|-------------|-------|----------------------------------------|
-|||||
-|||||
-|||||
+|Versión|Fecha|Autor|Descripción de modificación|
+|-------|-----|-----|---------------------------|
+|V0.1|31/03/2024|Harold|Creación del repositorio|
+|V0.2|02/04/2024|Harold<br>Eric<br>Ely Cortez|Implementación de los Wireflow y Capitulo 1|
+|V0.3|03/04/2024|Gustavo<br>Harold<br>Luis|Finalización del capitulo 2 y 3|
+|V0.4|09/04/2024|Eric<br>Harold<br>Ely Cortez|Finalización del capitulo 4|
+|V1.0|10/04/2024|Gustavo<br>Luis<br>Eric <br> Harold<br> Ely Cortez|Finalización del entregable TB1|
 
 **Project Report Collaboration Insights**
 URL del repositorio de GitHub de la organización: https://github.com/OpenUniRider
