@@ -1017,7 +1017,130 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 ![COMP5](images/SACD2.jpeg)
 ## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
 ### [**4.7.1. Class Diagrams.**](#class-diagrams)
+
+![ClassDiagram](images/ClassDiagram.jpeg)
+
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
+Class Usuario
+
+| Atributo         | Type       |Description|
+|------------------|------------|-----------|
+| nombre           | string     ||
+| apellido         | string     ||
+| dni              | int        ||
+| cuentUsuario     | Cuenta     ||
+| matriculaUsuario | Matricula  ||
+| billetera        | Billetera  ||
+| historial        | Registro[] ||
+| numeroTelefono    | int       ||
+|notificaciones    | Notificacion[]||
+
+Class Registro
+
+| Atributo         | Type       |Description|
+|------------------|------------|-----------|
+|dniConductor      | int        ||
+|inicio|time||
+origen|string||
+|destino|string||
+|precio|float||
+|tipoPago|string||
+
+Class Notificacion
+
+| Atributo     | Type       |Description|
+|--------------|------------|-----------|
+| mensaje      |string||
+| fechaemision |time||
+|tipo         |string||
+
+Class Billetera
+
+| Atributo     | Type       |Description|
+|--------------|------------|-----------|
+|cards         |Card[]||
+|numeroCarteraDifital|int||
+
+Class Card
+
+| Atributo   | Type   |Description|
+|------------|--------|-----------|
+| cardNumber | string ||
+| csv        | int    ||
+| date       | time   ||
+
+Class Cuenta
+
+| Atributo     | Type   |Description|
+|--------------|--------|-----------|
+|correo        | string ||
+|contraseña    | string ||
+
+Class Matricula
+
+| Atributo         | Type      |Description|
+|------------------|-----------|-----------|
+| Instituto        |Instiuto   ||
+| codigoEstudiante | int       ||
+
+Class Instituto
+
+| Atributo         | Type      |Description|
+|------------------|-----------|-----------|
+| nombre           | string    ||
+| direccion        | string    ||
+| status           | string    ||
+|tipoInstituto     | string    ||
+
+
+Class Condutor
+
+| Atributo         | Type      |Description|
+|------------------|-----------|-----------|
+|ruta             | Ruta      ||
+|Licencia          | Licencia  ||
+
+Class Ruta
+
+| Atributo         | Type      |Description|
+|------------------|-----------|-----------|
+| origen           | string    ||
+| destino          | string    ||
+|especificaciones  | string    ||
+
+Class Licencia
+
+| Atributo       | Type      |Description|
+|----------------|-----------|-----------|
+| numeroLicencia | int       ||
+|clases          | string    ||
+|categoria       | string    ||
+|fechaExpiracion | time      ||
+
+Class Auto
+
+| Atributo         | Type      |Description|
+|------------------|-----------|-----------|
+|registrovehicular|RegistroVehicular||
+|seguro           | Seguro    ||
+
+Class RegistroVehicular
+
+| Atributo         | Type      |Description|
+|------------------|-----------|-----------|
+|placa            | string    ||
+|nombrePropietario | string   ||
+|apellidoPropietario | string  ||
+
+
+Class Seguro
+
+| Atributo         | Type   |Description|
+|------------------|--------|-----------|
+|dni| int    ||
+|expedicion| string ||
+|plan| string ||
+
 ## [**4.8. Database Design.**](#database-design)
 ### [**4.8.1. Database Diagram.**](#database-diagram)
 
