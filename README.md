@@ -727,6 +727,31 @@ A continuación, se presentarán los user persona basados en nuestro segmento ob
 ![UserPersona2](images/UserPersona2.png)
 
 ### [**2.3.2. User Task Matrix.**](#user-task-matrix)
+
+## **Ana Lopez**
+
+| Actividades | Frecuencia | Importancia | 
+|-------------|------------|-------------|
+| Investigar opciones de transporte. | Con frecuencia | Alta | 
+| Investigar opciones de transporte compartido. | A veces | Alta | 
+| Participar en grupos de viaje compartido. | A veces  | Media | 
+| Buscar rutas de viaje	 |  Con frecuencia | Media | 
+| Coordinar viajes | A veces | Media | 
+| Investigar opciones de transporte sostenible | Rara vez | Media | 
+
+
+## **Luis Gomez**
+
+
+| Actividades | Frecuencia | Importancia | 
+|-------------|------------|-------------|
+| Busca de compartir los gastos del combustible | A veces | Media | 
+| Encontrar compañeros de viaje con horarios y rutas compatibles | Con frecuencia | Alta | 
+| Investigar opciones de transporte compartido |Con frecuencia  | Media | 
+| Coordinar horario y ruta de viajes | A veces | Media | 
+| Registrar gastos de transporte	 | A veces | Media | 
+| Explorar alternativas de transporte |A veces  | Media | 
+
 ### [**2.3.3. User Journey Mapping**](#user-journey-mapping)
 ### [**2.3.4. Empathy Mapping**](#empathy-mapping)
 ### [**2.3.5. As-is Scenario Mapping**](#as-is-scenario-mapping)
