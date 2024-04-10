@@ -651,6 +651,15 @@ En esta sección se resume la información recopilada, se realiza dos tablas con
 |TS05|Desarrollar sistema de notificaciones en tiempo real|**Como** Developer **Quiero** implementar un sistema de notificaciones en tiempo real **Para** notificar a los usuarios sobre actualizaciones importantes en la plataforma.|**Escenario 1:** Notificaciones en tiempo real<br> **Dado que** Se produce una actualización importante, como la cancelación de un viaje **Cuando** Se activa la acción correspondiente en la plataforma **Entonces** Se envía una notificación en tiempo real a todos los usuarios afectados.|ES02|
 
 ## [**3.3. Impact Mapping.**](#impact-mapping)
+
+*Segmento Estudiantes Universitarios que necesiten movilizarse*
+
+![IMobjetivo1](images/ImpactMapO1.jpg)
+
+*Segmento Estudiantes Universitarios propetarios de vehiculo privado*
+
+![IMobjetivo2](images/ImpactMapO2.jpg)
+
 ## [**3.4. Product Backlog.**](#product-backlog)
 
 # [**Capítulo IV: Product Design.**](#capítulo-iv-product-design)
