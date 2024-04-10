@@ -210,8 +210,8 @@ trabajar de forma grupal.z</td>
     <td><img src="images/Harold.jpg" alt="" width="100" height="100"></td>
   </tr>
   <tr>
-    <td>Gustavo Pardo</td>
-    <td><img src="" alt="Imagen 5" width="100" height="100"></td>
+      <td>Mi nombre es Gustavo Adolfo Pardo Zapata, soy estudiante de la carrera de ingeniería de software de la UPC. Soy proactivo, colaborativo, organizado,responsable y con habilidades de resolución de problemas.Tengo una excelente capacidad para comunicarme de manera efectiva y clara con los demás miembros de mi equipo y deseo colaborar en todo lo posible con mis demás compañeros en este trabajo.</td>
+    <td><img src="images/Gustavo09.jpg" width="100" height="100"></td>
   </tr>
 </table>
 
