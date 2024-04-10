@@ -196,7 +196,13 @@ y buscando siempre las mejores opciones para el equipo. Manejo el lenguaje Luau 
     <td><img src="" alt="Imagen 2" width="100" height="100"></td>
   </tr>
   <tr>
-    <td>Ely Cortez</td>
+    <td>Mi nombre es Ely Rivaldo Cortez Flores, tengo 18 años estudio la
+carrera de ingeniería de
+software, actualmente estoy
+cursando el quinto ciclo. Soy
+una persona empática y
+responsable al momento de
+trabajar de forma grupal.z</td>
     <td><img src="images/elyCortez.jpeg"  alt="" width="100" height="100"></td>
   </tr>
   <tr>
