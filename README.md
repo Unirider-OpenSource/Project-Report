@@ -421,6 +421,78 @@ _Preguntas complementarias_:
 
 ### [**2.2.2. Registro de entrevistas.**](#registro-de-entrevistas)
 
+**Segmento objetivo #1:** Estudiantes Universitarios que necesiten movilizarse.
+
+![Entrevista 1](images/Entrevista1.png)
+
+**Entrevistado N°1:** Dayana Melina Rojas Sosa
+
+**- Sexo:** Femenino
+
+**- Edad:** 19 años
+
+**- Ubicación en la que vive:** Lima Ate
+
+**Acerca de la entrevista:** Estudiante de la UPC
+
+**- Link:** [upc-pre-202401-si729-SW58-interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120347_upc_edu_pe/EfowbxxGBQVOoyk745LqFXEBnq9i_JaPQ1iGuiLOJ4Nc8Q?e=fNxcvi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+**- Instante en el que inicia:** 26:53 min
+
+**- Duración:** 5:34 min
+
+**Resumen:**
+
+Se enfatiza la importancia de la seguridad y la confiabilidad al utilizar el servicio de carpooling. Valorizan la verificación de identidad, la comunicación directa con el conductor y un soporte técnico eficiente. Además, buscan informacion detallada del conductor y prefiere el metodo de pago en efectivo. La calificación del conductor es un factor crucial al seleccionar un viaje y considera promover el servicio de Unirider. En general desea una experiencia segura, transparente y cómoda al utilizar el servicio de carpooling.
+
+![Entrevista 2](images/Entrevista2.png)
+
+**Entrevistado N°2:** Jhunior Giussepe Taquiro Calderon
+
+**- Sexo:** Masculino
+
+**- Edad:** 20 años
+
+**- Ubicación en la que vive:** Lima Surco
+
+**Acerca de la entrevista:** Estudiante de ingenieria de Software
+
+**- Link:** [upc-pre-202401-si729-SW58-interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120347_upc_edu_pe/EfowbxxGBQVOoyk745LqFXEBnq9i_JaPQ1iGuiLOJ4Nc8Q?e=fNxcvi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+**- Instante en el que inicia:** 39:49 min
+
+**- Duración:** 3:51 min
+
+**Resumen:**
+
+El entrevistado destaca la importancia de la verificación de identidad y la calificación de conductores para garantizar la seguridad. Valora la comunicación directa con los conductores y prefiere pagar en efectivo. Considera esencial contar con información detallada del conductor y aprueba un soporte técnico eficiente. Al seleccionar un viaje prioriza el precio y la calificación del conductor. Además, ve positiva la idea de promover el servicio entre estudiantes a través de colaboraciones con instituciones educativas.
+
+![Entrevista 3](images/Entrevista3.png)
+
+**Entrevistado N°3:** Cristhian Jeaker Araujo Canales
+
+**- Sexo:** Masculino
+
+**- Edad:** 20 años
+
+**- Ubicación en la que vive:** Lima San Juan de Lurigancho
+
+**Acerca de la entrevista:** Estudia ciencia de la computacion en la UPC
+
+**- Link:** [upc-pre-202401-si729-SW58-interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120347_upc_edu_pe/EfowbxxGBQVOoyk745LqFXEBnq9i_JaPQ1iGuiLOJ4Nc8Q?e=fNxcvi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+**- Instante en el que inicia:** 32:27 min
+
+**- Duración:** 7:22 min
+
+**Resumen:**
+
+El entrevistado comprende la importacia del carpooling y su impacto en la seguridad al evitar cuentas duplicadas. Destaca la utilidad de compartir experiencias y calificar a los conductores. Desea visualizar rutas y detalles del conductor, prefiere pagar en efectivo pero acepta monedero virtual. Valora la comunicación directa con el conductor. Solicita información detallada del automóvil y un soporte tecnicmo eficientes. Sugiere colaboraciones con universidades para mejorar el acceso al servicio para todos los estudiantes.
+
+
 Video de las entrevistas:
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120347_upc_edu_pe/EfowbxxGBQVOoyk745LqFXEBnq9i_JaPQ1iGuiLOJ4Nc8Q?e=fNxcvi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
