@@ -197,7 +197,7 @@ y buscando siempre las mejores opciones para el equipo. Manejo el lenguaje Luau 
   </tr>
   <tr>
     <td>Ely Cortez</td>
-    <td><img src="" alt="images/elyCortez.jpeg" width="100" height="100"></td>
+    <td><img src="images/elyCortez.jpeg"  alt="" width="100" height="100"></td>
   </tr>
   <tr>
     <td>Mi nombre es Harold Jaime Mayta Lopez. Tengo 20 años y estoy estudiando a carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo consideroque soy bueno identificando problemáticas y buscando soluciones.</td>
