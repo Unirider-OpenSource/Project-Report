@@ -562,9 +562,6 @@ El conductor se muestra a favor de la verificación de identidad para garantizar
 
 El entrevistado expresa la necesidad de verificar la información debido a la informalidad en el país. Lleva conduciendo 1 año y 2 meses y se siente cómodo manejando rutas largas.Valora la cancelación para que los pasajeros elijan según sus condiciones. Quiere esablecer su propia ruta para ganar ingresos pasivos. Dispuesto a promover UniRider como una opción segura y cómoda para los estudiantes. En resumen, prioriza la seguridad y comodidad del servicios
 
-Video de las entrevistas:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120347_upc_edu_pe/EfowbxxGBQVOoyk745LqFXEBnq9i_JaPQ1iGuiLOJ4Nc8Q?e=fNxcvi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
 ### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
 ## [**2.3. Needfinding.**](#needfinding)
 ### [**2.3.1. User Personas.**](#user-personas)
