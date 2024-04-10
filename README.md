@@ -1010,6 +1010,11 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 ![SACD2](images/SACD2.jpeg)
 
 ### [**4.6.3. Software Architecture Components Diagrams.**](#software-architecture-components-diagrams)
+![COMP1](images/COMP1.jpeg)
+![COMP2](images/COMP2.jpeg)
+![COMP3](images/COMP3.jpeg)
+![COMP4](images/SACD2.jpeg)
+![COMP5](images/SACD2.jpeg)
 ## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
 ### [**4.7.1. Class Diagrams.**](#class-diagrams)
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
