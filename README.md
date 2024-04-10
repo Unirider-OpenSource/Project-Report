@@ -324,6 +324,28 @@ para agilizar  el proceso de uso.
  **Creemos que** la aplicación debería ofrecer opciones de viaje compartido programado, donde los usuarios puedan planificar y reservar viajes con anticipación.
 
 #### [**1.2.2.3. Lean UX Hypothesis Statements.**](#lean-ux-hypothesis-statements)
+
+ - **Hypothesis Statement 01:**
+   **Creemos que** los estudiantes consideran como primera opción nuestro servicio para el transporte hacia sus respectivas instituciones
+   **Sabremos** que hemos tenido exito
+   **Cuando**  realicemos encuestas a estudiantes y la mayoría indique que prefieren nuestro servicio debido a su confiabilidad, comodidad y costo en comparación con otras opciones de transporte.
+
+**Hypothesis Statement 02:**
+  **Creemos que** al ofrecer descuentos exclusivos a través de nuestra aplicación móvil, aumentaremos la lealtad de los clientes.
+  **Sabremos** que hemos tenido éxito
+  **Cuando** observemos un aumento en la participación de los clientes que utilizan los descuentos ofrecidos a través de la aplicación móvil, así como un aumento general de uso y el uso continuo del usuario.
+
+
+ - **Hypothesis Statement 03:**
+   **Creemos que** debemos priorizar la regulridad del registro, verificando de manera eficaz que la totalidad de nuestros usuarios son estudiantes de alguna institución
+   **Sabremos** que hemos tenido exito
+   **Cuando**  no registremos ningún reporte de algún altercado o durante la regularización de usuarios durante el recorrido.
+
+ - **Hypothesis Statement 04:**
+   **Creemos que**  al implementar un sistema de emparejamiento  basado en la ubicación y los horarios de los estudiantes, aumentaremos la conveniencia y la eficiencia del carpooling universitario.
+   **Sabremos**  que hemos tenido éxito
+   **Cuando**  se demuestre una disminución en el tiempo promedio de espera para encontrar un compañero de viaje 
+
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
 ## [**1.3. Segmentos objetivo.**](#segmentos-objetivo)
 
