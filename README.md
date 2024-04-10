@@ -1351,6 +1351,10 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 
 
 #### [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
+
+Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page.
+
+
 #### [**5.2.1.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 
 En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentessecciones donde el usuario puede encontrar información relevante acerca del producto y del start up. A continuación semuestran algunas evidencias:
