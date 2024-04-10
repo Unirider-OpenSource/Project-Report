@@ -234,6 +234,29 @@ Por lo tanto, es esencial que UniRider aborde este problema mediante el desarrol
 Ya que se identificó que uno de los problemas es la posibilidad de que durante el viaje, no se llegue a completar todos los asientos, es por eso la importancia de tener un posicionamiento en el mercado de aplicaciones de transporte.
 
 #### [**1.2.2.2. Lean UX Assumptions.**](#lean-ux-assumptions)
+###### Business Assumptions:
+1. **Creemos que nuestros usuarios necesitan** un método más eficaz para desplazarse hacia sus instituciones educativas universitarias, asegurando tanto tranquilidad como comodidad durante el trayecto.
+
+2. **Estas necesidades se pueden satisfacer** con el desarrollo de una plataforma enfocada unicamente al transporte universitario enfocado a la comidad, eficiencia y asequible para el uso diario
+
+3. **Nuestros clientes iniciales serán** unicamente los estudiantes universtarios que requieran el servicios y los que cuenten con un automovil y quieran ganar un adicional durante su recorrido a la universidad
+
+4. **El valor más importante que un cliente quiere de nuestros servicios es** la equidad entre un servicio accequible, la garantia de comodidad durante el viaje y la facilidad para solicitar el proceso.
+
+5. **El cliente también va a obtener** Beneficios adicionales, como la acumulación de puntos para poder canjear diferentes premios e incluso viajes.
+
+6. **Vamos a obtener la mayoría de los clientes mediante**  publicidad en línea, campañas de promoción en comunidades universitarios y acudiendo a charlas programadas dentro de las universidades.
+
+7. **Vamos a obtener ingresos mediante** el modelo de suscripción con diferentes niveles para los 2 tipos de usuarios (conductor,pasajero).
+
+8. **Nuestra competencia en el mercado serán** en un principio los diferentes aplicativos como lo son Uber,Indrive, etc asi como los taxis particulares.
+
+9. **Vamos a tener ventaja frente a nuestra competencia debido a** que nuestro público objetivo estará exclusivamente compuesto por estudiantes universitarios. Nuestra aplicación garantizará que durante el viaje solo participen personas que sean estudiantes, todos con el mismo punto de llegada. Como un valor agregado, ofreceremos la oportunidad para que los estudiantes puedan hacer networking durante el trayecto.
+
+10. **El mayor riesgo del servicio es** que nuestra aplicación no logre generar un impacto significativo o no capte la atención necesaria para que los usuarios decidan probar nuestro sistema.
+
+11. **Lo resolveremos realizando** estrategias de marketing adecuadas y promocionando nuestro servicio en charlas universitarias. Nos centraremos en generar confianza y seguridad durante los viajes, lo cual será fundamental para atraer a los usuarios. Además, planeamos regalar créditos dentro de la aplicación a las cuentas creadas mediante un código QR de invitación distribuido durante estas charlas universitarias.
+
 #### [**1.2.2.3. Lean UX Hypothesis Statements.**](#lean-ux-hypothesis-statements)
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
 ## [**1.3. Segmentos objetivo.**](#segmentos-objetivo)
