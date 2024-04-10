@@ -1315,7 +1315,7 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
-
+La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental en el desarrollo y avance del proyecto. La fluidez en el intercambio de ideas durante las discusiones orales ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará siendo promovido para sostener el progreso y la cohesión grupal. Por otro lado, la comunicación escrita ha desempeñado un papel crucial en la documentación del progreso del proyecto y en la clarificación de los entregables. Mantener un estilo claro y conciso en la comunicación escrita seguirá siendo prioritario para asegurar la eficacia y la calidad del trabajo realizado. En conjunto, tanto la comunicación oral como la escrita se complementan para facilitar un ambiente de trabajo productivo y colaborativo, donde las ideas fluyen libremente y los objetivos del proyecto se alcanzan de manera eficiente.
 
 # [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 
