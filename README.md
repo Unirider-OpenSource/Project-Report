@@ -1359,6 +1359,11 @@ Este primer Sprint solo trata la implementación del landing page, por lo que no
 #### [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
+Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
+
+https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
+
+
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
