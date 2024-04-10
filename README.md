@@ -763,6 +763,16 @@ A continuación, se presentarán los user persona basados en nuestro segmento ob
 ![Journey Mapping 2](images/JouneryMap1.png)
 
 ### [**2.3.4. Empathy Mapping**](#empathy-mapping)
+
+**Ana Lopez**
+
+![Empathy Mapping](images/Empathymap1.png)
+
+**Luis Gomez**
+
+![Empathy Mapping](images/Empathymap2.png)
+
+
 ### [**2.3.5. As-is Scenario Mapping**](#as-is-scenario-mapping)
 ## [**2.4. Ubiquitous Language**](#ubiquitous-language)
 
