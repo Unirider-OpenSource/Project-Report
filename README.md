@@ -164,6 +164,7 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 # [**Capítulo I: Introducción.**](#capítulo-i-introducción)
 ## [**1.1  Startup Profile.**](#startup-profile)
+En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 ### [**1.1.1. Descripción del startup.**](#descripción-del-startup)
 ### [**1.1.2.  Perfiles de los integrantes del equipo.**](#perfiles-de-los-integrantes-del-equipo)
 ## [**1.2. Solution Profile.**](#solution-profile)
