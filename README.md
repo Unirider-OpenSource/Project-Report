@@ -74,13 +74,12 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 | | |
 | | |
 
-**Studen Outcome**
+# Student Outcome
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-------------------|-------------------|------------|
-|Comunica oralmente sus <br>ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Luis Anampa**<br>TB1:<br><br>**Gustavo Pardo**<br>TB1:<br><br>**Harold Mayta**<br>TB1:<br><br>**Ely Cortez**<br>TB1:<br><br>**Eric Agama**<br>TB1:<br>||
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Luis Anampa**<br>TB1:<br><br>**Gustavo Pardo**<br>TB1:<br><br>**Harold Mayta**<br>TB1:<br><br>**Ely Cortez**<br>TB1:<br><br>**Eric Agama**<br>TB1:<br>||
-
+|Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.|**Luis Anampa**<br>TB1:<br><br>**Gustavo Pardo**<br>TB1:Forme parte del análisis de entrevistas de manera objetiva al proyecto, destacando puntos clave identificados<br>Participe activamente en las reuniones sobre el desarrollo del proyecto.<br><br>**Harold Mayta**<br>TB1:<br><br>**Ely Cortez**<br>TB1:<br><br>**Eric Agama**<br>TB1:<br>|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
+|Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Luis Anampa**<br>TB1:<br><br>**Gustavo Pardo**<br>TB1:<br>Redacté el capitulo 3 del informe , incluyendo el Scenario Mapping,User stories, Impact Mapping y el Product Baclkog<br>Elaboré el estilo de guía de codigo fuente y convenciones.<br>**Harold Mayta**<br>TB1:<br><br>**Ely Cortez**<br>TB1:<br><br>**Eric Agama**<br>TB1:<br>|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
 # Contenido
 
 - [Contenido](#contenido)
