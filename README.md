@@ -285,6 +285,44 @@ Ya que se identificó que uno de los problemas es la posibilidad de que durante 
 
 11. **Lo resolveremos realizando** estrategias de marketing adecuadas y promocionando nuestro servicio en charlas universitarias. Nos centraremos en generar confianza y seguridad durante los viajes, lo cual será fundamental para atraer a los usuarios. Además, planeamos regalar créditos dentro de la aplicación a las cuentas creadas mediante un código QR de invitación distribuido durante estas charlas universitarias.
 
+###### User Assumptions:
+
+###### ¿Quién es el usuario?
+Los usuarios son, en primera parte, estudiante universitario que requiere un método eficaz y cómodo para desplazarse hacia su institución educativa unicamente en el departamento de Lima,  si la plataforma tiene éxito en este primer sector, se plantea extender esta implementación en los departamentos del interior del pais.
+
+###### ¿Qué problemas tiene nuestro producto? ¿Resolver?
+
+Un problema que enfrenta actualmente la aplicación es el modelo de ingresos basado en suscripciones y niveles de servicio ya que debemos garatizar que sea lo suficientemente atractivo como para generar ingresos sostenibles y cubrir los costos operativos del servicio.
+
+###### ¿Qué características son importantes?
+ 
+ Las características principales de la plataforma incluyen su exclusividad para estudiantes universitarios, una interfaz fácil de usar, medidas sólidas de seguridad, comodidad en los viajes y ventajas extras como la acumulación de puntos y la posibilidad de establecer contactos.
+
+###### ¿Dónde encaja nuestro producto en su trabajo o vida?
+
+El producto encaja en la mejora de la calidad de viaje durante el trayecto de ida y vualta hacia las universidades, permitiendo  confortabilidad y reducción de gastos de viajes.
+
+###### ¿Cuándo y cómo es nuestro producto? ¿Usado?
+
+Nuestro producto está diseñado para ser utilizado principalmente durante el período académico, cuando los estudiantes universitarios necesitan desplazarse hacia y desde sus instituciones educativas. 
+
+###### ¿Cómo debe verse nuestro producto y cómo debe comportarse?
+
+El producto debe presentar un diseño intuitivo y amigable, con características que pueden ser adaptadas según las preferencias de cada usuario. Además, debe proporcionar información concisa sobre los conductores, vehículos y costos, manteniendo la seguridad como una prioridad con medidas sólidas. 
+
+######  Feature Assumptions:
+
+**Creemos que** la aplicación deberia tener la interfaz inicial con las opciónes principales una vez dentro de la app
+para agilizar  el proceso de uso.
+
+**Creemos que** el sistema debería considerar medidas de riesgo ante una situación de emergencia, es decir, añadir una función que reporte automáticamente la situación a las autoridades.
+
+**Creemos que** el sistema deberia 
+
+**Creemos que** el sistema debería integrarse con sistemas de pago móvil para facilitar el proceso de compartir los costos del viaje entre los usuarios, permitiendo transacciones seguras y sin problemas directamente desde la aplicación.
+
+ **Creemos que** la aplicación debería ofrecer opciones de viaje compartido programado, donde los usuarios puedan planificar y reservar viajes con anticipación.
+
 #### [**1.2.2.3. Lean UX Hypothesis Statements.**](#lean-ux-hypothesis-statements)
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
 ## [**1.3. Segmentos objetivo.**](#segmentos-objetivo)
