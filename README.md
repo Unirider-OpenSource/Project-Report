@@ -715,6 +715,17 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 - Creación de rutas para una mejor organización del servicio.
 
 ### [**2.3.1. User Personas.**](#user-personas)
+
+A continuación, se presentarán los user persona basados en nuestro segmento objetivo. Estos son arquetipos de nuestros usuarios ideales para nuestro segmento principal. 
+
+**Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse**
+
+![UserPersona1](images/UserPersona1.png)
+
+**Segmento objetivo #2: Estudiantes Universitarios propetarios de vehiculo privado**
+
+![UserPersona2](images/UserPersona2.png)
+
 ### [**2.3.2. User Task Matrix.**](#user-task-matrix)
 ### [**2.3.3. User Journey Mapping**](#user-journey-mapping)
 ### [**2.3.4. Empathy Mapping**](#empathy-mapping)
