@@ -696,6 +696,29 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
   <br><br>
 * **Visión:** Ser la principal plataforma de carpooling para estudiantes universitarios, facilitando la movilidad urbana de manera sostenible y colaborativa.
 
+![UniRider Startup Logo](images/logoStarUpUniRider.png)
+
+**Logotico del Servicio**
+
+![UniRider Service Logo](images/logoUniRider.png)
+
+**Colores:**
+
+Los colores toman protagonismo de la primera percepción visual de los usuarios. Es así que, guiados por los principios de la psicología del color. El azul oscuro suele evocar sensaciones de confianza, seriedad y profesionalismo. También puede transmitir calma y estabilidad. Por otro lado, se escogio como tonalidad predominante el color Azul se asocia con la confianza, la seguridad y la eficiencia, es lo que queremos brindar a nuestros usuarios. Como tonalidades secundarias se escogieron amarillo, negro, gris y blanco.
+
+![Colores](images/colores.png)
+
+**Tipografía:**
+
+La tipografía establece jerarquía entre los diversos grupos de contenido de la página. Asimismo, cumple un rol importante al momento de guiar al usuario a través de la interfaz.
+
+* Heading 1: Tiene un tamaño de 52 px.
+* Heading 2: Tiene un tamaño de 44 px.
+* Heading 3: Tiene un tamaño de 36 px.
+* Heading 4: Tiene un tamaño de 24 px.
+
+![Tipografía](images/tipografia.png)
+
 ### [**4.1.2. Web Style Guidelines.**](#web-style-guidelines)
 ## [**4.2. Information Architecture.**](#information-architecture)
 ### [**4.2.1. Organization Systems.**](#organization-systems)
