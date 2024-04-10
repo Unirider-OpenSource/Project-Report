@@ -410,6 +410,15 @@ Aspectos psicográficos:
 
 # [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
 ## [**2.1. Competidores.**](#competidores)
+
+En el ámbito del servicio de carpooling , existen otros servicios que presentan una solución efectiva e innovadora a la problemática planteada. A continuación, se presentarán los competidores principales para UniRider:
+
+1. HoopCarpool : Es una innovadora plataforma digital que tiene como objetivo principal facilitar el carpooling entre usuarios, ofreciendo una solución conveniente y eficiente para compartir viajes en automóvil. Con HoopCarpool, los usuarios pueden publicar sus rutas de viaje y buscar compañeros de viaje que compartan destinos similares, lo que les permite ahorrar dinero en transporte y reducir la huella ambiental al compartir vehículos privados.
+
+2. CarCool : Es una aplicación móvil y plataforma web que facilita el carpooling entre conductores y pasajeros, permitiéndoles compartir viajes en automóvil de manera conveniente y económica. Con CarCool, los usuarios pueden encontrar compañeros de viaje que se desplacen hacia destinos similares, lo que les permite reducir costos de transporte, minimizar la congestión vehicular y contribuir a la sostenibilidad ambiental al compartir vehículos privados. La aplicación ofrece funciones para planificar y coordinar viajes compartidos de manera eficiente, brindando una alternativa viable al transporte público tradicional y al uso de vehículos individuales.
+
+3. CompartiCar : Es una plataforma digital diseñada para facilitar el carpooling entre conductores y pasajeros, con el objetivo de optimizar el uso de vehículos privados y reducir la congestión vehicular en áreas urbanas. Esta aplicación permite a los usuarios publicar sus rutas de viaje y buscar compañeros de viaje que compartan destinos similares, proporcionando una solución conveniente y económica para los desplazamientos diarios.
+
 ### [**2.1.1. Análisis competitivo.**](#análisis-competitivo)
 ### [**2.1.2. Estrategias y tácticas frente a competidores.**](#estrategias-y-tácticas-frente-a-competidores)
 ## [**2.2. Entrevistas.**](#entrevistas)
