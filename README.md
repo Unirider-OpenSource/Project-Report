@@ -347,6 +347,7 @@ para agilizar  el proceso de uso.
    **Cuando**  se demuestre una disminución en el tiempo promedio de espera para encontrar un compañero de viaje 
 
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
+![LogoUpc](images/Lean_UxCavas.png)
 ## [**1.3. Segmentos objetivo.**](#segmentos-objetivo)
 
 # [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
