@@ -1059,121 +1059,121 @@ Class Usuario
 
 | Atributo         | Type       |Description|
 |------------------|------------|-----------|
-| nombre           | string     ||
-| apellido         | string     ||
-| dni              | int        ||
-| cuentUsuario     | Cuenta     ||
-| matriculaUsuario | Matricula  ||
-| billetera        | Billetera  ||
-| historial        | Registro[] ||
-| numeroTelefono    | int       ||
-|notificaciones    | Notificacion[]||
+| nombre           | string     | User name |
+| apellido         | string     | user's last name|
+| dni              | int        | way to identify the user|
+| cuentUsuario     | Cuenta     | User profile |
+| matriculaUsuario | Matricula  | the user's registration |
+| billetera        | Billetera  | funds to pay for travel |
+| historial        | Registro[] | You will be able to see the trips you make |
+| numeroTelefono    | int       | way to contact the user|
+|notificaciones    | Notificacion[]| send messages to the user |
 
 Class Registro
 
 | Atributo         | Type       |Description|
 |------------------|------------|-----------|
-|dniConductor      | int        ||
-|inicio|time||
-origen|string||
-|destino|string||
-|precio|float||
-|tipoPago|string||
+|dniConductor      | int        |way to identify the driver|
+|inicio|time|registration home page|
+origen|string|starting place|
+|destino|string|requested trip|
+|precio|float|travel cost|
+|tipoPago|string|payment methods|
 
 Class Notificacion
 
 | Atributo     | Type       |Description|
 |--------------|------------|-----------|
-| mensaje      |string||
-| fechaemision |time||
-|tipo         |string||
+| mensaje      |string|event received by the user|
+| fechaemision |time|date the notification came out|
+|tipo         |string|type of message|
 
 Class Billetera
 
 | Atributo     | Type       |Description|
 |--------------|------------|-----------|
-|cards         |Card[]||
-|numeroCarteraDifital|int||
+|cards         |Card[]|registered card|
+|numeroCarteraDigital|int|if you have more wallets|
 
 Class Card
 
 | Atributo   | Type   |Description|
 |------------|--------|-----------|
-| cardNumber | string ||
-| csv        | int    ||
-| date       | time   ||
+| cardNumber | string |user card number|
+| csv        | int    |3 numbers back|
+| date       | time   |card expiration date|
 
 Class Cuenta
 
 | Atributo     | Type   |Description|
 |--------------|--------|-----------|
-|correo        | string ||
-|contraseña    | string ||
+|correo        | string |way for reminders to arrive|
+|contraseña    | string |user account password|
 
 Class Matricula
 
 | Atributo         | Type      |Description|
 |------------------|-----------|-----------|
-| Instituto        |Instiuto   ||
-| codigoEstudiante | int       ||
+| Instituto        |Instiuto   |user's institute name|
+| codigoEstudiante | int       |way to identify the user within your institution|
 
 Class Instituto
 
 | Atributo         | Type      |Description|
 |------------------|-----------|-----------|
-| nombre           | string    ||
-| direccion        | string    ||
-| status           | string    ||
-|tipoInstituto     | string    ||
+| nombre           | string    |Name of the Institution|
+| direccion        | string    |institution address|
+| status           | string    |academic level of the institution|
+|tipoInstituto     | string    |If it is an institute or university|
 
 
 Class Condutor
 
 | Atributo         | Type      |Description|
 |------------------|-----------|-----------|
-|ruta             | Ruta      ||
-|Licencia          | Licencia  ||
+|ruta             | Ruta      |driver's route|
+|Licencia          | Licencia  |valid driver's license|
 
 Class Ruta
 
 | Atributo         | Type      |Description|
 |------------------|-----------|-----------|
-| origen           | string    ||
-| destino          | string    ||
-|especificaciones  | string    ||
+| origen           | string    |driving road|
+| destino          | string    |travel destination|
+|especificaciones  | string    |details of the trip|
 
 Class Licencia
 
 | Atributo       | Type      |Description|
 |----------------|-----------|-----------|
-| numeroLicencia | int       ||
-|clases          | string    ||
-|categoria       | string    ||
-|fechaExpiracion | time      ||
+| numeroLicencia | int       |driver's license number|
+|clases          | string    |license class type|
+|categoria       | string    |license category type|
+|fechaExpiracion | time      |license expiration date|
 
 Class Auto
 
 | Atributo         | Type      |Description|
 |------------------|-----------|-----------|
-|registrovehicular|RegistroVehicular||
-|seguro           | Seguro    ||
+|registrovehicular|RegistroVehicular|vehicle registration|
+|seguro           | Seguro    |vehicle insurance|
 
 Class RegistroVehicular
 
 | Atributo         | Type      |Description|
 |------------------|-----------|-----------|
-|placa            | string    ||
-|nombrePropietario | string   ||
-|apellidoPropietario | string  ||
+|placa            | string    |Vehicle plate|
+|nombrePropietario | string   |name of the vehicle owner|
+|apellidoPropietario | string  |last name of the vehicle owner|
 
 
 Class Seguro
 
 | Atributo         | Type   |Description|
 |------------------|--------|-----------|
-|dni| int    ||
-|expedicion| string ||
-|plan| string ||
+|dni| int    |ID for insurance|
+|expedicion| string |insurance issuance|
+|plan| string |insurance plans obtained|
 
 ## [**4.8. Database Design.**](#database-design)
 ### [**4.8.1. Database Diagram.**](#database-diagram)
