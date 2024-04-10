@@ -1174,6 +1174,10 @@ Class Seguro
 ## [**4.8. Database Design.**](#database-design)
 ### [**4.8.1. Database Diagram.**](#database-diagram)
 
+Para este proyecto se optó por escoger el motor de base de datos de MySQL, para almacenar y gestionar la información de nuestros usuarios, los vehículos, el instituto al que pertenecen entre otros varios. Este motor permite expandir los recursos utilizados en la base de datos del proyecto según las necesidades y requerimientos del negocio. 
+
+![Base de Datos](images/basedatos.png)
+
 # [**Capítulo V: Product Implementation, Validation \& Deployment.**](#capítulo-v-product-implementation-validation--deployment)
 ## [**5.1. Software Configuration Management.**](#software-configuration-management)
 ### [**5.1.1. Software Development Environment Configuration.**](#software-development-environment-configuration)
