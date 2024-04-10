@@ -73,3 +73,10 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 | | |
 | | |
 | | |
+
+**Studen Outcome**
+
+|Criterio Especifico|Acciones Realizadas|Conclusiones|
+|-------------------|-------------------|------------|
+|Comunica oralmente sus <br>ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Luis Anampa**<br>TB1:<br><br>**Gustavo Pardo**<br>TB1:<br><br>**Harold Mayta**<br>TB1:<br><br>**Ely Cortez**<br>TB1:<br><br>**Eric Agama**<br>TB1:<br>||
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Luis Anampa**<br>TB1:<br><br>**Gustavo Pardo**<br>TB1:<br><br>**Harold Mayta**<br>TB1:<br><br>**Ely Cortez**<br>TB1:<br><br>**Eric Agama**<br>TB1:<br>||
