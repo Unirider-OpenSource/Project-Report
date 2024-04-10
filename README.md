@@ -187,7 +187,8 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
     <td></td>
   </tr>
   <tr>
-    <td>Eric Agama</td>
+    <td>Mi nombre es Eric Agama y estudio la carrera de Ingeniería de Software. Me considero una persona creativa a la hora de realizar trabajos 
+y buscando siempre las mejores opciones para el equipo. Manejo el lenguaje Luau Roblox Studio.</td>
     <td><img src="images/Foto Eric .jpg" alt="" width="100" height="100"></td>
   </tr>
   <tr>
