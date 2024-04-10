@@ -159,6 +159,9 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
       - [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+- [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
+- [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
+
 
 
 # [**Capítulo I: Introducción.**](#capítulo-i-introducción)
@@ -1308,3 +1311,6 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 #### [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
 #### [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
+
+
+#
