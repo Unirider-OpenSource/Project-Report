@@ -1051,47 +1051,47 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
 Class Usuario
 
-| Atributo         | Type       |Description|
+| attribute         | Type       |Description|
 |------------------|------------|-----------|
-| nombre           | string     | User name |
-| apellido         | string     | user's last name|
-| dni              | int        | way to identify the user|
-| cuentUsuario     | Cuenta     | User profile |
-| matriculaUsuario | Matricula  | the user's registration |
-| billetera        | Billetera  | funds to pay for travel |
-| historial        | Registro[] | You will be able to see the trips you make |
-| numeroTelefono    | int       | way to contact the user|
-|notificaciones    | Notificacion[]| send messages to the user |
+| name           | string     | User name |
+| lastname         | string     | user's last name|
+| id              | int        | way to identify the user|
+| useraccount     | Cuenta     | User profile |
+| registrationUser | Matricula  | the user's registration |
+| wallet        | Billetera  | funds to pay for travel |
+| record        | Registro[] | You will be able to see the trips you make |
+| phonenumber    | int       | way to contact the user|
+|notifications    | Notificacion[]| send messages to the user |
 
 Class Registro
 
-| Atributo         | Type       |Description|
+| attribute         | Type       |Description|
 |------------------|------------|-----------|
-|dniConductor      | int        |way to identify the driver|
-|inicio|time|registration home page|
-origen|string|starting place|
-|destino|string|requested trip|
-|precio|float|travel cost|
-|tipoPago|string|payment methods|
+|driverid      | int        |way to identify the driver|
+|start|time|registration home page|
+|origin|string|starting place|
+|destination|string|requested trip|
+|price|float|travel cost|
+|typepay|string|payment methods|
 
 Class Notificacion
 
-| Atributo     | Type       |Description|
+| attribute     | Type       |Description|
 |--------------|------------|-----------|
-| mensaje      |string|event received by the user|
-| fechaemision |time|date the notification came out|
-|tipo         |string|type of message|
+| message      |string|event received by the user|
+| dateissue |time|date the notification came out|
+|type         |string|type of message|
 
 Class Billetera
 
-| Atributo     | Type       |Description|
+| attribute     | Type       |Description|
 |--------------|------------|-----------|
 |cards         |Card[]|registered card|
-|numeroCarteraDigital|int|if you have more wallets|
+|Digitalwalletnumber|int|if you have more wallets|
 
 Class Card
 
-| Atributo   | Type   |Description|
+| attribute   | Type   |Description|
 |------------|--------|-----------|
 | cardNumber | string |user card number|
 | csv        | int    |3 numbers back|
@@ -1099,74 +1099,74 @@ Class Card
 
 Class Cuenta
 
-| Atributo     | Type   |Description|
+| attribute     | Type   |Description|
 |--------------|--------|-----------|
-|correo        | string |way for reminders to arrive|
-|contraseña    | string |user account password|
+|mail        | string |way for reminders to arrive|
+|password    | string |user account password|
 
 Class Matricula
 
-| Atributo         | Type      |Description|
+| attribute         | Type      |Description|
 |------------------|-----------|-----------|
-| Instituto        |Instiuto   |user's institute name|
-| codigoEstudiante | int       |way to identify the user within your institution|
+| Institute        |string   |user's institute name|
+| codeStudent | int       |way to identify the user within your institution|
 
 Class Instituto
 
-| Atributo         | Type      |Description|
+| attribute         | Type      |Description|
 |------------------|-----------|-----------|
-| nombre           | string    |Name of the Institution|
-| direccion        | string    |institution address|
+| name           | string    |Name of the Institution|
+| adress        | string    |institution address|
 | status           | string    |academic level of the institution|
-|tipoInstituto     | string    |If it is an institute or university|
+|   type   | string    |If it is an institute or university|
 
 
 Class Condutor
 
-| Atributo         | Type      |Description|
+| attribute         | Type      |Description|
 |------------------|-----------|-----------|
-|ruta             | Ruta      |driver's route|
-|Licencia          | Licencia  |valid driver's license|
+|route             | Route      |driver's route|
+|license          | License  |valid driver's license|
 
 Class Ruta
 
-| Atributo         | Type      |Description|
+| attribute         | Type      |Description|
 |------------------|-----------|-----------|
-| origen           | string    |driving road|
-| destino          | string    |travel destination|
-|especificaciones  | string    |details of the trip|
+| origin           | string    |driving road|
+| destination          | string    |travel destination|
+|Specifications  | string    |details of the trip|
 
 Class Licencia
 
-| Atributo       | Type      |Description|
+| attribute       | Type      |Description|
 |----------------|-----------|-----------|
-| numeroLicencia | int       |driver's license number|
-|clases          | string    |license class type|
-|categoria       | string    |license category type|
-|fechaExpiracion | time      |license expiration date|
+| licensenumber | int       |driver's license number|
+| class          | string    |license class type|
+| category       | string    |license category type|
+| expirationdate | Time      |license expiration date|
 
 Class Auto
 
-| Atributo         | Type      |Description|
+| attribute         | Type      |Description|
 |------------------|-----------|-----------|
-|registrovehicular|RegistroVehicular|vehicle registration|
-|seguro           | Seguro    |vehicle insurance|
+|VehicleRegistration|RegistroVehicular|vehicle registration|
+|insurance           | Insurance    |vehicle insurance|
 
 Class RegistroVehicular
 
-| Atributo         | Type      |Description|
+| attribute         | Type      |Description|
 |------------------|-----------|-----------|
-|placa            | string    |Vehicle plate|
-|nombrePropietario | string   |name of the vehicle owner|
-|apellidoPropietario | string  |last name of the vehicle owner|
+|plate            | string    |Vehicle plate|
+|ownername | string   |name of the vehicle owner|
+|lastnameOwner | string  |last name of the vehicle owner|
 
 
 Class Seguro
 
-| Atributo         | Type   |Description|
+| attribute         | Type   |Description|
 |------------------|--------|-----------|
-|dni| int    |ID for insurance|
-|expedicion| string |insurance issuance|
+|id| int    |ID for insurance|
+|expedition| string |insurance issuance|
 |plan| string |insurance plans obtained|
 
 ## [**4.8. Database Design.**](#database-design)
