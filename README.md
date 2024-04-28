@@ -1389,7 +1389,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
 ![github](images/github2.png)
 
 ### [**5.2.2. Sprint 2.**](#sprint-2)
-#### [**5.2.2.1. Sprint Planning 2.**](#sprint-planning-1)
+#### [**5.2.2.1. Sprint Planning 2.**](#sprint-planning-2)
 | Sprint 2                         | Desarrollo del Frontend.|
 | -------------------------------- | ----------------------------------------------------------- |
 | Sprint Planning Background                                                                     |
@@ -1404,6 +1404,200 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
 |Goals to achive|**Meta principal**<br> Desarrollar el Frontend Web Application de nuestro proyecto UniRider, el cual cumpla con ser interactico para los usuarios.<br>**Metas especificas**<br> <li>Diseño del formulario de registro y pagina principal </li> <li>Implementacion de la pagina de planes de servicio </li> <li>Integracion de un proceso de compra el cual pida datos esenciales para el proceso </li> <li>Diseño y muestra de la identidad del conductor </li><li>Implementacion del acceso a detalles del viaje y ver las rutas </li> <li>Implemenacion de un proceso que permita establecer una ruta y horario del viaje del usuario </li> <li>Poder filtrar viajes disponibles </li> <li>Implementacion de la pagina de historial de reservas </li>|
 | Sprint 2 Velocity                |  36 points|
 | Sum of Story Points              |  36 points|
+
+#### [**5.2.2.2. Sprint Backlog 2.**](#sprint-backlog-2)
+</table>
+  <table border="1">
+  <tr>
+    <th>ID</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / To-Review / Done)</th>
+  </tr>
+  <tr>
+    <td rowspan="3"> 1</td>
+    <td rowspan="3">US01:Visualizar el inicio de registro</td>
+    <td>1.1</td>
+    <td>Diseño del formulario de registro</td>
+    <td>Diseñar la interfaz del fomulario de registro de usuario</td>
+    <td> 8 hours</td>
+    <td>Angel</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>1.2</td>
+    <td>Desarrollo del formulario de registro</td>
+    <td>Desarrollar la logica para el formulario de registro de usuario</td>
+    <td> 12 hours</td>
+    <td>Angel</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>1.3</td>
+    <td>Diseño de la pagina principal o Menu de incio</td>
+    <td>Diseñar la interfaz de usuario cuando se encuentre en el menu principal de la web aplication</td>
+    <td> 8 hours</td>
+    <td>Ely Cortez</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td rowspan="3"> 2 </td>
+    <td rowspan="3">US02:Visualizar y seleccionar planes de servicio</td>
+    <td>2.1</td>
+    <td>Diseño de la pagina de visualización de planes de servicio</td>
+    <td>Diseñar la interfaz de usuario para la visualización de planes de servicio</td>
+    <td> 10 hours</td>
+    <td>Ely Cortez</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>2.2</td>
+    <td>Diseño de la pagina de selección de plan de servicio</td>
+    <td>Diseñar la interfaz de usuario cuando selecciona la opcion de plan de servicio</td>
+    <td> 10 hours</td>
+    <td>Eric</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>2.3</td>
+    <td>Implementación de la funcionalidad de seleccion de plan de servicio</td>
+    <td>Desarrollar la logica para seleccionar un plan de servicio</td>
+    <td> 10 hours</td>
+    <td>Eric</td>
+    <td>To-do</td>
+  </tr>
+<tr>
+    <td rowspan="2"> 3 </td>
+    <td rowspan="2">US03:Diseño de la pagina de pago de plan de servicio</td>
+    <td>3.1</td>
+    <td>Diseño de la pagina de pago de plan de servicio</td>
+    <td>Diseñar la interfaz de usuario para realizar el pago del plan se servicio</td>
+    <td> 8 hours</td>
+    <td> Gustavo </td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>3.2</td>
+    <td>Implementación de la funcionalidad de pago del plan de servicio</td>
+    <td>Desarrollar la lógica para procesar el pago del plan de servicio</td>
+    <td> 12 hours</td>
+    <td> Eric</td>
+    <td>To-do</td>
+  </tr>
+<tr>
+    <td rowspan="2"> 4 </td>
+    <td rowspan="2">US04:Verificar la identidad del conductor</td>
+    <td>4.1</td>
+    <td>Diseño de la pagina de verificación de identidad del condcutor</td>
+    <td>Diseñar la interfaz de usuario para verificar la identidad del conductor</td>
+    <td> 6 hours</td>
+    <td> Eric </td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>4.2</td>
+    <td>Implementación de la funcionalidad de verificación de identidad del conductor</td>
+    <td>Desarrollar la logica para verificar la identidad del conductor</td>
+    <td> 10 hours</td>
+    <td> Eric   </td>
+    <td>In process</td>
+  </tr>  
+<tr>
+    <td rowspan="2"> 5 </td>
+    <td rowspan="2">US05:Visualizar ruta y detalles del viaje</td>
+    <td>5.1</td>
+    <td>Diseño de la pagina de visualización de ruta y detalles del viaje</td>
+    <td>Diseñar la interfaz de usuario para mostrar la ruta y los detalles del viaje</td>
+    <td> 6 hours</td>
+    <td> Harold </td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>5.2</td>
+    <td>Implementación de la funcionalidad de visualización de ruta y detalles del viaje</td>
+    <td>Desarrollar la lógica para mostrar la ruta y los detalles del viaje</td>
+    <td> 8 hours</td>
+    <td> Harold   </td>
+    <td>To-do</td>
+  </tr>
+<tr>
+    <td rowspan="2"> 6 </td>
+    <td rowspan="2">US06:Establecer ruta y horario del viaje</td>
+    <td>6.1</td>
+    <td>Diseño de la pagina de establecimiento de ruta y horario de viaje</td>
+    <td>Diseñar la interfaz de usuario para establecer la ruta y el horario de viaje</td>
+    <td> 8 hours</td>
+    <td> Angel </td>
+    <td>To-do</td>
+  </tr>
+   <tr>
+    <td>6.2</td>
+    <td>Implementacion de la funcionalidad de establecimiento de ruta y horario de viaje</td>
+    <td>Desarrollar la logica para establecer los parametros solicitados</td>
+    <td> 10 hours</td>
+    <td> Angel  </td>
+    <td>To-do</td>
+  </tr> 
+<tr>
+    <td rowspan="2"> 7 </td>
+    <td rowspan="2">US07:Brindar calificaciones</td>
+    <td>7.1</td>
+    <td>Diseño de la pagina de calificacion de conductores</td>
+    <td>Diseñar la interfaz de usuario para calificar a los conductores</td>
+    <td> 8 hours</td>
+    <td> Harold </td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>7.2</td>
+    <td>Implementacion de la funcionalidad de calificación de conductor</td>
+    <td>Desarrollar la lógica para calificar a los conductores</td>
+    <td> 12 hours</td>
+    <td> Harold   </td>
+    <td>In process</td>
+  </tr> 
+<tr>
+    <td rowspan="2"> 8 </td>
+    <td rowspan="2">US08:Filtrar viajes disponibless</td>
+    <td>8.1</td>
+    <td>Diseño de la pagina de filtrado de viajes disponibles</td>
+    <td>Desarrollar la lógica para filtrar los viajes disponibles</td>
+    <td> 9 hours</td>
+    <td> Ely Cortez  </td>
+    <td>To-do</td>
+  </tr>
+   <tr>
+    <td>7.2</td>
+    <td>Implementación de la funcionalidad de filtrado de viajes disponibles</td>
+    <td>Desarrollar los parametros solicitados</td>
+    <td> 10 hours</td>
+    <td> Ely Cortez  </td>
+    <td>To-do</td>
+  </tr> 
+<tr>
+    <td rowspan="2"> 9 </td>
+    <td rowspan="2">US09:Ver historial de reservas de viaje</td>
+    <td>9.1</td>
+    <td>Diseño de la pagina de visualización del historial de reservas de viaje</td>
+    <td>Diseñar la interfaz de usuario para ver el historial de reservas de viaje</td>
+    <td> 10 hours</td>
+    <td> Gustavo  </td>
+    <td> Done </td>
+  </tr>
+   <tr>
+    <td>9.2</td>
+    <td>Implementación de la funcionalidad de visualizacion del historial de reservas de viaje</td>
+    <td>Desarrollar la logica que permita mostrar el historial de reservas</td>
+    <td> 10 hours</td>
+    <td> Gustavo   </td>
+    <td>In process</td>
+  </tr> 
+</table>
+
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
