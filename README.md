@@ -1046,7 +1046,7 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 ## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
 ### [**4.7.1. Class Diagrams.**](#class-diagrams)
 
-![ClassDiagram](images/ClassDiagram.jpeg)
+![ClassDiagram](images/ClassDiagram1.jpeg)
 
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
 Class Usuario
