@@ -1388,6 +1388,22 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
 
 ![github](images/github2.png)
 
+### [**5.2.2. Sprint 2.**](#sprint-2)
+#### [**5.2.2.1. Sprint Planning 2.**](#sprint-planning-1)
+| Sprint 2                         | Desarrollo del Frontend.|
+| -------------------------------- | ----------------------------------------------------------- |
+| Sprint Planning Background                                                                     |
+| Date                             | 28/04/2024|
+| Time                             | 22:00 horas (GMT-5)|
+| Location                         | Reunión realizada mediante Discord|
+| Prepared By                      | Mayta Lopez, Harold Jaime	|
+| Attendees (to planning meeting) | <li>Mayta Lopez, Harold Jaime</li>	 <li>Agama Espinoza, Eric Fabrizio </li> <li>Cortez Flores, Ely Rivaldo  </li> <li>Pardo Zapata, Gustavo Adolfo </li> <li>Anampa Lavado, Luis Angel </li>|
+|Resumen|Se diseña e implementa el apartado de frontend. |
+|US Y metas para este sprint|
+| US abarcados<br>(Sprint 2)   |**US-01 (3 point)**<br>Visualizar Inicio de registro:Como Usuario Quiero poder crear mi usuario Para acceder al servicio de carpooling. <br>**US-02 (3 points)**<br>Seleccionar planes de servicio:Como Usuario Quiero seleccionar un plan de servicio Para adquirir los beneficios ofrecidos.<br>**US-03 (5 points)**<br>Realizar pago del plan: Como Usuario Quiero realizar el pago del plan seleccionado Para activar los beneficios ofrecidos.<br>**US-08 (3 points)**<br>VFiltrar viajes disponibles:Como Usuario Quiero poder filtrar los viajes disponibles Para encontrar opciones que se ajusten a mis preferencias.<br>**US-07 (5 points)**<br>Brindar calificaciones:Como Usuario Quiero brindar calificaciones a los conductores designados Para mejorar la experiencia de otros usuarios.<br>**US-09 (3 points)**<br>Ver historial de reservas de viaje: Como Usuario Quiero poder ver mi historial de reservas de viaje Para tener un registro de mis viajes anteriores y cancelaciones.<br>**US-04 (3 points)**<br>Verificar identidad del conductor:Como Usuario Quiero verificar la identidad del conductor Para garantizar mi seguridad durante el viaje.<br>**US-05 (3 points)**<br>Visualizar ruta y detalles del viaje:Como Usuario Quiero ver la ruta y los detalles del viaje Para prepararme adecuadamente y saber qué esperar.<br>**US-06 (8 points)** <br>Establecer Ruta y Horario de viaje: Como Usuario Quiero establecer la ruta y el horario de mi viaje Para planificar y compartir adecuadamente mi viaje.|
+|Goals to achive|**Meta principal**<br> Desarrollar el Frontend Web Application de nuestro proyecto UniRider, el cual cumpla con ser interactico para los usuarios.<br>**Metas especificas**<br> <li>Diseño del formulario de registro y pagina principal </li> <li>Implementacion de la pagina de planes de servicio </li> <li>Integracion de un proceso de compra el cual pida datos esenciales para el proceso </li> <li>Diseño y muestra de la identidad del conductor </li><li>Implementacion del acceso a detalles del viaje y ver las rutas </li> <li>Implemenacion de un proceso que permita establecer una ruta y horario del viaje del usuario </li> <li>Poder filtrar viajes disponibles </li> <li>Implementacion de la pagina de historial de reservas </li>|
+| Sprint 2 Velocity                |  36 points|
+| Sum of Story Points              |  36 points|
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
