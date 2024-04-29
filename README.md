@@ -92,7 +92,7 @@ Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguie
 |Ely Cortez ||
 |Harold Mayta ||
 |Eric Agama|Correciones al documento<br> execution evidence|
-|Luis Anampa||
+|Luis Anampa|Correciones deldocumento<br> Sprint review and Collaboration insigths|
 
 <!-- ![TB!](images/Captura.PNG) -->
 
