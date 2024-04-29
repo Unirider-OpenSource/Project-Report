@@ -60,6 +60,11 @@
 |V0.3|03/04/2024|Gustavo<br>Harold<br>Luis|Finalización del capitulo 2 y 3|
 |V0.4|09/04/2024|Eric<br>Harold<br>Ely Cortez|Finalización del capitulo 4|
 |V1.0|10/04/2024|Gustavo<br>Luis<br>Eric <br> Harold<br> Ely Cortez|Finalización del entregable TB1|
+|||||
+|||||
+|||||
+|||||
+|||||
 
 **Project Report Collaboration Insights**
 URL del repositorio de GitHub de la organización: [https://github.com/OpenUniRider](https://github.com/Unirider-OpenSource/Project-Report)
@@ -78,12 +83,26 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 ![TB!](images/Captura.PNG)
 
+_TP_
+
+Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguiente forma
+
+|Integrante|Actvidades Asignadas|
+|----------|----------|
+|Gustavo Pardo||
+|Ely Cortez ||
+|Harold Mayta ||
+|Eric Agama||
+|Luis Anampa||
+
+<!-- ![TB!](images/Captura.PNG) -->
+
 # Student Outcome
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-------------------|-------------------|------------|
-|Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.|**Luis Anampa**<br>TB1:He participado activamente en la creación de user personas y la realización de entrevistas a usuarios, lo que me ha permitido comprender mejor las necesidades, expectativas y motivaciones de los usuarios.<br><br>**Gustavo Pardo**<br>TB1:Forme parte del análisis de entrevistas de manera objetiva al proyecto, destacando puntos clave identificados<br>Participe activamente en las reuniones sobre el desarrollo del proyecto.<br><br>**Harold Mayta**<br>TB1: Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br><br>**Ely Cortez**<br>TB1:Durante el avance del Tb1 se realizaron diversas reuniones para acordar y verificar los avances de cada integrante,planificar y reservar tiempo para analizar las propuestas de cada integrante es  vital para el proyecto ya que nuestro objetivo es optimzar el tiempo de trabajo mediantela comunicación oral.<br><br>**Eric Agama**<br>TB1:Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
-|Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Luis Anampa**<br>TB1:Redacte el capitulo 2 , user persona , task matrix , journe mapping , tambien ayude en la elaboracion de los puntos del capitulo 5<br><br>**Gustavo Pardo**<br>TB1:<br>Redacté el capitulo 3 del informe , incluyendo el Scenario Mapping,User stories, Impact Mapping y el Product Baclkog<br>Elaboré el estilo de guía de codigo fuente y convenciones.<br>**Harold Mayta**<br>TB1: Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br><br>**Ely Cortez**<br>TB1:La colaboración entre nuestro equipo ha sido fundamental para cada miembro del equipo. Además, se ha diseñado una entrevista dirigida a nuestro público objetivo y se ha redactado con detalle los capítulos relacionados con la implementación y validación del proyecto. Todos los miembros del equipo han participado de manera activa en el diseño del producto. Esta estrategia de colaboración ha sido fundamental para alcanzar nuestros objetivos y garantizar la calidad de nuestro trabajo.<br><br>**Eric Agama**<br>TB1:Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas<br>|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
+|Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.|**Luis Anampa**<br>TB1:He participado activamente en la creación de user personas y la realización de entrevistas a usuarios, lo que me ha permitido comprender mejor las necesidades, expectativas y motivaciones de los usuarios.<br>TP:<br><br>**Gustavo Pardo**<br>TB1:Forme parte del análisis de entrevistas de manera objetiva al proyecto, destacando puntos clave identificados<br>Participe activamente en las reuniones sobre el desarrollo del proyecto.<br>TP:<br><br>**Harold Mayta**<br>TB1: Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br>TP:<br><br>**Ely Cortez**<br>TB1:Durante el avance del Tb1 se realizaron diversas reuniones para acordar y verificar los avances de cada integrante,planificar y reservar tiempo para analizar las propuestas de cada integrante es  vital para el proyecto ya que nuestro objetivo es optimzar el tiempo de trabajo mediantela comunicación oral.<br>TP:<br><br>**Eric Agama**<br>TB1:Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>TP:|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
+|Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Luis Anampa**<br>TB1:Redacte el capitulo 2 , user persona , task matrix , journe mapping , tambien ayude en la elaboracion de los puntos del capitulo 5.<br>TP:<br><br>**Gustavo Pardo**<br>TB1:<br>Redacté el capitulo 3 del informe , incluyendo el Scenario Mapping,User stories, Impact Mapping y el Product Baclkog<br>Elaboré el estilo de guía de codigo fuente y convenciones.<br>TP:<br><br>**Harold Mayta**<br>TB1: Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>TP:<br><br>**Ely Cortez**<br>TB1:La colaboración entre nuestro equipo ha sido fundamental para cada miembro del equipo. Además, se ha diseñado una entrevista dirigida a nuestro público objetivo y se ha redactado con detalle los capítulos relacionados con la implementación y validación del proyecto. Todos los miembros del equipo han participado de manera activa en el diseño del producto. Esta estrategia de colaboración ha sido fundamental para alcanzar nuestros objetivos y garantizar la calidad de nuestro trabajo.<br>TP:<br><br>**Eric Agama**<br>TB1:Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas<br>TP:|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
 # Contenido
 
 - [Contenido](#contenido)
@@ -1015,7 +1034,7 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 ![WebAppMockUp](images/WebAppMockUp10.png)
 ![WebAppMockUp](images/WebAppMockUp11.png)
 ![WebAppMockUp](images/WebAppMockUp12.png)
-### [**Mobile Application.**]
+**Mobile Application.**
 ![MobileAppMockUp](images/Mobile1.png)
 ![MobileAppMockUp](images/Mobile2.png)
 ![MobileAppMockUp](images/Mobile3.png)
@@ -1039,6 +1058,7 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 
 
 [**Figma Mobile Application**](https://www.figma.com/proto/PvLdtSaENiMYY9cQT6YMat/App-celular?type=design&node-id=11-2&t=ov9bcksZvKFHrT8j-0&scaling=min-zoom&page-id=0%3A1)
+
 ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
 ### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
 
