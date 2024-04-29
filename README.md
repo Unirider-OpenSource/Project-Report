@@ -1696,7 +1696,11 @@ En cuanto al Deployment de este producto para el Sprint 2, se desplegó nuestro 
 **En FrontEnd Web Application**<br>
 Durante el desarrollo de este sprint 2, todos los integrantes de UniRider colaboramos de manera activa y continua para la elaboración de las task correspondientes.<br> 
 Mostramos la evidencia de los avances:<br>
-//agregar las colaboraciones de los integrantes
+
+
+![Evidenciateam](images/evidenciaCommits1.png)
+![Evidenciateam](images/evidenciaCommits2.jpeg)
+![Evidenciateam](images/evidenciaCommits3.png)
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
