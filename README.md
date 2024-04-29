@@ -1647,6 +1647,23 @@ Como Usuario Quiero brindar calificaciones a los conductores designados Para mej
 **US09:Ver historial de reservas de viaje**<br>
 Como Usuario Quiero poder ver mi historial de reservas de viaje Para tener un registro de mis viajes anteriores y cancelaciones.<br>
 //imagen<br>
+
+#### [**5.2.2.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
+
+Por el momento no tenemos evidencia de la documentación de nuestros servicios,debido a ser el segundo sprint en donde hemos trabajado unicamente en el apartado del Front-end.
+
+#### [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
+En este Sprint (Sprint 2), se logró desarrollar el forntend web application del proyecto UniRider, el cual cuenta con el proposito de ser un producto intutivo y que permite cubrir el proposito de brindar un servicio de carpooling beneficioso para estudiantes.<br>
+En cuanto al Deployment de este producto para el Sprint 2, se desplegó nuestro Frontend mediante FireBase<br>
+//Evidencias
+
+#### [**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
+
+**En FrontEnd Web Application**<br>
+Durante el desarrollo de este sprint 2, todos los integrantes de UniRider colaboramos de manera activa y continua para la elaboración de las task correspondientes.<br> 
+Mostramos la evidencia de los avances:<br>
+//agregar las colaboraciones de los integrantes
+
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
 La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental en el desarrollo y avance del proyecto. La fluidez en el intercambio de ideas durante las discusiones orales ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará siendo promovido para sostener el progreso y la cohesión grupal. Por otro lado, la comunicación escrita ha desempeñado un papel crucial en la documentación del progreso del proyecto y en la clarificación de los entregables. Mantener un estilo claro y conciso en la comunicación escrita seguirá siendo prioritario para asegurar la eficacia y la calidad del trabajo realizado. En conjunto, tanto la comunicación oral como la escrita se complementan para facilitar un ambiente de trabajo productivo y colaborativo, donde las ideas fluyen libremente y los objetivos del proyecto se alcanzan de manera eficiente.
