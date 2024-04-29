@@ -89,8 +89,8 @@ Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguie
 |Integrante|Actvidades Asignadas|
 |----------|----------|
 |Gustavo Pardo|Correciones del documento <br>Sprint  backlog 2|
-|Ely Cortez ||
-|Harold Mayta ||
+|Ely Cortez |Correciones del documento<br>develope and deployment evidence|
+|Harold Mayta |Correciones del documento<br>Sprint planning 2|
 |Eric Agama|Correciones al documento<br> execution evidence|
 |Luis Anampa|Correciones deldocumento<br> Sprint review and Collaboration insigths|
 
