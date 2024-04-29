@@ -60,9 +60,13 @@
 |V0.3|03/04/2024|Gustavo<br>Harold<br>Luis|Finalización del capitulo 2 y 3|
 |V0.4|09/04/2024|Eric<br>Harold<br>Ely Cortez|Finalización del capitulo 4|
 |V1.0|10/04/2024|Gustavo<br>Luis<br>Eric <br> Harold<br> Ely Cortez|Finalización del entregable TB1|
+|V1.1|25/04/2024|Gustavo<br>Luis<br>Eric <br> Harold<br> Ely Cortez|Mejoras del Informe|
+|V1.2|26/04/2024|Gustavo<br>Eric <br> Harold<br> Ely Cortez|Creacion y desarrollo del Sprint 2|
+|V1.3|29/04/2024|Eric <br> Harold<br> Ely Cortez|Implementacion de imagenes de evidendica|
+|V2.0|29/04/2024|Gustavo<br>Luis<br>Eric <br> Harold<br> Ely Cortez|Finalización del Sprint 2|
 
 **Project Report Collaboration Insights**
-URL del repositorio de GitHub de la organización: https://github.com/OpenUniRider
+URL del repositorio de GitHub de la organización: [https://github.com/OpenUniRider](https://github.com/Unirider-OpenSource/Project-Report)
 
 _TB1_
 
@@ -76,12 +80,30 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 |Eric Agama|Capitulo 4: Style Guidelines,Web applications UX/UI Design,Web Application Prototyping |
 |Luis Anampa|Capitulo 1: Segmentos Objetivos<br>Capitulo 2: Competidores,Entrevistas,needfinding<br> Capitulo 5: Sprint Planning/Baclokg 1  |
 
+![TB!](images/Captura.PNG)
+
+_TP_
+
+Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguiente forma
+
+|Integrante|Actvidades Asignadas|
+|----------|----------|
+|Gustavo Pardo|Correciones del documento <br>Sprint  backlog 2|
+|Ely Cortez |Correciones del documento<br>develope and deployment evidence|
+|Harold Mayta |Correciones del documento<br>Sprint planning 2|
+|Eric Agama|Correciones al documento<br> execution evidence|
+|Luis Anampa|Correciones deldocumento<br> Sprint review and Collaboration insigths|
+
+<!-- ![TB!](images/Captura.PNG) -->
+
 # Student Outcome
+
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-------------------|-------------------|------------|
-|Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.|**Luis Anampa**<br>TB1:He participado activamente en la creación de user personas y la realización de entrevistas a usuarios, lo que me ha permitido comprender mejor las necesidades, expectativas y motivaciones de los usuarios.<br><br>**Gustavo Pardo**<br>TB1:Forme parte del análisis de entrevistas de manera objetiva al proyecto, destacando puntos clave identificados<br>Participe activamente en las reuniones sobre el desarrollo del proyecto.<br><br>**Harold Mayta**<br>TB1: Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br><br>**Ely Cortez**<br>TB1:Durante el avance del Tb1 se realizaron diversas reuniones para acordar y verificar los avances de cada integrante,planificar y reservar tiempo para analizar las propuestas de cada integrante es  vital para el proyecto ya que nuestro objetivo es optimzar el tiempo de trabajo mediantela comunicación oral.<br><br>**Eric Agama**<br>TB1:Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
-|Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Luis Anampa**<br>TB1:Redacte el capitulo 2 , user persona , task matrix , journe mapping , tambien ayude en la elaboracion de los puntos del capitulo 5<br><br>**Gustavo Pardo**<br>TB1:<br>Redacté el capitulo 3 del informe , incluyendo el Scenario Mapping,User stories, Impact Mapping y el Product Baclkog<br>Elaboré el estilo de guía de codigo fuente y convenciones.<br>**Harold Mayta**<br>TB1: Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br><br>**Ely Cortez**<br>TB1:La colaboración entre nuestro equipo ha sido fundamental para cada miembro del equipo. Además, se ha diseñado una entrevista dirigida a nuestro público objetivo y se ha redactado con detalle los capítulos relacionados con la implementación y validación del proyecto. Todos los miembros del equipo han participado de manera activa en el diseño del producto. Esta estrategia de colaboración ha sido fundamental para alcanzar nuestros objetivos y garantizar la calidad de nuestro trabajo.<br><br>**Eric Agama**<br>TB1:Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas<br>|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
+|Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.|**Luis Anampa**<br>TB1:He participado activamente en la creación de user personas y la realización de entrevistas a usuarios, lo que me ha permitido comprender mejor las necesidades, expectativas y motivaciones de los usuarios.<br>TP:presento lo requisitos necesarios en comunicación y participacion grupal<br><br>**Gustavo Pardo**<br>TB1:Forme parte del análisis de entrevistas de manera objetiva al proyecto, destacando puntos clave identificados<br>Participe activamente en las reuniones sobre el desarrollo del proyecto.<br>TP:Durante el avance del TP participo en reuniones con el equipo para discutir el progreso del desarrollo y posibles soluciones que implementar <br><br>**Harold Mayta**<br>TB1: Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br>TP:Facilito las sesiones y la organización de cada tarea asociada manteniendo una comunicacion permanente con el grupo<br><br>**Ely Cortez**<br>TB1:Durante el avance del Tb1 se realizaron diversas reuniones para acordar y verificar los avances de cada integrante,planificar y reservar tiempo para analizar las propuestas de cada integrante es  vital para el proyecto ya que nuestro objetivo es optimzar el tiempo de trabajo mediantela comunicación oral.<br>TP:Participo en reuniones para el avance del proyecto y fomento la comunicación grupal para el correcto desarrollo e implementacion de componentes<br><br>**Eric Agama**<br>TB1:Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>TP:Presento los avances correspondientes siempre comunicando mejoras del proyecto|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
+|Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Luis Anampa**<br>TB1:Redacte el capitulo 2 , user persona , task matrix , journe mapping , tambien ayude en la elaboracion de los puntos del capitulo 5.<br>TP:Se hizo las correciones del diagrama de clase e implementacion al proyecto<br><br>**Gustavo Pardo**<br>TB1:<br>Redacté el capitulo 3 del informe , incluyendo el Scenario Mapping,User stories, Impact Mapping y el Product Baclkog<br>Elaboré el estilo de guía de codigo fuente y convenciones.<br>TP:Se realizo correciones segun el feedback obtenido como tambien participando en las reuniones grupales<br><br>**Harold Mayta**<br>TB1: Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>TP:Preparó informes de planificación del proyecto brindando seguimiento de los avances,recomendacione e implementaciones para mejorar la eficienci y la calidad del proyecto.<br><br>**Ely Cortez**<br>TB1:La colaboración entre nuestro equipo ha sido fundamental para cada miembro del equipo. Además, se ha diseñado una entrevista dirigida a nuestro público objetivo y se ha redactado con detalle los capítulos relacionados con la implementación y validación del proyecto. Todos los miembros del equipo han participado de manera activa en el diseño del producto. Esta estrategia de colaboración ha sido fundamental para alcanzar nuestros objetivos y garantizar la calidad de nuestro trabajo.<br>TP:Redacto y mostro las evidencias correspondientes para el sprint 2, elaborando propuestas de mejoras en el proceso de implementación y validación del proyecto. <br><br>**Eric Agama**<br>TB1:Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas<br>TP:Elaboró propuestas de investigación y desarrollo, proporcionando reocmendaciones escritas dentro del informe.|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
+
 # Contenido
 
 - [Contenido](#contenido)
@@ -161,6 +183,15 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
       - [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+    - [**5.2.1. Sprint 2.**](#521-sprint-2)
+      - [**5.2.1.1. Sprint Planning 1.**](#5211-sprint-planning-2)
+      - [**5.2.1.2. Sprint Backlog 1.**](#5212-sprint-backlog-2)
+      - [**5.2.1.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
+      - [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
+      - [**5.2.1.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
+      - [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
+      - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
+      - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
 - [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 - [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 
@@ -187,37 +218,31 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 
 <table>
   <tr>
-    <td>Perfiles de los integrantes del equipo</td>
-    <td></td>
+    <th>Miembro del equipo</th>
+    <th>Descripción</th>
   </tr>
   <tr>
-    <td>Mi nombre es Eric Agama y estudio la carrera de Ingeniería de Software. Me considero una persona creativa a la hora de realizar trabajos 
-y buscando siempre las mejores opciones para el equipo. Manejo el lenguaje Luau Roblox Studio.</td>
     <td><img src="images/Foto Eric .jpg" alt="" width="100" height="100"></td>
+    <td>Mi nombre es Eric Agama y estudio la carrera de Ingeniería de Software. Me considero una persona creativa a la hora de realizar trabajos y buscando siempre las mejores opciones para el equipo. Manejo el lenguaje Luau Roblox Studio..</td>
   </tr>
   <tr>
+    <td><img src="/images/angel.jpg" alt="" width="100" height="100"></td>
     <td>Mi nombre es Angel Anampa y tengo 19 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Elegí dicha carrera porque soy una persona que le interesa mucho los temas que tienen que ver con tecnología , me gustan los videojuegos. Me considero una persona atenta, responsable , optimista que sabe solucionar los problemas. Como integrante del equipo me comprometo a apoyar al grupo en este trabajo.</td>
-    <td><img src="images/angel.jpg" alt="Imagen 2" width="100" height="100"></td>
   </tr>
   <tr>
-    <td>Mi nombre es Ely Rivaldo Cortez Flores, tengo 18 años estudio la
-carrera de ingeniería de
-software, actualmente estoy
-cursando el quinto ciclo. Soy
-una persona empática y
-responsable al momento de
-trabajar de forma grupal.z</td>
-    <td><img src="images/elyCortez.jpeg"  alt="" width="100" height="100"></td>
+     <td><img src="images/elyCortez.jpeg"  alt="" width="100" height="100"></td>
+    <td>Mi nombre es Ely Rivaldo Cortez Flores, tengo 18 años estudio la carrera de ingeniería de software, actualmente estoy cursando el quinto ciclo. Soy una persona empática y responsable al momento de trabajar de forma grupal.</td>
   </tr>
   <tr>
-    <td>Mi nombre es Harold Jaime Mayta Lopez. Tengo 20 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo consideroque soy bueno identificando problemáticas y buscando soluciones.</td>
     <td><img src="images/Harold.jpg" alt="" width="100" height="100"></td>
+    <td>Mi nombre es Harold Jaime Mayta Lopez. Tengo 20 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo consideroque soy bueno identificando problemáticas y buscando soluciones.</td>
   </tr>
-  <tr>
-      <td>Mi nombre es Gustavo Adolfo Pardo Zapata, soy estudiante de la carrera de ingeniería de software de la UPC. Soy proactivo, colaborativo, organizado,responsable y con habilidades de resolución de problemas.Tengo una excelente capacidad para comunicarme de manera efectiva y clara con los demás miembros de mi equipo y deseo colaborar en todo lo posible con mis demás compañeros en este trabajo.</td>
+   <tr>
     <td><img src="images/Gustavo09.jpg" width="100" height="100"></td>
+    <td>Mi nombre es Gustavo Adolfo Pardo Zapata, soy estudiante de la carrera de ingeniería de software de la UPC. Soy proactivo, colaborativo, organizado,responsable y con habilidades de resolución de problemas.Tengo una excelente capacidad para comunicarme de manera efectiva y clara con los demás miembros de mi equipo y deseo colaborar en todo lo posible con mis demás compañeros en este trabajo.</td>
   </tr>
 </table>
+
 
 ## [**1.2. Solution Profile.**](#solution-profile)
 ### [**1.2.1. Antecedentes y Problemática.**](#antecedentes-y-problemática)
@@ -414,16 +439,25 @@ Aspectos psicográficos:
 
 # [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
 ## [**2.1. Competidores.**](#competidores)
-
-En el ámbito del servicio de carpooling , existen otros servicios que presentan una solución efectiva e innovadora a la problemática planteada. A continuación, se presentarán los competidores principales para UniRider:
-
-1. HoopCarpool : Es una innovadora plataforma digital que tiene como objetivo principal facilitar el carpooling entre usuarios, ofreciendo una solución conveniente y eficiente para compartir viajes en automóvil. Con HoopCarpool, los usuarios pueden publicar sus rutas de viaje y buscar compañeros de viaje que compartan destinos similares, lo que les permite ahorrar dinero en transporte y reducir la huella ambiental al compartir vehículos privados.
-
-2. CarCool : Es una aplicación móvil y plataforma web que facilita el carpooling entre conductores y pasajeros, permitiéndoles compartir viajes en automóvil de manera conveniente y económica. Con CarCool, los usuarios pueden encontrar compañeros de viaje que se desplacen hacia destinos similares, lo que les permite reducir costos de transporte, minimizar la congestión vehicular y contribuir a la sostenibilidad ambiental al compartir vehículos privados. La aplicación ofrece funciones para planificar y coordinar viajes compartidos de manera eficiente, brindando una alternativa viable al transporte público tradicional y al uso de vehículos individuales.
-
-3. CompartiCar : Es una plataforma digital diseñada para facilitar el carpooling entre conductores y pasajeros, con el objetivo de optimizar el uso de vehículos privados y reducir la congestión vehicular en áreas urbanas. Esta aplicación permite a los usuarios publicar sus rutas de viaje y buscar compañeros de viaje que compartan destinos similares, proporcionando una solución conveniente y económica para los desplazamientos diarios.
-
 ### [**2.1.1. Análisis competitivo.**](#análisis-competitivo)
+
+<table><tr><th colspan="6" valign="top"><a name="_lfp2lf9xoms"></a><b>Competitive Analysis Landscape</b></th></tr>
+<tr><td colspan="6" valign="top"><p><b>¿Por qué llevar a cabo este análisis?</b>  </p><p>La realización de un análisis competitivo permite a UniRider entender su posición en el mercado frente a sus competidores. Identificar fortalezas, debilidades, oportunidades y amenazas proporcionará a UniRider insights valiosos para ajustar su estrategia, innovar en su oferta de valor y mejorar su enfoque de mercado. </p></td></tr>
+<tr><td colspan="2" valign="top"><b>Nombre</b></td><td valign="top"><b>UniRider</b></td><td valign="top"><b>BlaBlaCar</b></td><td valign="top"><b>Carpool World</b></td><td valign="top"><b>Waze Carpool</b></td></tr>
+<tr><td colspan="2" valign="top"><b>Logo</b></td><td valign="top"><img src="images/logoStarUpUniRider.png" alt="UniRider"></td><td valign="top"><img src="images/BlablaCar.png" alt="BlaBlaCar"></td><td valign="top"><img src="images/CarpoolWolrd.png" alt="Carpool World"></td><td valign="top"><img src="images/WazeCarpool.png" alt="Waze Carpool"></td></tr>
+<tr><td rowspan="2" valign="top"><b>Perfil</b></td><td valign="top"><b>Overview</b></td><td valign="top">Es una app web  especializada en carpooling para estudiantes universitarios, diseñada para facilitar una forma económica y social de viajar. La app conecta a estudiantes que van en la misma dirección, permitiéndoles compartir experiencias de viaje.</td><td valign="top">Es una plataforma líder en carpooling que conecta a conductores con asientos libres y a pasajeros que buscan viajar la misma ruta, enfocándose principalmente en viajes largos. La plataforma promueve la interacción social y la confianza mediante perfiles detallados y sistemas de calificación.</td><td valign="top">Es una plataforma global de carpooling que ofrece un servicio básico y directo para conectar a conductores y pasajeros, sin centrarse en un nicho específico. Su objetivo es facilitar el carpooling para cualquier tipo de viaje, ya sea para el trabajo, la escuela o viajes largos.</td><td valign="top">Se enfoca en conectar a conductores y pasajeros para viajes diarios, aprovechando su avanzada tecnología de mapeo y tráfico para optimizar las rutas. Su propuesta es reducir la cantidad de vehículos en la carretera mediante el fomento del carpooling basado en la eficiencia.</td></tr>
+<tr><td valign="top"><p><b>Ventaja competitiva</b></p><p><b>¿Qué valor ofrece a los clientes</b></p></td><td valign="top">Su ventaja radica en su enfoque específico en estudiantes universitarios, ofreciendo una solución personalizada para sus necesidades de movilidad. Esto incluye tarifas económicas, flexibilidad horaria y un ambiente de viaje social y seguro.</td><td valign="top">Se centra en viajes largos y la interacción social entre usuarios. Su valor principal es la confiabilidad y la extensa red de usuarios.</td><td valign="top">Ofrece una plataforma global que conecta a conductores y pasajeros sin enfocarse en un nicho específico. Su valor reside en la amplitud de su servicio.</td><td valign="top">Aprovecha su tecnología de navegación para optimizar las rutas de carpooling, dirigido a quienes buscan eficiencia y rapidez en sus viajes diarios.</td></tr>
+<tr><td rowspan="2" valign="top"><b>Perfil de Marketing</b></td><td valign="top"><b>Mercado Objetivo</b></td><td valign="top"><p>-Estudiantes universitarios de Lima.</p><p></p><p>-Estudiantes universitarios con auto.</p><p></p></td><td valign="top">Viajeros de larga distancia interesados en compartir gastos y experiencias.</td><td valign="top">Amplio, desde viajeros diarios hasta quienes buscan compañeros para viajes largos.</td><td valign="top">Profesionales y estudiantes que buscan rutas eficientes para sus viajes diarios.</td></tr>
+<tr><td valign="top"><b>Estrategias de Marketing</b></td><td valign="top">Campañas en redes sociales, asociaciones con universidades y promociones dirigidas a estudiantes.</td><td valign="top">Marketing de contenido, SEO y publicidad en plataformas de viaje.</td><td valign="top">Enfoque en SEO y presencia en eventos de sostenibilidad.</td><td valign="top">Publicidad digital aprovechando la base de usuarios de Waze y promociones en la app de navegación.</td></tr>
+<tr><td rowspan="3" valign="top"><b>Perfil de Producto</b></td><td valign="top"><b>Productos y Servicios</b></td><td valign="top">Carpooling diseñado para estudiantes, con funciones de seguridad y socialización.</td><td valign="top">Carpooling para viajes largos, con perfiles detallados de usuarios.</td><td valign="top">Plataforma de carpooling con un sistema de búsqueda flexible.</td><td valign="top">Carpooling basado en la eficiencia de rutas, con integración total con la app de Waze.</td></tr>
+<tr><td valign="top"><b>Precios y Costos</b></td><td valign="top">Sitio web para el registro y uso de nuestro aplicativo</td><td valign="top">Sitio web</td><td valign="top">Sitio web</td><td valign="top">Sitio web</td></tr>
+<tr><td valign="top"><b>Canales de distribución (Web y/o móvil)</b></td><td valign="top">Contará con aplicación web adaptable a cualquier dispositivo con navegador</td><td colspan="3" valign="top"><p></p><p>Cuenta con aplicación móvil y sitio web.</p></td></tr>
+<tr><td rowspan="4" valign="top"><b>Análisis SWOT</b></td><td valign="top"><b>Fortalezas</b></td><td valign="top">Fuerte conexión con el nicho de estudiantes, tarifas económicas, enfoque en la seguridad.</td><td valign="top">Gran base de usuarios, fiabilidad, presencia internacional.</td><td valign="top">Flexibilidad global, diversidad de usuarios.</td><td valign="top">Eficiencia en rutas, tecnología avanzada, gran base de usuarios de Waze.</td></tr>
+<tr><td valign="top"><b>Debilidades</b></td><td valign="top">Limitado inicialmente a ciertas áreas geográficas, necesidad de crecimiento rápido para asegurar suficientes usuarios.</td><td valign="top">Menos enfocado en viajes cortos diarios.</td><td valign="top">Falta de enfoque en nichos específicos.</td><td valign="top">Puede no ser ideal para quienes buscan interacción social.</td></tr>
+<tr><td valign="top"><b>Oportunidades</b></td><td valign="top">Expansión a nuevas universidades, alianzas con empresas de transporte público.</td><td valign="top">Crear servicios adicionales para viajes cortos.</td><td valign="top">Especialización en nichos no explorados.</td><td valign="top">Integración con otros servicios de movilidad.</td></tr>
+<tr><td valign="top"><b>Amenazas</b></td><td valign="top">Competencia de plataformas establecidas, cambios en regulaciones de transporte.</td><td valign="top">Nuevos competidores en el nicho de viajes largos.</td><td valign="top">Superación por plataformas más innovadoras o especializadas.</td><td valign="top">Cambios en la preferencia de los usuarios hacia opciones más socializadas.</td></tr>
+</table>
+
 ### [**2.1.2. Estrategias y tácticas frente a competidores.**](#estrategias-y-tácticas-frente-a-competidores)
 
 Haciendo uso de del análisis FODA anterior, hemos planteado las siguientes estrategias competitivas:
@@ -1010,7 +1044,7 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 ![WebAppMockUp](images/WebAppMockUp10.png)
 ![WebAppMockUp](images/WebAppMockUp11.png)
 ![WebAppMockUp](images/WebAppMockUp12.png)
-### [**Mobile Application.**]
+**Mobile Application.**
 ![MobileAppMockUp](images/Mobile1.png)
 ![MobileAppMockUp](images/Mobile2.png)
 ![MobileAppMockUp](images/Mobile3.png)
@@ -1034,6 +1068,7 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 
 
 [**Figma Mobile Application**](https://www.figma.com/proto/PvLdtSaENiMYY9cQT6YMat/App-celular?type=design&node-id=11-2&t=ov9bcksZvKFHrT8j-0&scaling=min-zoom&page-id=0%3A1)
+
 ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
 ### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
 
@@ -1052,52 +1087,52 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 ## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
 ### [**4.7.1. Class Diagrams.**](#class-diagrams)
 
-![ClassDiagram](images/ClassDiagram.jpeg)
+![ClassDiagram](images/ClassDiagram1.jpeg)
 
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
 Class Usuario
 
-| Atributo         | Type       |Description|
+| attribute         | Type       |Description|
 |------------------|------------|-----------|
-| nombre           | string     | User name |
-| apellido         | string     | user's last name|
-| dni              | int        | way to identify the user|
-| cuentUsuario     | Cuenta     | User profile |
-| matriculaUsuario | Matricula  | the user's registration |
-| billetera        | Billetera  | funds to pay for travel |
-| historial        | Registro[] | You will be able to see the trips you make |
-| numeroTelefono    | int       | way to contact the user|
-|notificaciones    | Notificacion[]| send messages to the user |
+| name           | string     | User name |
+| lastname         | string     | user's last name|
+| id              | int        | way to identify the user|
+| useraccount     | Cuenta     | User profile |
+| registrationUser | Matricula  | the user's registration |
+| wallet        | Billetera  | funds to pay for travel |
+| record        | Registro[] | You will be able to see the trips you make |
+| phonenumber    | int       | way to contact the user|
+|notifications    | Notificacion[]| send messages to the user |
 
 Class Registro
 
-| Atributo         | Type       |Description|
+| attribute         | Type       |Description|
 |------------------|------------|-----------|
-|dniConductor      | int        |way to identify the driver|
-|inicio|time|registration home page|
-origen|string|starting place|
-|destino|string|requested trip|
-|precio|float|travel cost|
-|tipoPago|string|payment methods|
+|driverid      | int        |way to identify the driver|
+|start|time|registration home page|
+|origin|string|starting place|
+|destination|string|requested trip|
+|price|float|travel cost|
+|typepay|string|payment methods|
 
 Class Notificacion
 
-| Atributo     | Type       |Description|
+| attribute     | Type       |Description|
 |--------------|------------|-----------|
-| mensaje      |string|event received by the user|
-| fechaemision |time|date the notification came out|
-|tipo         |string|type of message|
+| message      |string|event received by the user|
+| dateissue |time|date the notification came out|
+|type         |string|type of message|
 
 Class Billetera
 
-| Atributo     | Type       |Description|
+| attribute     | Type       |Description|
 |--------------|------------|-----------|
 |cards         |Card[]|registered card|
-|numeroCarteraDigital|int|if you have more wallets|
+|Digitalwalletnumber|int|if you have more wallets|
 
 Class Card
 
-| Atributo   | Type   |Description|
+| attribute   | Type   |Description|
 |------------|--------|-----------|
 | cardNumber | string |user card number|
 | csv        | int    |3 numbers back|
@@ -1105,74 +1140,74 @@ Class Card
 
 Class Cuenta
 
-| Atributo     | Type   |Description|
+| attribute     | Type   |Description|
 |--------------|--------|-----------|
-|correo        | string |way for reminders to arrive|
-|contraseña    | string |user account password|
+|mail        | string |way for reminders to arrive|
+|password    | string |user account password|
 
 Class Matricula
 
-| Atributo         | Type      |Description|
+| attribute         | Type      |Description|
 |------------------|-----------|-----------|
-| Instituto        |Instiuto   |user's institute name|
-| codigoEstudiante | int       |way to identify the user within your institution|
+| Institute        |string   |user's institute name|
+| codeStudent | int       |way to identify the user within your institution|
 
 Class Instituto
 
-| Atributo         | Type      |Description|
+| attribute         | Type      |Description|
 |------------------|-----------|-----------|
-| nombre           | string    |Name of the Institution|
-| direccion        | string    |institution address|
+| name           | string    |Name of the Institution|
+| adress        | string    |institution address|
 | status           | string    |academic level of the institution|
-|tipoInstituto     | string    |If it is an institute or university|
+|   type   | string    |If it is an institute or university|
 
 
 Class Condutor
 
-| Atributo         | Type      |Description|
+| attribute         | Type      |Description|
 |------------------|-----------|-----------|
-|ruta             | Ruta      |driver's route|
-|Licencia          | Licencia  |valid driver's license|
+|route             | Route      |driver's route|
+|license          | License  |valid driver's license|
 
 Class Ruta
 
-| Atributo         | Type      |Description|
+| attribute         | Type      |Description|
 |------------------|-----------|-----------|
-| origen           | string    |driving road|
-| destino          | string    |travel destination|
-|especificaciones  | string    |details of the trip|
+| origin           | string    |driving road|
+| destination          | string    |travel destination|
+|Specifications  | string    |details of the trip|
 
 Class Licencia
 
-| Atributo       | Type      |Description|
+| attribute       | Type      |Description|
 |----------------|-----------|-----------|
-| numeroLicencia | int       |driver's license number|
-|clases          | string    |license class type|
-|categoria       | string    |license category type|
-|fechaExpiracion | time      |license expiration date|
+| licensenumber | int       |driver's license number|
+| class          | string    |license class type|
+| category       | string    |license category type|
+| expirationdate | Time      |license expiration date|
 
 Class Auto
 
-| Atributo         | Type      |Description|
+| attribute         | Type      |Description|
 |------------------|-----------|-----------|
-|registrovehicular|RegistroVehicular|vehicle registration|
-|seguro           | Seguro    |vehicle insurance|
+|VehicleRegistration|RegistroVehicular|vehicle registration|
+|insurance           | Insurance    |vehicle insurance|
 
 Class RegistroVehicular
 
-| Atributo         | Type      |Description|
+| attribute         | Type      |Description|
 |------------------|-----------|-----------|
-|placa            | string    |Vehicle plate|
-|nombrePropietario | string   |name of the vehicle owner|
-|apellidoPropietario | string  |last name of the vehicle owner|
+|plate            | string    |Vehicle plate|
+|ownername | string   |name of the vehicle owner|
+|lastnameOwner | string  |last name of the vehicle owner|
 
 
 Class Seguro
 
-| Atributo         | Type   |Description|
+| attribute         | Type   |Description|
 |------------------|--------|-----------|
-|dni| int    |ID for insurance|
-|expedicion| string |insurance issuance|
+|id| int    |ID for insurance|
+|expedition| string |insurance issuance|
 |plan| string |insurance plans obtained|
 
 ## [**4.8. Database Design.**](#database-design)
@@ -1394,6 +1429,278 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
 
 ![github](images/github2.png)
 
+### [**5.2.2. Sprint 2.**](#sprint-2)
+#### [**5.2.2.1. Sprint Planning 2.**](#sprint-planning-2)
+| Sprint 2                         | Desarrollo del Frontend.|
+| -------------------------------- | ----------------------------------------------------------- |
+| Sprint Planning Background                                                                     |
+| Date                             | 28/04/2024|
+| Time                             | 22:00 horas (GMT-5)|
+| Location                         | Reunión realizada mediante Discord|
+| Prepared By                      | Mayta Lopez, Harold Jaime	|
+| Attendees (to planning meeting) | <li>Mayta Lopez, Harold Jaime</li>	 <li>Agama Espinoza, Eric Fabrizio </li> <li>Cortez Flores, Ely Rivaldo  </li> <li>Pardo Zapata, Gustavo Adolfo </li> <li>Anampa Lavado, Luis Angel </li>|
+|Resumen|Se diseña e implementa el apartado de frontend. |
+|US Y metas para este sprint|
+| US abarcados<br>(Sprint 2)   |**US-01 (3 point)**<br>Visualizar Inicio de registro:Como Usuario Quiero poder crear mi usuario Para acceder al servicio de carpooling. <br>**US-02 (3 points)**<br>Seleccionar planes de servicio:Como Usuario Quiero seleccionar un plan de servicio Para adquirir los beneficios ofrecidos.<br>**US-03 (5 points)**<br>Realizar pago del plan: Como Usuario Quiero realizar el pago del plan seleccionado Para activar los beneficios ofrecidos.<br>**US-08 (3 points)**<br>VFiltrar viajes disponibles:Como Usuario Quiero poder filtrar los viajes disponibles Para encontrar opciones que se ajusten a mis preferencias.<br>**US-07 (5 points)**<br>Brindar calificaciones:Como Usuario Quiero brindar calificaciones a los conductores designados Para mejorar la experiencia de otros usuarios.<br>**US-09 (3 points)**<br>Ver historial de reservas de viaje: Como Usuario Quiero poder ver mi historial de reservas de viaje Para tener un registro de mis viajes anteriores y cancelaciones.<br>**US-04 (3 points)**<br>Verificar identidad del conductor:Como Usuario Quiero verificar la identidad del conductor Para garantizar mi seguridad durante el viaje.<br>**US-05 (3 points)**<br>Visualizar ruta y detalles del viaje:Como Usuario Quiero ver la ruta y los detalles del viaje Para prepararme adecuadamente y saber qué esperar.<br>**US-06 (8 points)** <br>Establecer Ruta y Horario de viaje: Como Usuario Quiero establecer la ruta y el horario de mi viaje Para planificar y compartir adecuadamente mi viaje.|
+|Goals to achive|**Meta principal**<br> Desarrollar el Frontend Web Application de nuestro proyecto UniRider, el cual cumpla con ser interactico para los usuarios.<br>**Metas especificas**<br> <li>Diseño del formulario de registro y pagina principal </li> <li>Implementacion de la pagina de planes de servicio </li> <li>Integracion de un proceso de compra el cual pida datos esenciales para el proceso </li> <li>Diseño y muestra de la identidad del conductor </li><li>Implementacion del acceso a detalles del viaje y ver las rutas </li> <li>Implemenacion de un proceso que permita establecer una ruta y horario del viaje del usuario </li> <li>Poder filtrar viajes disponibles </li> <li>Implementacion de la pagina de historial de reservas </li>|
+| Sprint 2 Velocity                |  36 points|
+| Sum of Story Points              |  36 points|
+
+#### [**5.2.2.2. Sprint Backlog 2.**](#sprint-backlog-2)
+</table>
+  <table border="1">
+  <tr>
+    <th>ID</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / To-Review / Done)</th>
+  </tr>
+  <tr>
+    <td rowspan="3"> 1</td>
+    <td rowspan="3">US01:Visualizar el inicio de registro</td>
+    <td>1.1</td>
+    <td>Diseño del formulario de registro</td>
+    <td>Diseñar la interfaz del fomulario de registro de usuario</td>
+    <td> 8 hours</td>
+    <td>Angel</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>1.2</td>
+    <td>Desarrollo del formulario de registro</td>
+    <td>Desarrollar la logica para el formulario de registro de usuario</td>
+    <td> 12 hours</td>
+    <td>Angel</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>1.3</td>
+    <td>Diseño de la pagina principal o Menu de incio</td>
+    <td>Diseñar la interfaz de usuario cuando se encuentre en el menu principal de la web aplication</td>
+    <td> 8 hours</td>
+    <td>Ely Cortez</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td rowspan="3"> 2 </td>
+    <td rowspan="3">US02:Visualizar y seleccionar planes de servicio</td>
+    <td>2.1</td>
+    <td>Diseño de la pagina de visualización de planes de servicio</td>
+    <td>Diseñar la interfaz de usuario para la visualización de planes de servicio</td>
+    <td> 10 hours</td>
+    <td>Ely Cortez</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>2.2</td>
+    <td>Diseño de la pagina de selección de plan de servicio</td>
+    <td>Diseñar la interfaz de usuario cuando selecciona la opcion de plan de servicio</td>
+    <td> 10 hours</td>
+    <td>Eric</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>2.3</td>
+    <td>Implementación de la funcionalidad de seleccion de plan de servicio</td>
+    <td>Desarrollar la logica para seleccionar un plan de servicio</td>
+    <td> 10 hours</td>
+    <td>Eric</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td rowspan="2"> 3 </td>
+    <td rowspan="2">US03:Diseño de la pagina de pago de plan de servicio</td>
+    <td>3.1</td>
+    <td>Diseño de la pagina de pago de plan de servicio</td>
+    <td>Diseñar la interfaz de usuario para realizar el pago del plan se servicio</td>
+    <td> 8 hours</td>
+    <td> Gustavo </td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>3.2</td>
+    <td>Implementación de la funcionalidad de pago del plan de servicio</td>
+    <td>Desarrollar la lógica para procesar el pago del plan de servicio</td>
+    <td> 12 hours</td>
+    <td> Eric</td>
+    <td>To-do</td>
+  </tr>
+<tr>
+    <td rowspan="2"> 4 </td>
+    <td rowspan="2">US04:Verificar la identidad del conductor</td>
+    <td>4.1</td>
+    <td>Diseño de la pagina de verificación de identidad del condcutor</td>
+    <td>Diseñar la interfaz de usuario para verificar la identidad del conductor</td>
+    <td> 6 hours</td>
+    <td> Eric </td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>4.2</td>
+    <td>Implementación de la funcionalidad de verificación de identidad del conductor</td>
+    <td>Desarrollar la logica para verificar la identidad del conductor</td>
+    <td> 10 hours</td>
+    <td> Eric   </td>
+    <td>To do</td>
+  </tr>  
+<tr>
+    <td rowspan="2"> 5 </td>
+    <td rowspan="2">US05:Visualizar ruta y detalles del viaje</td>
+    <td>5.1</td>
+    <td>Diseño de la pagina de visualización de ruta y detalles del viaje</td>
+    <td>Diseñar la interfaz de usuario para mostrar la ruta y los detalles del viaje</td>
+    <td> 6 hours</td>
+    <td> Harold </td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>5.2</td>
+    <td>Implementación de la funcionalidad de visualización de ruta y detalles del viaje</td>
+    <td>Desarrollar la lógica para mostrar la ruta y los detalles del viaje</td>
+    <td> 8 hours</td>
+    <td> Harold   </td>
+    <td>To-do</td>
+  </tr>
+<tr>
+    <td rowspan="2"> 6 </td>
+    <td rowspan="2">US06:Establecer ruta y horario del viaje</td>
+    <td>6.1</td>
+    <td>Diseño de la pagina de establecimiento de ruta y horario de viaje</td>
+    <td>Diseñar la interfaz de usuario para establecer la ruta y el horario de viaje</td>
+    <td> 8 hours</td>
+    <td> Angel </td>
+    <td>To-do</td>
+  </tr>
+   <tr>
+    <td>6.2</td>
+    <td>Implementacion de la funcionalidad de establecimiento de ruta y horario de viaje</td>
+    <td>Desarrollar la logica para establecer los parametros solicitados</td>
+    <td> 10 hours</td>
+    <td> Angel  </td>
+    <td>To-do</td>
+  </tr> 
+<tr>
+    <td rowspan="2"> 7 </td>
+    <td rowspan="2">US07:Brindar calificaciones</td>
+    <td>7.1</td>
+    <td>Diseño de la pagina de calificacion de conductores</td>
+    <td>Diseñar la interfaz de usuario para calificar a los conductores</td>
+    <td> 8 hours</td>
+    <td> Harold </td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>7.2</td>
+    <td>Implementacion de la funcionalidad de calificación de conductor</td>
+    <td>Desarrollar la lógica para calificar a los conductores</td>
+    <td> 12 hours</td>
+    <td> Harold   </td>
+    <td>To do</td>
+  </tr> 
+<tr>
+    <td rowspan="2"> 8 </td>
+    <td rowspan="2">US08:Filtrar viajes disponibless</td>
+    <td>8.1</td>
+    <td>Diseño de la pagina de filtrado de viajes disponibles</td>
+    <td>Desarrollar la lógica para filtrar los viajes disponibles</td>
+    <td> 9 hours</td>
+    <td> Ely Cortez  </td>
+    <td>To-do</td>
+  </tr>
+   <tr>
+    <td>7.2</td>
+    <td>Implementación de la funcionalidad de filtrado de viajes disponibles</td>
+    <td>Desarrollar los parametros solicitados</td>
+    <td> 10 hours</td>
+    <td> Ely Cortez  </td>
+    <td>To-do</td>
+  </tr> 
+<tr>
+    <td rowspan="2"> 9 </td>
+    <td rowspan="2">US09:Ver historial de reservas de viaje</td>
+    <td>9.1</td>
+    <td>Diseño de la pagina de visualización del historial de reservas de viaje</td>
+    <td>Diseñar la interfaz de usuario para ver el historial de reservas de viaje</td>
+    <td> 10 hours</td>
+    <td> Gustavo  </td>
+    <td> To do </td>
+  </tr>
+   <tr>
+    <td>9.2</td>
+    <td>Implementación de la funcionalidad de visualizacion del historial de reservas de viaje</td>
+    <td>Desarrollar la logica que permita mostrar el historial de reservas</td>
+    <td> 10 hours</td>
+    <td> Gustavo   </td>
+    <td>To do</td>
+  </tr> 
+</table>
+
+#### [**5.2.2.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
+
+| Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| Fronte-end |feature/Front-end|8fe57a0| feat:i update the toolbar | -| 28/04/2024         |
+| Fronte-end |feature/Front-end|6689f05| feat(comments):i update the comment component | -| 28/04/2024|
+| Fronte-end |feature/Front-end|7638b30| feat:add page maps & comment | -| 28/04/2024|
+| Fronte-end |feature/Front-end|1bedae2| feat:add login but no css| -| 28/04/2024|
+| Fronte-end |feature/Front-end|69d6513| feat:add page plans | -|27/04/2024|
+| Fronte-end |feature/Front-end|07fcffa| feat:plans table | -|27/04/2024|
+
+
+#### [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-for-sprint-review)
+
+Para la entrega del sprint 2 se intento alcanzar el desarrollo del diseño, implementacion y despliegue de la primera version del Frontend. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro diseño de Frontend.
+
+#### [**5.2.2.5. Execution Evidence for Sprint Review 2.**](#execution-evidence-for-sprint-review)
+
+En este Sprint(Sprint 2), se logro desarrollar el frontend web application del proyecto UniRider, el cual cuenta con el proposito de ser un producto intuitivo y que pemita cubrir el proposito de brindar un servicio de carpooling beneficioso para estudiantes.<br>
+URL video evidencia implementación del sprint:<br>
+![Evidence](images/evidenciaVideo.jpeg)
+Link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EcSQ2LNcUvhNs43PwiJVqX0BK14400duZZWK3Fb18Q6oZw?e=fh2ijx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Evidencia de implementación por cada US#**<br>
+**US01:Visualizar el inicio de registro**<br>
+Como Usuario Quiero poder crear mi usuario Para acceder al servicio de carpooling.<br>
+![US01](images/FrontEnd1.jpeg)<br>
+**US02:Visualizar y seleccionar planes de servicio**<br>
+Como Usuario Quiero seleccionar un plan de servicio Para adquirir los beneficios ofrecidos.<br>
+![US04](images/FrontEnd4.jpeg)<br>
+**US03:Diseño de la pagina de pago de plan de servicio**<br>
+Como Usuario Quiero realizar el pago del plan seleccionado Para activar los beneficios ofrecidos.<br>
+![US05](images/FrontEnd5.jpeg)<br>
+**US04:Verificar la identidad del conductor**<br>
+Como Usuario Quiero verificar la identidad del conductor Para garantizar mi seguridad durante el viaje<br>
+![US06](images/FrontEnd6.jpeg)<<br>
+**US05:Visualizar ruta y detalles del viaje**<br>
+Como Usuario Quiero ver la ruta y los detalles del viaje Para prepararme adecuadamente y saber qué esperar<br>
+![US06](images/FrontEnd6.jpeg)<br>
+**US07:Brindar calificaciones**<br>
+Como Usuario Quiero brindar calificaciones a los conductores designados Para mejorar la experiencia de otros usuarios.<br>
+![US06](images/FrontEnd7.jpeg)<br>
+
+#### [**5.2.2.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
+
+Por el momento no tenemos evidencia de la documentación de nuestros servicios,debido a ser el segundo sprint en donde hemos trabajado unicamente en el apartado del Front-end.
+
+#### [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
+En este Sprint (Sprint 2), se logró desarrollar el forntend web application del proyecto UniRider, el cual cuenta con el proposito de ser un producto intutivo y que permite cubrir el proposito de brindar un servicio de carpooling beneficioso para estudiantes.<br>
+En cuanto al Deployment de este producto para el Sprint 2, se desplegó nuestro Frontend mediante FireBase<br>
+[Evidencias](https://uniridertb1.web.app/)
+
+#### [**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
+
+**En FrontEnd Web Application**<br>
+Durante el desarrollo de este sprint 2, todos los integrantes de UniRider colaboramos de manera activa y continua para la elaboración de las task correspondientes.<br> 
+Mostramos la evidencia de los avances:<br>
+
+
+![Evidenciateam](images/evidenciaCommits1.png)
+![Evidenciateam](images/evidenciaCommits2.jpeg)
+![Evidenciateam](images/evidenciaCommits3.png)
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
@@ -1407,4 +1714,13 @@ La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental
 
 3. Municipalidad Metropolitana de Lima. (2023). *Informe anual sobre el estado del transporte público en Lima*. Lima, Perú: Autor.
 
+4. Flores Martos, C. Y., & Gonzales Otiniano, J. E. (2018). Efecto de la implementación del aplicativo Carpooling, bajo la norma ISO 9126, en la economía de estudiantes universitarios de Cajamarca.
 
+5. Amaro Meza, R. D. (2019). Aplicación carpooling para el transporte de personas que trabajan en el Centro Empresarial de San Isidro.]
+
+6. Flores Martos, C. Y., & Gonzales Otiniano, J. E. (2018). Efecto de la implementación del aplicativo Carpooling, bajo la norma ISO 9126, en la economía de estudiantes universitarios de Cajamarca.
+
+7. Valdez Fabian, I. K. (2023). Gestión de comunicación del proyecto de responsabilidad social Facilito de Osinergmin en Lima Metropolitana.
+
+8. Jáuregui Mena, G. M. ¿ La culpa es solo del conductor?: Un análisis de la responsabilidad de las plataformas digitales frente al consumidor de taxi por aplicativo en el Perú.
+   
