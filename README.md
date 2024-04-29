@@ -76,7 +76,7 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 |Eric Agama|Capitulo 4: Style Guidelines,Web applications UX/UI Design,Web Application Prototyping |
 |Luis Anampa|Capitulo 1: Segmentos Objetivos<br>Capitulo 2: Competidores,Entrevistas,needfinding<br> Capitulo 5: Sprint Planning/Baclokg 1  |
 
-![TB!](images/Captura.png)
+![TB!](images/Captura.PNG)
 
 # Student Outcome
 
