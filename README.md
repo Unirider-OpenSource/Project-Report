@@ -1634,16 +1634,12 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
 
 | Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
 | -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| Fronte-end |feature/index.html|759cc14| feat: | -| 10/04/2024         |
-| Fronte-end |feature/index.html|| feat:  | -| 10/04/2024|
-| Fronte-end |feature/index.html|| feat: | -| 10/04/2024|
-| Fronte-end |feature/index.html|| feat: | -| 10/04/2024|
-| Fronte-end |feature/index.html|| feat: | -|10/04/2024|
-| Fronte-end |feature/index.html|| Feat: | -|10/04/2024|
-| Fronte-end |feature/index.html|| feat: | -|10/04/2024|
-| Fronte-end |feature/index.html||feat: | -|10/04/2024|
-| Fronte-end |feature/index.html|| feat: | -|10/04/2024|
-| Fronte-end |feature/index.html|| feat: | -|10/04/2024|
+| Fronte-end |feature/Front-end|8fe57a0| feat:i update the toolbar | -| 28/04/2024         |
+| Fronte-end |feature/Front-end|6689f05| feat(comments):i update the comment component | -| 28/04/2024|
+| Fronte-end |feature/Front-end|7638b30| feat:add page maps & comment | -| 28/04/2024|
+| Fronte-end |feature/Front-end|1bedae2| feat:add login but no css| -| 28/04/2024|
+| Fronte-end |feature/Front-end|69d6513| feat:add page plans | -|27/04/2024|
+| Fronte-end |feature/Front-end|07fcffa| feat:plans table | -|27/04/2024|
 
 
 #### [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-for-sprint-review)
