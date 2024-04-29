@@ -92,7 +92,7 @@ Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguie
 |Gustavo Pardo||
 |Ely Cortez ||
 |Harold Mayta ||
-|Eric Agama||
+|Eric Agama|Correciones al documento<br> execution evidence|
 |Luis Anampa||
 
 <!-- ![TB!](images/Captura.PNG) -->
