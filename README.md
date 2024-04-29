@@ -1613,6 +1613,40 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
 | Fronte-end |feature/index.html|| feat: | -|10/04/2024|
 | Fronte-end |feature/index.html|| feat: | -|10/04/2024|
 
+
+#### [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-for-sprint-review)
+
+Para la entrega del sprint 2 se intento alcanzar el desarrollo del diseño, implementacion y despliegue de la primera version del Frontend. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro diseño de Frontend.
+
+#### [**5.2.2.5. Execution Evidence for Sprint Review 2.**](#execution-evidence-for-sprint-review)
+
+En este Sprint(Sprint 2), se logro desarrollar el frontend web application del proyecto UniRider, el cual cuenta con el proposito de ser un producto intuitivo y que pemita cubrir el proposito de brindar un servicio de carpooling beneficioso para estudiantes.<br>
+URL video evidencia implementación del sprint:<br>
+//LINK<br>
+//Imagen<br>
+
+**Evidencia de implementación por cada US#**<br>
+**US01:Visualizar el inicio de registro**<br>
+Como Usuario Quiero poder crear mi usuario Para acceder al servicio de carpooling.<br>
+//imagen<br>
+**US02:Visualizar y seleccionar planes de servicio**<br>
+Como Usuario Quiero seleccionar un plan de servicio Para adquirir los beneficios ofrecidos.<br>
+//imagen<br>
+**US03:Diseño de la pagina de pago de plan de servicio**<br>
+Como Usuario Quiero realizar el pago del plan seleccionado Para activar los beneficios ofrecidos.<br>
+//imagen<br>
+**US04:Verificar la identidad del conductor**<br>
+Como Usuario Quiero verificar la identidad del conductor Para garantizar mi seguridad durante el viaje<br>
+//imagen<br>
+**US05:Visualizar ruta y detalles del viaje**<br>
+Como Usuario Quiero ver la ruta y los detalles del viaje Para prepararme adecuadamente y saber qué esperar<br>
+//imagen<br>
+**US07:Brindar calificaciones**<br>
+Como Usuario Quiero brindar calificaciones a los conductores designados Para mejorar la experiencia de otros usuarios.<br>
+//imagen<br>
+**US09:Ver historial de reservas de viaje**<br>
+Como Usuario Quiero poder ver mi historial de reservas de viaje Para tener un registro de mis viajes anteriores y cancelaciones.<br>
+//imagen<br>
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
 La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental en el desarrollo y avance del proyecto. La fluidez en el intercambio de ideas durante las discusiones orales ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará siendo promovido para sostener el progreso y la cohesión grupal. Por otro lado, la comunicación escrita ha desempeñado un papel crucial en la documentación del progreso del proyecto y en la clarificación de los entregables. Mantener un estilo claro y conciso en la comunicación escrita seguirá siendo prioritario para asegurar la eficacia y la calidad del trabajo realizado. En conjunto, tanto la comunicación oral como la escrita se complementan para facilitar un ambiente de trabajo productivo y colaborativo, donde las ideas fluyen libremente y los objetivos del proyecto se alcanzan de manera eficiente.
