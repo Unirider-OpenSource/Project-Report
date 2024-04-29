@@ -62,7 +62,7 @@
 |V1.0|10/04/2024|Gustavo<br>Luis<br>Eric <br> Harold<br> Ely Cortez|Finalización del entregable TB1|
 
 **Project Report Collaboration Insights**
-URL del repositorio de GitHub de la organización: https://github.com/OpenUniRider
+URL del repositorio de GitHub de la organización: [https://github.com/OpenUniRider](https://github.com/Unirider-OpenSource/Project-Report)
 
 _TB1_
 
@@ -75,6 +75,8 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 |Harold Mayta |Capitulo 2: Entrevistas <br> Capitulo 4: Domain Driven SA - Database Design<br> Capitulo 5: Software Configuration Management |
 |Eric Agama|Capitulo 4: Style Guidelines,Web applications UX/UI Design,Web Application Prototyping |
 |Luis Anampa|Capitulo 1: Segmentos Objetivos<br>Capitulo 2: Competidores,Entrevistas,needfinding<br> Capitulo 5: Sprint Planning/Baclokg 1  |
+
+![TB!](images/Captura.png)
 
 # Student Outcome
 
