@@ -1509,7 +1509,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>Desarrollar la logica para seleccionar un plan de servicio</td>
     <td> 10 hours</td>
     <td>Eric</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
 <tr>
     <td rowspan="2"> 3 </td>
@@ -1545,7 +1545,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>Desarrollar la logica para verificar la identidad del conductor</td>
     <td> 10 hours</td>
     <td> Eric   </td>
-    <td>In process</td>
+    <td>To do</td>
   </tr>  
 <tr>
     <td rowspan="2"> 5 </td>
@@ -1599,7 +1599,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>Desarrollar la lógica para calificar a los conductores</td>
     <td> 12 hours</td>
     <td> Harold   </td>
-    <td>In process</td>
+    <td>To do</td>
   </tr> 
 <tr>
     <td rowspan="2"> 8 </td>
@@ -1627,7 +1627,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>Diseñar la interfaz de usuario para ver el historial de reservas de viaje</td>
     <td> 10 hours</td>
     <td> Gustavo  </td>
-    <td> Done </td>
+    <td> To do </td>
   </tr>
    <tr>
     <td>9.2</td>
@@ -1635,7 +1635,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>Desarrollar la logica que permita mostrar el historial de reservas</td>
     <td> 10 hours</td>
     <td> Gustavo   </td>
-    <td>In process</td>
+    <td>To do</td>
   </tr> 
 </table>
 
