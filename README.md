@@ -184,14 +184,28 @@ Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguie
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
     - [**5.2.1. Sprint 2.**](#521-sprint-2)
-      - [**5.2.1.1. Sprint Planning 1.**](#5211-sprint-planning-2)
-      - [**5.2.1.2. Sprint Backlog 1.**](#5212-sprint-backlog-2)
+      - [**5.2.1.1. Sprint Planning 2.**](#5211-sprint-planning-2)
+      - [**5.2.1.2. Sprint Backlog 2.**](#5212-sprint-backlog-2)
       - [**5.2.1.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
       - [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
       - [**5.2.1.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
       - [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+    - [**5.2.3. Sprint 3.**](#521-sprint-3)
+      - [**5.2.3.1. Sprint Planning 3.**](#5211-sprint-planning-3)
+      - [**5.2.3.2. Sprint Backlog 3.**](#5212-sprint-backlog-3)
+      - [**5.2.3.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
+      - [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
+      - [**5.2.3.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
+      - [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
+      - [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
+      - [**5.2.3.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+ - [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
+    - [**5.3.1. Diseño de Entrevistas.**](#521-Interview-Design.)
+    - [**5.3.2.  Registro de Entrevistas.**](#5211-Interview-Record.)
+    - [**5.3.3.  Evaluaciones según heurísticas.**](#5211-Evaluations-according-to-heuristics.)
+- [**5.4. Video About-the-Product. **](#52-Video-About-the-Product. )
 - [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 - [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 
@@ -1701,6 +1715,24 @@ Mostramos la evidencia de los avances:<br>
 ![Evidenciateam](images/evidenciaCommits1.png)
 ![Evidenciateam](images/evidenciaCommits2.jpeg)
 ![Evidenciateam](images/evidenciaCommits3.png)
+
+### [**5.2.3. Sprint 3.**](#sprint-3)
+#### [**5.2.3.1 Sprint Planning 3.**](#sprint-planning-3)
+| Sprint 2                         | Desarrollo del Frontend.|
+| -------------------------------- | ----------------------------------------------------------- |
+| Sprint Planning Background                                                                     |
+| Date                             | |
+| Time                             | |
+| Location                         | |
+| Prepared By                      | |
+| Attendees (to planning meeting) |<li>Pardo Zapata, Gustavo Adolfo </li> <li>Anampa Lavado, Luis Angel </li>|
+|Resumen|Se diseña e implementa el apartado de backend. |
+|US Y metas para este sprint|
+| US abarcados<br>(Sprint 3)   ||
+|Goals to achive||
+| Sprint 2 Velocity                |  |
+| Sum of Story Points              |  |
+
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
