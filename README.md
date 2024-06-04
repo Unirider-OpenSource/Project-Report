@@ -1764,12 +1764,22 @@ Mostramos la evidencia de los avances:<br>
 
 ## [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
 
+En la parte de la entrevista de validación de nuestro proyecto, nos centramos en el refinamiento.
+Optimización del servicio de carpooling para estudiantes universitarios. Esta fase del proyecto incluyen nuestros principales usuarios: Estudiante con y sin vehiculo privado. Lo haremos a través de entrevistas estructuradas.Lo anterior garantiza que el sitio no sólo cumple con los estándares Aunque es técnico, también resuena con la dinámica operativa y las expectativas del usuario al usar la aplicación. A continuación se enumera los objetivos del usuario necesarios para completar la entrevista:
 
 ### [**5.3.1. Diseño de Entrevistas.**](#521-Interview-Design.)
- 
+
+Dentro de esta sección se detallara los bojetivos de usuario especificos que orientan nuestras entrevistas. Estos User goals seran cruciales para garantizar que la plataforma que brindamos cumpl con las exigencias de los usuarios acerca del servicio de carpooling. A continuación se detallara los User goals seleccionados.<br>
+
+**User Goal**<br>
+**User Goal**<br>
+**User Goal**<br>
+**User Goal**<br>
+
     
 ### [**5.3.2.  Registro de Entrevistas.**](#5211-Interview-Record.)
- 
+
+
     
 ### [**5.3.3.  Evaluaciones según heurísticas.**](#5211-Evaluations-according-to-heuristics.)
  
