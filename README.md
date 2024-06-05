@@ -1784,6 +1784,8 @@ Mostramos la evidencia de los avances:<br>
 
 #### [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
 
+El objetivo principal del sprint 3 fue lograr el desarrollo del diseño, implementación y despliegue de la primera versión del Backend.
+Durante este sprint, la sección de "Testing" se centró en la implementación de los archivos feature que contienen nuestro diseño de Frontend.
 
 #### [**5.2.3.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
 
