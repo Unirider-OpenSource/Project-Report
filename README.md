@@ -1703,7 +1703,7 @@ Por el momento no tenemos evidencia de la documentación de nuestros servicios,d
 #### [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 En este Sprint (Sprint 2), se logró desarrollar el forntend web application del proyecto UniRider, el cual cuenta con el proposito de ser un producto intutivo y que permite cubrir el proposito de brindar un servicio de carpooling beneficioso para estudiantes.<br>
 En cuanto al Deployment de este producto para el Sprint 2, se desplegó nuestro Frontend mediante FireBase<br>
-[Evidencias](https://uniridertb1.web.app/)
+[[Evidencias](https://uniridertb1.web.app/)](https://deploytb2opensource.web.app/)
 
 #### [**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
