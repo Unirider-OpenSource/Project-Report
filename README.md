@@ -1733,7 +1733,41 @@ Mostramos la evidencia de los avances:<br>
 |Goals to achive|**Meta principal** <br><li> Desarrollar el Backend de UniRider, implementando la primera versión del Web API, para poder gestionar la lógica de nuestro negocio y manejar las operaciones del servidor. <br> <br>**Metas específicas:** <br> <li>Completar el desarrollo de los endpoints principales para la gestión de usuarios.</li><br><li>Implementar la autenticación .</li>|
 | Sprint 3 Velocity                | 15 puntos |
 | Sum of Story Points              | 15 puntos |
-
+#### [**5.2.3.2. Sprint Backlog 3.**](#5212-sprint-backlog-3)
+<table border="1">
+  <tr>
+    <th>ID</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / To-Review / Done)</th>
+  </tr>
+  <tr>
+    <td>TS01</td>
+    <td>Agregar estudiante a través de la API</td>
+    <td>Como Developer Quiero poder agregar un estudiante a través de la API Para que esté disponible para construir funcionalidades para mis aplicaciones.</td>
+    <td>4 hour</td>
+    <td>Gustavo Adolfo Pardo Zapata</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Implementar autenticación de dos factores</td>
+    <td>Como Developer Quiero implementar autenticación para aumentar la seguridad de las cuentas de usuario.</td>
+    <td>6 hour </td>
+    <td>Gustavo Adolfo Pardo Zapata</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Gestión de roles de usuario	</td>
+    <td>Como Developer Quiero poder asignar roles de "Estudiante", "Pasajero" y "Conductor" a los usuarios Para gestionar sus permisos y funcionalidades en la plataforma.</td>
+    <td>6 hour </td>
+    <td>Gustavo Adolfo Pardo Zapata</td>
+    <td>To-do</td>
+  </tr>
+</table>
 
 
 #### [**5.2.3.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
