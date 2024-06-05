@@ -1793,8 +1793,25 @@ Mostramos la evidencia de los avances:<br>
 
 #### [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
 
+En cuanto al Deployment de este producto para el Sprint 4, se desplegó nuestro Frontend mediante Firebase y el Backend mediante Microsoft Azure y Sprint Boot
+
+![Evidencia](images/azure.jpg)
+
 
 #### [**5.2.3.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+
+Para la realización de los commits de nuestro tercer Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. 
+
+**Commits del repositorio del BackEnd** 
+
+Link: https://github.com/Unirider-OpenSource/BackEnd/commits/master/
+
+![github](images/BackEnd.png)
+
+**Commits del repositorio del Informe**
+
+Link:https://github.com/Unirider-OpenSource/Project-Report/commits/main/
+![github](images/Informe.png)
 
 
 ## [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
