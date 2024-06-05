@@ -899,7 +899,7 @@ En esta sección se resume la información recopilada, se realiza dos tablas con
 |6|US09|Ver historial de reservas de viaje|**Como** Usuario **Quiero** poder ver mi historial de reservas de viaje **Para** tener un registro de mis viajes anteriores y cancelaciones|3|
 |7|US04|Verificar identidad del conductor|**Como** Usuario **Quiero** verificar la identidad del conductor **Para** garantizar mi seguridad durante el viaje|3|
 |8|US05|Visualizar ruta y detalles del viaje|**Como** Usuario **Quiero** ver la ruta y los detalles del viaje **Para** prepararme adecuadamente y saber qué esperar|3|
-|9|US06|Establecer Ruta y Horario de viaje|**Como** Usuario **Quiero** establecer la ruta y el horario de mi viaje **Para** planificar y compartir adecuadamente mi viaje|8|
+|9|US06|Establecer Ruta y Horario de viaje|**Como** Usuario **Quiero** establecer la ruta y el horario de mi viaje **Para** planificar y compartir adecuadamente mi viaje|5|
 |10|US01|Registro de usuario|**Como** Usuario **Quiero** poder crear mi usuario **Para** acceder al servicio de carpooling|5|
 |11|US02|Búsqueda de Viaje Disponibles|**Como** Usuario **Quiero** buscar viajes disponibles **Para** poder planificar mis desplazamientos|5|
 |12|US03|Reserva de Viaje|**Como** Usuario **Quiero** poder reservar un asiento en el viaje disponible **Para** garantizar mi lugar.|5|
@@ -1437,7 +1437,7 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
 
-https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
+https://github.com/Unirider-OpenSource/LandingPage.github.io/commits/develop
 
 ![github](images/github.png)
 
@@ -1719,9 +1719,9 @@ Mostramos la evidencia de los avances:<br>
 
 ### [**5.2.3. Sprint 3.**](#sprint-3)
 #### [**5.2.3.1 Sprint Planning 3.**](#sprint-planning-3)
-| Sprint 2                         | Desarrollo del BackEnd.|
+| Sprint 3                         | Desarrollo del BackEnd.|
 | -------------------------------- | ----------------------------------------------------------- |
-| Sprint Planning Background    | Velocity:  puntos |
+| Sprint Planning Background    | Velocity:  15 puntos |
 | Date                             |03/06/2024 |
 | Time                             | 22:00 horas (GMT-5)|
 | Location                         | Reuniòn realizada mediante Discord|
@@ -1729,215 +1729,16 @@ Mostramos la evidencia de los avances:<br>
 | Attendees (to planning meeting) |<li>Pardo Zapata, Gustavo Adolfo </li> <li>Anampa Lavado, Luis Angel </li>|
 |Resumen|Se diseña e implementa el apartado de backend. |
 |US Y metas para este sprint|
-| US abarcados<br>(Sprint 3)   ||
-|Goals to achive||
-| Sprint 2 Velocity                |  |
-| Sum of Story Points              |  |
+| US abarcados<br>(Sprint 3)   |<li>TS01: Como Developer Quiero poder agregar un estudiante a través de la API Para que esté disponible para construir funcionalidades para mis aplicaciones. (5 puntos)</li><br><li>TS02: Como Developer Quiero implementar autenticación para aumentar la seguridad de las cuentas de usuario. (5 puntos)</li><br><li>TS02: Como Developer Quiero poder asignar roles de "Estudiante", "Pasajero" y "Conductor" a los usuarios Para gestionar sus permisos y funcionalidades en la plataforma (5 puntos)|
+|Goals to achive|**Meta principal** <br><li> Desarrollar el Backend de UniRider, implementando la primera versión del Web API, para poder gestionar la lógica de nuestro negocio y manejar las operaciones del servidor. <br> <br>**Metas específicas:** <br> <li>Completar el desarrollo de los endpoints principales para la gestión de usuarios.</li><br><li>Implementar la autenticación .</li>|
+| Sprint 3 Velocity                | 15 puntos |
+| Sum of Story Points              | 15 puntos |
 
-#### [**5.2.3.2. Sprint Backlog 3.**](#5212-sprint-backlog-3)
 
-</table>
-  <table border="1">
-  <tr>
-    <th>ID</th>
-    <th>Title</th>
-    <th>Id</th>
-    <th>Title</th>
-    <th>Description</th>
-    <th>Estimation (Hours)</th>
-    <th>Assigned To</th>
-    <th>Status (To-do / In-Process / To-Review / Done)</th>
-  </tr>
-  <tr>
-    <td rowspan="3"> </td>
-    <td rowspan="3"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
-  </tr>
-<tr>
-    <td rowspan="3"> </td>
-    <td rowspan="3"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
-  </tr>
-   <tr>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td> </td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
-  </tr>
-<tr>
-    <td rowspan="2">  </td>
-    <td rowspan="2"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td>  </td>
-    <td></td>
-  </tr>
-   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td> </td>
-    <td></td>
-  </tr>
-<tr>
-    <td rowspan="2">  </td>
-    <td rowspan="2"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td>  </td>
-    <td></td>
-  </tr>
-   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td>   </td>
-    <td></td>
-  </tr>  
-<tr>
-    <td rowspan="2">  </td>
-    <td rowspan="2"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td>  </td>
-    <td></td>
-  </tr>
-   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td>    </td>
-    <td></td>
-  </tr>
-<tr>
-    <td rowspan="2">  </td>
-    <td rowspan="2"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td> </td>
-    <td></td>
-  </tr>
-   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td>  </td>
-    <td></td>
-  </tr> 
-<tr>
-    <td rowspan="2">  </td>
-    <td rowspan="2"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td>  </td>
-    <td></td>
-  </tr>
-   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td>  </td>
-    <td></td>
-  </tr> 
-<tr>
-    <td rowspan="2"></td>
-    <td rowspan="2"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td> </td>
-    <td></td>
-  </tr>
-   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td>  </td>
-    <td></td>
-  </tr> 
-<tr>
-    <td rowspan="2">  </td>
-    <td rowspan="2"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> s</td>
-    <td>  </td>
-    <td>  </td>
-  </tr>
-   <tr>
-    <td></td>
-    <td>                </td>
-    <td></td>
-    <td> </td>
-    <td> </td>
-    <td></td>
-  </tr> 
-</table>
 
 #### [**5.2.3.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
 
-| Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
-| -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| Back-end |feature/Back-end|| | -|         |
-| Back-end |feature/Back-end||  | -| |
-| Back-end |feature/Back-end|| | -||
-| Back-end |feature/Back-end|| | -| |
-| Back-end |feature/Back-end|| | -||
-| Back-end |feature/Back-end|| | -||
+
 
 #### [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
 
