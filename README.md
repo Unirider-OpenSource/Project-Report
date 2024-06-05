@@ -1805,6 +1805,109 @@ Dentro de esta sección se detallara los bojetivos de usuario especificos que or
     
 ### [**5.3.2.  Registro de Entrevistas.**](#5211-Interview-Record.)
 
+Video de las entrevistas:
+
+Realizamos 4 entrevistas dirigidas a nuestros segmentos objetivos, en las cuales
+nuestros entrevistados se dedicaron a navegar por nuestras plataformas web, tanto el
+Landing Page como el Frontend Web Application.
+
+![Evidencia](images/Interviews.jpeg)
+
+
+## **Entrevistado N°1:** Dayana Melina Rojas Sosa
+
+**- Sexo:** Femenino
+
+**- Edad:** 19 años
+
+**- Ubicación en la que vive:** Lima Ate
+
+**Acerca de la entrevista:** Estudiante de la UPC
+
+**- Link:** 
+
+**- Instante en el que inicia:** 
+
+**- Duración:** 
+
+**Resumen:**
+
+
+![Entrevista 1](images/EntrevistaFront1.png)
+
+
+
+
+## **Entrevistado N°2:** Felix Victor Anampa Lavado
+
+**- Sexo:** Masculino
+
+**- Edad:** 25 años
+
+**- Ubicación en la que vive:** Lima Villa Maria del triunfo
+
+**Acerca de la entrevista:** Estudiante de la UPC
+
+**- Link:**
+
+**- Instante en el que inicia:** 
+
+**- Duración:** 
+
+**Resumen:**
+
+
+![Entrevista 2](images/EntrevistaFront2.png)
+
+
+
+## **Entrevistado N°3:** Jhunior Giussepe Taquiro Calderon
+
+**- Sexo:** Masculino
+
+**- Edad:** 20 años
+
+**- Ubicación en la que vive:** Lima Surco
+
+**Acerca de la entrevista:** Estudiante de ingenieria de Software
+
+**- Link:** 
+
+
+**- Instante en el que inicia:** 
+
+**- Duración:** 
+
+**Resumen:**
+
+
+
+![Entrevista 3](images/EntrevistaFront3.png)
+
+
+
+
+## **Entrevistado N°4:** Cristhian Jeaker Araujo Canales
+
+**- Sexo:** Masculino
+
+**- Edad:** 20 años
+
+**- Ubicación en la que vive:** Lima San Juan de Lurigancho
+
+**Acerca de la entrevista:** Estudia ciencia de la computacion en la UPC
+
+**- Link:** 
+
+**- Instante en el que inicia:**  min
+
+**- Duración:**  min
+
+**Resumen:**
+
+
+![Entrevista 4](images/EntrevistaFront4.png)
+
 
     
 ### [**5.3.3.  Evaluaciones según heurísticas.**](#5211-Evaluations-according-to-heuristics.)
