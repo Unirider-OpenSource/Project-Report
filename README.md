@@ -1805,63 +1805,15 @@ Dentro de esta sección se detallara los bojetivos de usuario especificos que or
     
 ### [**5.3.2.  Registro de Entrevistas.**](#5211-Interview-Record.)
 
-Video de las entrevistas:
+Video de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EYr3tAHt4vZDvgqoG3qFTCABLgOhCUSOqraSn7qUNyKgOA?e=6eZItU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Realizamos 4 entrevistas dirigidas a nuestros segmentos objetivos, en las cuales
 nuestros entrevistados se dedicaron a navegar por nuestras plataformas web, tanto el
 Landing Page como el Frontend Web Application.
 
-![Evidencia](images/Interviews.jpeg)
+![Evidencia](images/Interviews.png)
 
-
-## **Entrevistado N°1:** Dayana Melina Rojas Sosa
-
-**- Sexo:** Femenino
-
-**- Edad:** 19 años
-
-**- Ubicación en la que vive:** Lima Ate
-
-**Acerca de la entrevista:** Estudiante de la UPC
-
-**- Link:** 
-
-**- Instante en el que inicia:** 
-
-**- Duración:** 
-
-**Resumen:**
-
-
-![Entrevista 1](images/EntrevistaFront1.png)
-
-
-
-
-## **Entrevistado N°2:** Felix Victor Anampa Lavado
-
-**- Sexo:** Masculino
-
-**- Edad:** 25 años
-
-**- Ubicación en la que vive:** Lima Villa Maria del triunfo
-
-**Acerca de la entrevista:** Estudiante de la UPC
-
-**- Link:**
-
-**- Instante en el que inicia:** 
-
-**- Duración:** 
-
-**Resumen:**
-
-
-![Entrevista 2](images/EntrevistaFront2.png)
-
-
-
-## **Entrevistado N°3:** Jhunior Giussepe Taquiro Calderon
+## **Entrevistado N°1:** Jhunior Giussepe Taquiro Calderon
 
 **- Sexo:** Masculino
 
@@ -1871,23 +1823,26 @@ Landing Page como el Frontend Web Application.
 
 **Acerca de la entrevista:** Estudiante de ingenieria de Software
 
-**- Link:** 
+**- Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EYr3tAHt4vZDvgqoG3qFTCABLgOhCUSOqraSn7qUNyKgOA?e=6eZItU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
-**- Instante en el que inicia:** 
+**- Instante en el que inicia:** 0:15 s
 
-**- Duración:** 
+**- Duración:** 26:34 min
 
 **Resumen:**
 
 
-
-![Entrevista 3](images/EntrevistaFront3.png)
-
+En esta entrevista nos contactamos con Giusseppe, un chico universitario que, después de haberle mostrado la landing page y la aplicación frontend, en general le pareció intuitiva de usar. Giusseppe destacó que la navegación era sencilla y que la interfaz era amigable para el usuario, lo cual facilitaba encontrar la información y funcionalidades necesarias sin mayor esfuerzo.Encontró interesantes diversas secciones que pudo visualizar, como la de los planes de servicio y la funcionalidad de calificar y comentar sobre los conductores. Estas características le parecieron bien diseñadas y útiles para los usuarios.
 
 
 
-## **Entrevistado N°4:** Cristhian Jeaker Araujo Canales
+![Entrevista 3](images/InterviewFront1.png)
+
+
+
+
+## **Entrevistado N°2:** Cristhian Jeaker Araujo Canales
 
 **- Sexo:** Masculino
 
@@ -1897,16 +1852,66 @@ Landing Page como el Frontend Web Application.
 
 **Acerca de la entrevista:** Estudia ciencia de la computacion en la UPC
 
-**- Link:** 
+**- Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EYr3tAHt4vZDvgqoG3qFTCABLgOhCUSOqraSn7qUNyKgOA?e=6eZItU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-**- Instante en el que inicia:**  min
+**- Instante en el que inicia:** 7:15 min
 
-**- Duración:**  min
+**- Duración:**  26:34 min
 
 **Resumen:**
+En esta entrevista nos contactamos con Christian Araujo, un joven estudiante que, después de haberle mostrado la landing page y la aplicación frontend, compartió sus impresiones. Christian también encontró que la aplicación era intuitiva de usar, con una navegación clara y accesible. Christian destacó varias secciones interesantes que pudo explorar, como la sección de historial de reservas y la funcionalidad para filtrar viajes disponibles. Le parecieron bien diseñadas y útiles, especialmente para usuarios que buscan un acceso rápido a la información y opciones específicas.
 
 
-![Entrevista 4](images/EntrevistaFront4.png)
+![Entrevista 4](images/InterviewFront2.png)
+
+## **Entrevistado N°3:** Dayana Melina Rojas Sosa
+
+**- Sexo:** Femenino
+
+**- Edad:** 19 años
+
+**- Ubicación en la que vive:** Lima Ate
+
+**Acerca de la entrevista:** Estudiante de la UPC
+
+**- Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EYr3tAHt4vZDvgqoG3qFTCABLgOhCUSOqraSn7qUNyKgOA?e=6eZItU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**- Instante en el que inicia:** 14:15 min
+
+**- Duración:** 26:34 min
+
+**Resumen:**
+En esta entrevista nos contactamos con Melina Rojas, una joven estudiante que, después de haberle mostrado la landing page y la aplicación frontend, compartió sus impresiones. Melina encontró la aplicación intuitiva de usar, con una navegación clara y accesible, lo cual facilitaba su experiencia de usuario. Melina destacó varias secciones interesantes que pudo explorar, como la funcionalidad de calificar y comentar sobre los conductores y la sección de historial de reservas. Apreciaba la claridad y utilidad de estas funciones. Además, Melina nos proporcionó una mejora importante que considera necesaria para implementar. Sugirió que no sea tan fácil la implementación de una tarjeta de pago y que siempre haya una confirmación antes de agregar o modificar la información de la tarjeta.
+
+![Entrevista 1](images/InterviewFront3.png)
+
+
+
+
+## **Entrevistado N°4:** Oskar Sosa Soto
+
+**- Sexo:** Masculino
+
+**- Edad:** 19 años
+
+**- Ubicación en la que vive:** Lima Villa Maria del triunfo
+
+**Acerca de la entrevista:** Estudiante de la UPC
+
+**- Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EYr3tAHt4vZDvgqoG3qFTCABLgOhCUSOqraSn7qUNyKgOA?e=6eZItU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**- Instante en el que inicia:** 21:33 min
+
+**- Duración:** 26:34 min
+
+**Resumen:**
+En esta entrevista nos contactamos con Oskar Sosa, un joven estudiante que, después de haberle mostrado la landing page y la aplicación frontend, compartió sus impresiones. Oskar encontró la aplicación intuitiva de usar, con una navegación clara y accesible, lo cual facilitaba su experiencia de usuario. Además, Oskar nos proporcionó una mejora importante que considera necesaria para implementar. Señaló que algunas imágenes en la lista de universidades no se podían visualizar correctamente, lo cual afectaba su capacidad para obtener una perspectiva completa y detallada de las opciones disponibles. Oskar sugirió que se corrijan estos errores para mejorar la experiencia del usuario.
+
+![Entrevista 2](images/InterviewFront4.png)
+
+
+
+
 
 
     
