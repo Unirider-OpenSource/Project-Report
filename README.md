@@ -1772,6 +1772,14 @@ Mostramos la evidencia de los avances:<br>
 
 #### [**5.2.3.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
 
+| Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| Back-end |feature/Back-end|922068aebd713585e6f6f8addd40c7b740e3b919|Added Atuthentication | -|   (5/06/204)      |
+| Back-end |feature/Back-end|aa60d6c7cd5a57fc95235f5f4fcc4014b085fdbf| Added User BC/ Not fixed yet | -|(5/06/204)     |
+| Back-end |feature/Back-end|525f2ae11a8e17758b3c0bcf71bbf1e0e94cc9ef|feat(profiles): added profiles bounded context. | -|(4/06/204)    |
+| Back-end |feature/Back-end|871ebc1e58c9348084e267066efb3e772d7f725f| feat(profiles): added profile aggregate.| -| (5/06/204)    |
+| Back-end |feature/Back-end|6dd7db4e2e5eac9f4a0266c40f64d75eae141c70|chore: added shared context. | -|(4/06/204)    |
+| Back-end |feature/Back-end|aa89417acabe99d18675b6a085a542e389d985ba|New proyect| -|(4/06/204)    |
 
 
 #### [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
