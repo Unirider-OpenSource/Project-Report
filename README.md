@@ -1431,7 +1431,7 @@ Este primer Sprint solo trata la implementación del landing page, por lo que no
 
 Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa. 
 
-https://lading-page-deploit.vercel.app/
+[https://lading-page-deploit.vercel.app/](https://landing-page-github-io-develop-bt4jx9c30-angelpro17s-projects.vercel.app/)
 
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
