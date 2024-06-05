@@ -66,7 +66,7 @@
 |V2.0|29/04/2024|Gustavo<br>Luis<br>Eric <br> Harold<br> Ely Cortez|Finalización del Sprint 2|
 
 **Project Report Collaboration Insights**
-URL del repositorio de GitHub de la organización: [https://github.com/OpenUniRider](https://github.com/Unirider-OpenSource/Project-Report)
+URL del repositorio de GitHub de la organización: [https://github.com/Unirider-OpenSource/Project-Report](https://github.com/Unirider-OpenSource)
 
 _TB1_
 
@@ -1284,12 +1284,12 @@ Para este proyecto se optó por escoger el motor de base de datos de MySQL, para
 |Pardo Zapata, Gustavo Adolfo	| U202120347@upc.edu.pe |
 
 **Despliegues**
-URL Landing Page desplegada:
+URL Landing Page desplegada: [LandingPage](https://landing-page-github-io-develop-bt4jx9c30-angelpro17s-projects.vercel.app/)
 
 **Repositorios**
-URL del repositorio de Landing Page:
+URL del repositorio de Landing Page: https://github.com/Unirider-OpenSource/LandingPage.github.io
 
-URL del repositorio del Reporte Final:
+URL del repositorio del Reporte Final: https://github.com/Unirider-OpenSource/Project-Report
 
 **Implementacion de Gitflow**
 
@@ -2010,7 +2010,7 @@ Implementar un modal de confirmación que se muestre después de que el usuario 
 ________________________________________________________________________________________________________________________________________________________
 
 
-#### vPROBLEMA #4:
+#### PROBLEMA #4:
 Claridad en las Opciones de Acceso y Funcionalidad
 
 **Severidad:** 1
