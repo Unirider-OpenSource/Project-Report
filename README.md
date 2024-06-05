@@ -1768,14 +1768,40 @@ En la parte de la entrevista de validación de nuestro proyecto, nos centramos e
 Optimización del servicio de carpooling para estudiantes universitarios. Esta fase del proyecto incluyen nuestros principales usuarios: Estudiante con y sin vehiculo privado. Lo haremos a través de entrevistas estructuradas.Lo anterior garantiza que el sitio no sólo cumple con los estándares Aunque es técnico, también resuena con la dinámica operativa y las expectativas del usuario al usar la aplicación. A continuación se enumera los objetivos del usuario necesarios para completar la entrevista:
 
 ### [**5.3.1. Diseño de Entrevistas.**](#521-Interview-Design.)
+Para esta validación se incluirán los siguientes productos:
+
+# Lading page
+![Evidencia](images/LandingPage.jpg)
+
+# FrontEnd Web Application
+
+![Evidencia](images/FrontEnd3.jpeg)
+
+
+
 
 Dentro de esta sección se detallara los bojetivos de usuario especificos que orientan nuestras entrevistas. Estos User goals seran cruciales para garantizar que la plataforma que brindamos cumpl con las exigencias de los usuarios acerca del servicio de carpooling. A continuación se detallara los User goals seleccionados.<br>
 
-**User Goal**<br>
-**User Goal**<br>
-**User Goal**<br>
-**User Goal**<br>
+**User Goal: Registro de usuario**<br>
+**User Goal: Visualizar planes de servicio**<br>
+**User Goal: Seleccionar plan de servicio**<br>
+**User Goal: Visualizar ruta y detalles del viaje**<br>
+**User Goal: Calificación y Comentario del Conductor**<br>
 
+
+# Preguntas a realizar para ambos Segmentos Objetivos
+
+- ¿Qué opinas sobre la facilidad de uso de nuestros productos?
+
+- ¿Pudiste encontrar la sección de contacto con el startup en ambos productos? ¿Cómo la encontraste?
+  
+- ¿Pudiste acceder al inicio de sesión en nuestra página web de la aplicación? ¿Qué te pareció?
+
+- ¿Pudiste ver los planes de servicios para cada tipo de usuario? ¿Qué te pareció?
+
+- ¿Pudiste utilizar la función de calificación y comentarios para los conductores y los viajes? ¿Qué opinas de esta función?
+
+- ¿Podrías sugerir alguna mejora para alguna sección o función de nuestra tienda?
     
 ### [**5.3.2.  Registro de Entrevistas.**](#5211-Interview-Record.)
 
