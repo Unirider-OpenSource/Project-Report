@@ -1926,7 +1926,7 @@ Usability – Inclusive Design – Information Architecture
 - SECCIÓN : SW58
 - PROFESORES : Todos
 - AUDITOR : UniRider
-- CLIENTE(S) : Dayana Rojas, Giusseppe Taquiri, Christian Araujo, Felix Anampa
+- CLIENTE(S) : Dayana Rojas, Giusseppe Taquiri, Christian Araujo, Oskar Sosa
 
 ____________________________________________________________________________________
 
@@ -2072,6 +2072,10 @@ ________________________________________________________________________________
 
 ## [**5.4. Video About-the-Product.**](#52-Video-About-the-Product. )
 
+Presentamos nuestro Video About the Product para el Sprint 4, el cual busca
+promocionar el producto que el Startup UniRider ha desrrollado.
+
+Video en Microsoft Stream:
 
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
