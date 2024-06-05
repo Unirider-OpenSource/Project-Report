@@ -1479,7 +1479,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>1.1</td>
     <td>Diseño del formulario de registro</td>
     <td>Diseñar la interfaz del fomulario de registro de usuario</td>
-    <td> 8 hours</td>
+    <td> 6 hours</td>
     <td>Angel</td>
     <td>Done</td>
   </tr>
@@ -1487,7 +1487,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>1.2</td>
     <td>Desarrollo del formulario de registro</td>
     <td>Desarrollar la logica para el formulario de registro de usuario</td>
-    <td> 12 hours</td>
+    <td> 4 hours</td>
     <td>Angel</td>
     <td>Done</td>
   </tr>
@@ -1505,7 +1505,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>2.1</td>
     <td>Diseño de la pagina de visualización de planes de servicio</td>
     <td>Diseñar la interfaz de usuario para la visualización de planes de servicio</td>
-    <td> 10 hours</td>
+    <td> 4 hours</td>
     <td>Ely Cortez</td>
     <td>Done</td>
   </tr>
@@ -1513,7 +1513,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>2.2</td>
     <td>Diseño de la pagina de selección de plan de servicio</td>
     <td>Diseñar la interfaz de usuario cuando selecciona la opcion de plan de servicio</td>
-    <td> 10 hours</td>
+    <td> 5 hours</td>
     <td>Eric</td>
     <td>Done</td>
   </tr>
@@ -1521,7 +1521,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>2.3</td>
     <td>Implementación de la funcionalidad de seleccion de plan de servicio</td>
     <td>Desarrollar la logica para seleccionar un plan de servicio</td>
-    <td> 10 hours</td>
+    <td> 7 hours</td>
     <td>Eric</td>
     <td>Done</td>
   </tr>
@@ -1539,7 +1539,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>3.2</td>
     <td>Implementación de la funcionalidad de pago del plan de servicio</td>
     <td>Desarrollar la lógica para procesar el pago del plan de servicio</td>
-    <td> 12 hours</td>
+    <td> 7 hours</td>
     <td> Eric</td>
     <td>To-do</td>
   </tr>
@@ -1557,7 +1557,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>4.2</td>
     <td>Implementación de la funcionalidad de verificación de identidad del conductor</td>
     <td>Desarrollar la logica para verificar la identidad del conductor</td>
-    <td> 10 hours</td>
+    <td> 4 hours</td>
     <td> Eric   </td>
     <td>To do</td>
   </tr>  
@@ -1593,7 +1593,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>6.2</td>
     <td>Implementacion de la funcionalidad de establecimiento de ruta y horario de viaje</td>
     <td>Desarrollar la logica para establecer los parametros solicitados</td>
-    <td> 10 hours</td>
+    <td> 5 hours</td>
     <td> Angel  </td>
     <td>To-do</td>
   </tr> 
@@ -1611,7 +1611,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>7.2</td>
     <td>Implementacion de la funcionalidad de calificación de conductor</td>
     <td>Desarrollar la lógica para calificar a los conductores</td>
-    <td> 12 hours</td>
+    <td> 6 hours</td>
     <td> Harold   </td>
     <td>To do</td>
   </tr> 
@@ -1621,7 +1621,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>8.1</td>
     <td>Diseño de la pagina de filtrado de viajes disponibles</td>
     <td>Desarrollar la lógica para filtrar los viajes disponibles</td>
-    <td> 9 hours</td>
+    <td> 7 hours</td>
     <td> Ely Cortez  </td>
     <td>To-do</td>
   </tr>
@@ -1629,7 +1629,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>7.2</td>
     <td>Implementación de la funcionalidad de filtrado de viajes disponibles</td>
     <td>Desarrollar los parametros solicitados</td>
-    <td> 10 hours</td>
+    <td> 5 hours</td>
     <td> Ely Cortez  </td>
     <td>To-do</td>
   </tr> 
@@ -1639,7 +1639,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>9.1</td>
     <td>Diseño de la pagina de visualización del historial de reservas de viaje</td>
     <td>Diseñar la interfaz de usuario para ver el historial de reservas de viaje</td>
-    <td> 10 hours</td>
+    <td> 8 hours</td>
     <td> Gustavo  </td>
     <td> To do </td>
   </tr>
@@ -1647,7 +1647,7 @@ https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
     <td>9.2</td>
     <td>Implementación de la funcionalidad de visualizacion del historial de reservas de viaje</td>
     <td>Desarrollar la logica que permita mostrar el historial de reservas</td>
-    <td> 10 hours</td>
+    <td> 7 hours</td>
     <td> Gustavo   </td>
     <td>To do</td>
   </tr> 
