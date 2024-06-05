@@ -1802,7 +1802,7 @@ En este Sprint 3, se logró realizar la implementación de profiles bounded cont
 
 #### [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
 
-
+Durante este tercer sprint, nos dedicamos exclusivamente al desarrollo del backend, enfocándonos en establecer una base sólida y eficiente para el proyecto. Optamos por priorizar la arquitectura, la seguridad y el rendimiento del sistema, sentando así los cimientos necesarios para futuras implementaciones.
 
 #### [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
 
