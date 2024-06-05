@@ -1912,6 +1912,158 @@ Landing Page como el Frontend Web Application.
     
 ### [**5.3.3.  Evaluaciones según heurísticas.**](#5211-Evaluations-according-to-heuristics.)
  
+UX Heuristics & Principles Evaluation
+
+Usability – Inclusive Design – Information Architecture
+
+- CARRERA : Ingeniería de Software
+- CURSO : Desarrollo de Aplicaciones Open Source
+- SECCIÓN : SW58
+- PROFESORES : Todos
+- AUDITOR : UniRider
+- CLIENTE(S) : Dayana Rojas, Giusseppe Taquiri, Christian Araujo, Felix Anampa
+
+____________________________________________________________________________________
+
+SITE o APP A EVALUAR: UniRider
+
+TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes
+tareas:
+1. Iniciar sesión en UniRider
+2. Visualizacion planes de servicio
+3. Visualizacion ruta y detalles del viaje
+4. Calificación y Comentario del Conductor
+5. Visualización de Contacto con UniRider
+
+#### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+
+| Nivel                       | Desarrollo del Frontend|
+| -------------------------------- | ----------------------------------------------------------- |
+| 1 |Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+| 2 |Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.|
+| 3 |Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+| 4 |Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+#### TABLA RESUMEN (Problemas):
+
+| #|Problema|Escala de severidad| Heurística/Principioviolada(o)|
+| ------------------------|-|-| ----------------------------------------------------------- |
+| 1 |Falta de opción para recuperar contraseña olvidada.|3|Usability: Usabilidad y control del usuario |
+| 2 |Información de los planes de servicio no es clara.|2|Usability: Consistencia y estándares |
+| 3 |Falta de modal de confirmación a cambios de edición de datos en cuenta de usuario.|1|Inclusive Design: Proporciona experiencias comparables |
+| 4 |Claridad en las Opciones de Acceso y Funcionalidad| 1| Inclusive Design: Proporciona experiencias comparables|
+| 5 |Desnivelación de tamaños con imágenesmostradas en Lista de universidades|2 |Usability: Consistencia y estándares |
+| 6 |Error al mostrar una de las imágenes de uno de la Lista de Universidades.| 1|Inclusive Design: Proporciona experiencias comparables|
+| 7 |Claridad en las Opciones de Acceso y Funcionalidad| 1|Inclusive Design: Proporciona experiencias comparables|
+
+
+#### **DESCRIPCIÓN DE PROBLEMAS:**
+
+#### **PROBLEMA #1:**
+Falta de opción para recuperar contraseña olvidada
+
+**Severidad:** 3
+**Heurística violada:** Usability: Usabilidad y control del usuario
+**Problema:**
+La aplicación no ofrece una opción para recuperar la contraseña olvidada, lo que puede impedir que los usuarios accedan a sus cuentas si olvidan su contraseña. Esto causa frustración y puede llevar a la pérdida de usuarios que no pueden acceder a su información.
+
+**Recomendación:**
+Implementar una funcionalidad de recuperación de contraseña en la pantalla de inicio de sesión. Esta función debería permitir a los usuarios solicitar un enlace de restablecimiento de contraseña enviado a su correo electrónico o número de teléfono registrado. Asegurarse de que el proceso sea claro, seguro y fácil de seguir.
+
+________________________________________________________________________________________________________________________________________________________
+
+#### PROBLEMA #2:
+Información de los planes de servicio no es clara
+
+**Severidad: 2**
+**Heurística violada:** Usability: Consistencia y estándares
+**Problema:**
+Los usuarios encuentran confusa la información de los planes de servicio, lo que dificulta la toma de decisiones y puede llevar a la elección incorrecta del plan adecuado.
+
+**Recomendación:**
+Revisar y mejorar la claridad y consistencia de la información presentada para cada plan de servicio. Usar descripciones claras, listas de beneficios y comparaciones visuales que ayuden a los usuarios a entender fácilmente las diferencias entre los planes.
+
+
+________________________________________________________________________________________________________________________________________________________
+
+
+
+#### **PROBLEMA #3:**
+Falta de modal de confirmación a cambios de edición de datos en cuenta de usuario
+
+**Severidad:** 1
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+**Problema:**
+Al realizar cambios en los datos de la cuenta de usuario, no se muestra una confirmación visual que indique que los cambios se han guardado correctamente, lo que puede generar incertidumbre en el usuario.
+
+**Recomendación:**
+Implementar un modal de confirmación que se muestre después de que el usuario realice cambios en su cuenta, indicando que los cambios se han guardado exitosamente.
+
+________________________________________________________________________________________________________________________________________________________
+
+
+#### vPROBLEMA #4:
+Claridad en las Opciones de Acceso y Funcionalidad
+
+**Severidad:** 1
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+**Problema:**
+Las opciones de acceso y funcionalidad no están claramente definidas, lo que puede llevar a confusión y dificultad para navegar por la aplicación.
+
+**Recomendación:**
+Mejorar la organización y la presentación de las opciones de acceso y funcionalidad para que sean más intuitivas y fáciles de encontrar para todos los usuarios.
+
+________________________________________________________________________________________________________________________________________________________
+
+
+
+#### **PROBLEMA #5:**
+Desnivelación de tamaños con imágenes mostradas en Lista de universidades
+
+**Severidad:** 2
+**Heurística violada:** Usability: Consistencia y estándares
+**Problema:**
+Las imágenes de las universidades en la lista presentan tamaños desiguales, lo que afecta la consistencia visual y puede distraer a los usuarios.
+
+**Recomendación:**
+Asegurar que todas las imágenes de las universidades tengan tamaños uniformes para mantener una presentación visual coherente y profesional.
+
+________________________________________________________________________________________________________________________________________________________
+
+
+
+#### **PROBLEMA #6:**
+Error al mostrar una de las imágenes de uno de la Lista de Universidades
+
+**Severidad:** 1
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+**Problema:**
+Una de las imágenes en la lista de universidades no se muestra correctamente, lo que puede causar confusión y frustración en el usuario.
+
+**Recomendación:**
+Revisar el enlace o la fuente de la imagen que presenta el error y corregirlo para garantizar que todas las imágenes se muestren correctamente.
+
+________________________________________________________________________________________________________________________________________________________
+
+
+
+#### **PROBLEMA #7:**
+Claridad en las Opciones de Acceso y Funcionalidad
+
+**Severidad:** 1
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+**Problema:**
+Las opciones de acceso y funcionalidad no están claramente definidas, lo que puede llevar a confusión y dificultad para navegar por la aplicación.
+
+**Recomendación:**
+Mejorar la organización y la presentación de las opciones de acceso y funcionalidad para que sean más intuitivas y fáciles de encontrar para todos los usuarios.
+
+________________________________________________________________________________________________________________________________________________________
+
+
 
 ## [**5.4. Video About-the-Product.**](#52-Video-About-the-Product. )
 
