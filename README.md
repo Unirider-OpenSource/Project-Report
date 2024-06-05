@@ -1719,13 +1719,13 @@ Mostramos la evidencia de los avances:<br>
 
 ### [**5.2.3. Sprint 3.**](#sprint-3)
 #### [**5.2.3.1 Sprint Planning 3.**](#sprint-planning-3)
-| Sprint 2                         | Desarrollo del Frontend.|
+| Sprint 2                         | Desarrollo del BackEnd.|
 | -------------------------------- | ----------------------------------------------------------- |
-| Sprint Planning Background                                                                     |
-| Date                             | |
-| Time                             | |
-| Location                         | |
-| Prepared By                      | |
+| Sprint Planning Background    | Velocity:  puntos |
+| Date                             |03/06/2024 |
+| Time                             | 22:00 horas (GMT-5)|
+| Location                         | Reuniòn realizada mediante Discord|
+| Prepared By                      |Pardo Zapata, Gustavo Adolfo |
 | Attendees (to planning meeting) |<li>Pardo Zapata, Gustavo Adolfo </li> <li>Anampa Lavado, Luis Angel </li>|
 |Resumen|Se diseña e implementa el apartado de backend. |
 |US Y metas para este sprint|
@@ -1736,6 +1736,197 @@ Mostramos la evidencia de los avances:<br>
 
 #### [**5.2.3.2. Sprint Backlog 3.**](#5212-sprint-backlog-3)
 
+</table>
+  <table border="1">
+  <tr>
+    <th>ID</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / To-Review / Done)</th>
+  </tr>
+  <tr>
+    <td rowspan="3"> </td>
+    <td rowspan="3"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td rowspan="3"> </td>
+    <td rowspan="3"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td rowspan="2">  </td>
+    <td rowspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>  </td>
+    <td></td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td></td>
+  </tr>
+<tr>
+    <td rowspan="2">  </td>
+    <td rowspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>  </td>
+    <td></td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>   </td>
+    <td></td>
+  </tr>  
+<tr>
+    <td rowspan="2">  </td>
+    <td rowspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>  </td>
+    <td></td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>    </td>
+    <td></td>
+  </tr>
+<tr>
+    <td rowspan="2">  </td>
+    <td rowspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td></td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>  </td>
+    <td></td>
+  </tr> 
+<tr>
+    <td rowspan="2">  </td>
+    <td rowspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>  </td>
+    <td></td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>  </td>
+    <td></td>
+  </tr> 
+<tr>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td></td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> </td>
+    <td>  </td>
+    <td></td>
+  </tr> 
+<tr>
+    <td rowspan="2">  </td>
+    <td rowspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td> s</td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+   <tr>
+    <td></td>
+    <td>                </td>
+    <td></td>
+    <td> </td>
+    <td> </td>
+    <td></td>
+  </tr> 
+</table>
 
 #### [**5.2.3.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
 
