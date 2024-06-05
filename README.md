@@ -1791,17 +1791,17 @@ Dentro de esta sección se detallara los bojetivos de usuario especificos que or
 
 # Preguntas a realizar para ambos Segmentos Objetivos
 
-- ¿Qué opinas sobre la facilidad de uso de nuestros productos?
+- ¿Qué opinas sobre la facilidad de uso de nuestros productos? 
 
-- ¿Pudiste encontrar la sección de contacto con el startup en ambos productos? ¿Cómo la encontraste?
+- ¿Pudiste visualizar la sección de contacto con el startup en ambos productos? ¿Qué te pareció?
   
-- ¿Pudiste acceder al inicio de sesión en nuestra página web de la aplicación? ¿Qué te pareció?
+- ¿Pudiste visualizar al inicio de sesión en nuestra página web de la aplicación? ¿Qué te pareció?
 
-- ¿Pudiste ver los planes de servicios para cada tipo de usuario? ¿Qué te pareció?
+- ¿Pudiste visualizar los planes de servicios para cada tipo de usuario? ¿Qué te pareció?
 
-- ¿Pudiste utilizar la función de calificación y comentarios para los conductores y los viajes? ¿Qué opinas de esta función?
+- ¿Pudiste visualizar la función de calificación y comentarios para los conductores y los viajes? ¿Qué opinas de esta función?
 
-- ¿Podrías sugerir alguna mejora para alguna sección o función de nuestra tienda?
+- ¿Podrías sugerir alguna mejora para alguna sección o función de aplicación ?
     
 ### [**5.3.2.  Registro de Entrevistas.**](#5211-Interview-Record.)
 
