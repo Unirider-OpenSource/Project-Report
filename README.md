@@ -1293,7 +1293,7 @@ Para este proyecto se optó por escoger el motor de base de datos de MySQL, para
 |Pardo Zapata, Gustavo Adolfo	| U202120347@upc.edu.pe |
 
 **Despliegues**
-URL Landing Page desplegada: [LandingPage](https://landing-page-github-io-develop-bt4jx9c30-angelpro17s-projects.vercel.app/)
+URL Landing Page desplegada: https://landing-page-github-io-develop.vercel.app/
 
 **Repositorios**
 URL del repositorio de Landing Page: https://github.com/Unirider-OpenSource/LandingPage.github.io
@@ -1440,7 +1440,7 @@ Este primer Sprint solo trata la implementación del landing page, por lo que no
 
 Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa. 
 
-[https://lading-page-deploit.vercel.app/](https://landing-page-github-io-develop-bt4jx9c30-angelpro17s-projects.vercel.app/)
+https://landing-page-github-io-develop.vercel.app/
 
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
@@ -1713,7 +1713,26 @@ Por el momento no tenemos evidencia de la documentación de nuestros servicios,d
 En este Sprint (Sprint 2), se logró desarrollar el forntend web application del proyecto UniRider, el cual cuenta con el proposito de ser un producto intutivo y que permite cubrir el proposito de brindar un servicio de carpooling beneficioso para estudiantes.<br>
 En cuanto al Deployment de este producto para el Sprint 2, se desplegó nuestro Frontend mediante FireBase<br>
 
-https://deploytb2opensource.web.app/login
+deploy Frontend : https://deploytb2opensource.web.app/login
+
+#### Cuenta ya registrada: 
+
+- (Email: test1@gmail.com)
+
+- (Password: 1234)
+
+
+#### Como registrarse: 
+
+- Presionar Register
+
+- Puede registrarse colocando sus datos y correo electronico (********@gmail.com)
+
+- Luego presionar Register
+
+- Luego presionar Login
+
+- Coloque su cuenta creada
 
 #### [**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
