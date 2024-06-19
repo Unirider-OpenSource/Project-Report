@@ -2195,27 +2195,44 @@ La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental
    
 # [**Anexos**](#anexos)
 
-### Link de las entrevistas: [https:EntrevistasSprint3](https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20Front%2Dend%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6263bc9f%2D4684%2D4249%2D9562%2D3c3f7ce05d42)
 
+<table border="1">
+    <tr>
+        <th>Description</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>Exposicion TB1</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/personal/u202120347_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202120347%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideo%2Fupc%2Dpre%2D202401%2D%20si729%2DSW58%2DUniRider%2Dexpo%2Dtb1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4305a931%2D1a79%2D475e%2D8949%2Ddceb6492064a">TB1</a></td>
+    </tr>
+    <tr>
+        <td>Exposicion TP</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2Flink%20expo%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebeb4d697%2D9d5a%2D458f%2D8eff%2D0516f65b849e">TP</a></td>
+    </tr>
+    <tr>
+        <td>Exposicion TB2</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2Flink%20expo%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebeb4d697%2D9d5a%2D458f%2D8eff%2D0516f65b849e">TB2</a></td>
+    </tr>
+    <tr>
+        <td>Entrevistas - Capitulo V</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20Front%2Dend%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6263bc9f%2D4684%2D4249%2D9562%2D3c3f7ce05d42">Link</a></td>
+    </tr>
+    <tr>
+        <td>Video About-The-Product</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaLmnt2ndqBAuAi9YEbo1c0BFKsQ6sOrCRxshIXWdGlERw?e=LgiFyf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
+    </tr>
+    <tr>
+        <td>Video About-The-Team</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EdVRsBA7PUNHlQNCccQtsNQB5R1Tmr2YSL5rS8_I--miSg?e=hSatFn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
+    </tr>
 
-#### Link Figma Web Application: https://www.figma.com/proto/EwjGSJ6rrm0CnMdTbftA6k/Web-Application-Wireframe-%2F-Mock-Up?type=design&node-id=15-482&t=ujEphZo6qTextt9h-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=15%3A482&mode=design
-
-
-#### Link Figma Mobile Application: https://www.figma.com/proto/PvLdtSaENiMYY9cQT6YMat/App-celular?type=design&node-id=11-2&t=ov9bcksZvKFHrT8j-0&scaling=min-zoom&page-id=0%3A1
-
-
-### Link de exposicion:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EX8bxZIrWCJHrb_O_G0lzaoBOlMx76li3HHfEwylCx3ZxQ?e=poU5gi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-### Link de about the team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EdVRsBA7PUNHlQNCccQtsNQB5R1Tmr2YSL5rS8_I--miSg?e=hSatFn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-### Link de about the product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaLmnt2ndqBAuAi9YEbo1c0BFKsQ6sOrCRxshIXWdGlERw?e=LgiFyf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-### deploy landing page: https://landing-page-github-io-develop.vercel.app/
-
-### deploy frontend : https://deploytb2opensource.web.app/login
-
-(Email: test1@gmail.com)
-
-(Password: 1234)
-
-### deploy fake-api: https://fake-api-unirider.vercel.app/ 
+<tr>
+        <td>Link landing page</td>
+        <td><a href="https://landing-page-open-source.vercel.app/">Landing Page</a></td>
+    </tr>
+ ]<tr>
+        <td>Link Front End</td>
+        <td><a href="https://deploy-front-end-open-source.vercel.app/login">Front End</a></td>
+    </tr>
+    
+</table>
