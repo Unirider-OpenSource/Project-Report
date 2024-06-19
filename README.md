@@ -2230,7 +2230,7 @@ La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental
         <td>Link landing page</td>
         <td><a href="https://landing-page-open-source.vercel.app/">Landing Page</a></td>
     </tr>
- ]<tr>
+ <tr>
         <td>Link Front End</td>
         <td><a href="https://deploy-front-end-open-source.vercel.app/login">Front End</a></td>
     </tr>
