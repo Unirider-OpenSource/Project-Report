@@ -1446,7 +1446,17 @@ Este primer Sprint solo trata la implementación del landing page, por lo que no
 
 Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa. 
 
-https://landing-page-github-io-develop.vercel.app/
+**Link del deploy con Vercel:** https://landing-page-open-source.vercel.app/
+
+Para el presente sprint se ha desarrollado la landing page. Para el despliegue se emplearon las siguientes herramientas:
+
+**Git:** Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
+
+**Gitflow:** Flujo de trabajo colaborativo. Nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo.
+
+**GitHub:** Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
+
+**Vercel:** Plataforma que automatiza webs que nos permitió alojar y desplegar nuestra el landing page.
 
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
