@@ -2168,6 +2168,8 @@ promocionar el producto que el Startup UniRider ha desrrollado.
 
 Video en Microsoft Stream:
 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EV_nmS40WYhJjU6O8GLMlZ8BPS-KK_PM6mf4QjLsMLZN0w?e=2gxJE2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
@@ -2217,7 +2219,7 @@ La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental
     </tr>
     <tr>
         <td>Video About-The-Product</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EaLmnt2ndqBAuAi9YEbo1c0BFKsQ6sOrCRxshIXWdGlERw?e=LgiFyf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EV_nmS40WYhJjU6O8GLMlZ8BPS-KK_PM6mf4QjLsMLZN0w?e=2gxJE2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D ">About-The-Product</a></td>
     </tr>
     <tr>
         <td>Video About-The-Team</td>
