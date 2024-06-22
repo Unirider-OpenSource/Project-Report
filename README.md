@@ -1862,11 +1862,11 @@ Optimización del servicio de carpooling para estudiantes universitarios. Esta f
 Para esta validación se incluirán los siguientes productos:
 
 # Lading page
-![Evidencia](images/LandingPage.jpg)
+![Evidencia](images/LandingPageDeploy.png)
 
 # FrontEnd Web Application
 
-![Evidencia](images/FrontEnd3.jpeg)
+![Evidencia](images/FrontEndDeploy.png)
 
 
 
