@@ -64,7 +64,8 @@
 |V1.2|26/04/2024|Gustavo<br>Eric <br> Harold<br> Ely Cortez|Creacion y desarrollo del Sprint 2|
 |V1.3|29/04/2024|Eric <br> Harold<br> Ely Cortez|Implementacion de imagenes de evidendica|
 |V2.0|29/04/2024|Gustavo<br>Luis<br>Eric <br> Harold<br> Ely Cortez|Finalización del Sprint 2|
-|V2.1|5/06/2024|Gustavo<br>Luis|Finalización del Sprint 3|
+|V3.0|5/06/2024|Gustavo<br>Luis|Finalización del Sprint 3|
+|V4.0|5/06/2024|Gustavo<br>Luis|Finalización del Sprint 4|
 
 **Project Report Collaboration Insights**
 URL del repositorio de GitHub de la organización: [https://github.com/Unirider-OpenSource/Project-Report](https://github.com/Unirider-OpenSource)
