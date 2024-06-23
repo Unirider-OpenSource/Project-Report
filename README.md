@@ -1802,6 +1802,30 @@ Mostramos la evidencia de los avances:<br>
     <td>Gustavo Adolfo Pardo Zapata</td>
     <td>To-do</td>
   </tr>
+    <tr>
+    <td>US0</td>
+    <td>Acceso a metodo de pago</td>
+    <td>Como Developer Quiero implementar un endpoint que facilite el cobro de comision al usuario y su registro de metodo de pago.</td>
+    <td>5 hour </td>
+    <td>Gustavo Adolfo Pardo Zapata</td>
+    <td>To-do</td>
+  </tr>
+    <tr>
+    <td>US0</td>
+    <td>Ver perfiles de los conductores</td>
+    <td>Como Developer Quiero almacenar los datos de los conductores y mostrarlos al usuario pasajero .</td>
+    <td>5 hour </td>
+    <td>Gustavo Adolfo Pardo Zapata</td>
+    <td>To-do</td>
+  </tr>
+    <tr>
+    <td>US0</td>
+    <td>Registrarse en el servicio de carpooling</td>
+    <td>Como Developer quiero implementar un estado para los viajes .</td>
+    <td>5 hour </td>
+    <td>Gustavo Adolfo Pardo Zapata</td>
+    <td>To-do</td>
+  </tr>
 </table>
 
 
