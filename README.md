@@ -1992,7 +1992,7 @@ Dentro de esta sección se detallara los bojetivos de usuario especificos que or
     
 ### [**5.3.2.  Registro de Entrevistas.**](#5211-Interview-Record.)
 
-Video de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EYr3tAHt4vZDvgqoG3qFTCABLgOhCUSOqraSn7qUNyKgOA?e=6eZItU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video de las entrevistas: [Presione aqui !](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EVfGfnJjeOpFgzxw96NoUUABMDtuEz21jlf1GyC0LBzMIA?e=NWSMj4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Realizamos 4 entrevistas dirigidas a nuestros segmentos objetivos, en las cuales
 nuestros entrevistados se dedicaron a navegar por nuestras plataformas web, tanto el
@@ -2010,7 +2010,7 @@ Landing Page como el Frontend Web Application.
 
 **Acerca de la entrevista:** Estudiante de ingenieria de Software
 
-**- Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EYr3tAHt4vZDvgqoG3qFTCABLgOhCUSOqraSn7qUNyKgOA?e=6eZItU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+**- Link:** [Presione aqui !](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EVfGfnJjeOpFgzxw96NoUUABMDtuEz21jlf1GyC0LBzMIA?e=NWSMj4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 **- Instante en el que inicia:** 0:15 s
@@ -2039,7 +2039,7 @@ En esta entrevista nos contactamos con Giusseppe, un chico universitario que, de
 
 **Acerca de la entrevista:** Estudia ciencia de la computacion en la UPC
 
-**- Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EYr3tAHt4vZDvgqoG3qFTCABLgOhCUSOqraSn7qUNyKgOA?e=6eZItU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+**- Link:** [Presione aqui !](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EVfGfnJjeOpFgzxw96NoUUABMDtuEz21jlf1GyC0LBzMIA?e=NWSMj4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **- Instante en el que inicia:** 7:15 min
 
@@ -2061,7 +2061,7 @@ En esta entrevista nos contactamos con Christian Araujo, un joven estudiante que
 
 **Acerca de la entrevista:** Estudiante de la UPC
 
-**- Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EYr3tAHt4vZDvgqoG3qFTCABLgOhCUSOqraSn7qUNyKgOA?e=6eZItU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+**- Link:** [Presione aqui !](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EVfGfnJjeOpFgzxw96NoUUABMDtuEz21jlf1GyC0LBzMIA?e=NWSMj4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **- Instante en el que inicia:** 14:15 min
 
@@ -2085,7 +2085,7 @@ En esta entrevista nos contactamos con Melina Rojas, una joven estudiante que, d
 
 **Acerca de la entrevista:** Estudiante de la UPC
 
-**- Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EYr3tAHt4vZDvgqoG3qFTCABLgOhCUSOqraSn7qUNyKgOA?e=6eZItU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+**- Link:** [Presione aqui !](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EVfGfnJjeOpFgzxw96NoUUABMDtuEz21jlf1GyC0LBzMIA?e=NWSMj4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **- Instante en el que inicia:** 21:33 min
 
@@ -2311,7 +2311,7 @@ La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental
     </tr>
     <tr>
         <td>Entrevistas - Capitulo V</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20Front%2Dend%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6263bc9f%2D4684%2D4249%2D9562%2D3c3f7ce05d42">Link</a></td>
+        <td><a href="(https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EVfGfnJjeOpFgzxw96NoUUABMDtuEz21jlf1GyC0LBzMIA?e=NWSMj4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a></td>
     </tr>
     <tr>
         <td>Video About-The-Product</td>
