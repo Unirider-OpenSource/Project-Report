@@ -23,20 +23,8 @@
             <th>Codigo</th>
         </tr>
         <tr> 
-            <td>Agama Espinoza, Eric Fabrizio</td>
-            <td>U202213358</td>
-        </tr>
-        <tr> 
             <td>Anampa Lavado, Luis Angel</td>
             <td>U202218664</td>
-        </tr>
-        <tr> 
-            <td>Cortez Flores, Ely Rivaldo</td>
-            <td>U202215313</td>
-        </tr>
-        <tr> 
-            <td>Mayta Lopez, Harold Jaime</td>
-            <td>U202114851</td>
         </tr>
         <tr> 
             <td>Pardo Zapata, Gustavo Adolfo</td>
@@ -1765,7 +1753,7 @@ Mostramos la evidencia de los avances:<br>
 #### [**5.2.3.1 Sprint Planning 3.**](#sprint-planning-3)
 | Sprint 3                         | Desarrollo del BackEnd.|
 | -------------------------------- | ----------------------------------------------------------- |
-| Sprint Planning Background    | Velocity:  15 puntos |
+| Sprint Planning Background    ||
 | Date                             |03/06/2024 |
 | Time                             | 22:00 horas (GMT-5)|
 | Location                         | Reuniòn realizada mediante Discord|
@@ -1959,6 +1947,21 @@ Link:https://github.com/Unirider-OpenSource/Project-Report/commits/main/
 
 ### [5.2.4. Sprint 4](#524-sprint-4)
 #### [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+| Sprint 4                         | Correcciones de la Tb2|
+| -------------------------------- | ----------------------------------------------------------- |
+| Sprint Planning Background    |
+| Date                             |20/06/2024 |
+| Time                             | 22:00 horas (GMT-5)|
+| Location                         | Reuniòn realizada mediante Meet|
+| Prepared By                      |Pardo Zapata, Gustavo Adolfo |
+| Attendees (to planning meeting) |<li>Pardo Zapata, Gustavo Adolfo </li> <li>Anampa Lavado, Luis Angel </li>|
+|Sprint 3 Review Summary |	Se realizaran las mejoras especificadas del sprint anterior y se agregaran aquellas caracterirsticas que estuvieron faltantes en la entrega pasada. |
+|Sprint 3 Retrospective Summary |	Se hizo las mejoras correspondientes al TB2. |
+|Sprint Goal & User Stories|
+| Sprint n Goal  |
+| Sprint 3 Velocity                | 15 puntos |
+| Sum of Story Points              | 15 puntos |
+
 #### [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
 #### [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
 #### [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
@@ -2329,11 +2332,11 @@ La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental
     </tr>
     <tr>
         <td>Entrevistas - Capitulo V</td>
-        <td><a href="(https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EVfGfnJjeOpFgzxw96NoUUABMDtuEz21jlf1GyC0LBzMIA?e=NWSMj4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a></td>
+        <td><a href="(https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EVfGfnJjeOpFgzxw96NoUUABMDtuEz21jlf1GyC0LBzMIA?e=NWSMj4nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a></td>
     </tr>
     <tr>
         <td>Video About-The-Product</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EV_nmS40WYhJjU6O8GLMlZ8BPS-KK_PM6mf4QjLsMLZN0w?e=2gxJE2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D ">About-The-Product</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%20pre%20202401%20si729%20SW58%20UniRider%20about%20the%20product%20sprint%203%201%2Emp4&ga=1&referrer=StreamWebApp%2EWebreferrerScenario=AddressBarCopied%2Eview%2E142e9474%2D1c23%2D42ba%2D8151%2D81802902b75a">About-The-Product</a></td>
     </tr>
     <tr>
         <td>Video About-The-Team</td>
