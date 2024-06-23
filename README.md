@@ -1839,6 +1839,42 @@ En este Sprint 3, se logró realizar la implementación de profiles bounded cont
 
 Durante este tercer sprint, nos dedicamos exclusivamente al desarrollo del backend, enfocándonos en establecer una base sólida y eficiente para el proyecto. Optamos por priorizar la arquitectura, la seguridad y el rendimiento del sistema, sentando así los cimientos necesarios para futuras implementaciones.
 
+Posteriormente, se mostrará una tabla que detalla estos puntos finales.
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">Entity</th>
+    <th style="border: 1px solid black;">Endpoint</th>
+    <th style="border: 1px solid black;">Swagger</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Users</td>
+    <td style="border: 1px solid black;">/api/v1/users</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_users.png" alt="Swagger Users"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Students</td>
+    <td style="border: 1px solid black;">/api/v1/Students</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_students.png" alt="Swagger Groups"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Roles</td>
+    <td style="border: 1px solid black;">/api/v1/Roles</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Roles.png" alt="Swagger Groups-Operations"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Authentication</td>
+    <td style="border: 1px solid black;">/api/v1/Authentication</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Authentication.png" alt="Swagger Expenses"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Profiles</td>
+    <td style="border: 1px solid black;">/api/v1/Profiles</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Profiles.png" alt="Swagger Payments"></td>
+  </tr>
+</table>
+
+
 #### [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
 
 En cuanto al Deployment de este producto para el Sprint 4, se desplegó nuestro Frontend mediante Vercel y el Backend mediante Microsoft Azure y Sprint Boot
