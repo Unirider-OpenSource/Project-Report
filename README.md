@@ -1,5 +1,3 @@
-<br />
-
 <div align="center">
     <h1> Universidad Peruana de Ciencias Aplicadas </h1>
 
@@ -1843,7 +1841,34 @@ Durante este tercer sprint, nos dedicamos exclusivamente al desarrollo del backe
 
 #### [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
 
-En cuanto al Deployment de este producto para el Sprint 4, se desplegó nuestro Frontend mediante Firebase y el Backend mediante Microsoft Azure y Sprint Boot
+En cuanto al Deployment de este producto para el Sprint 4, se desplegó nuestro Frontend mediante Vercel y el Backend mediante Microsoft Azure y Sprint Boot
+
+A continuacion las evidencias de deploy en Azure:
+
+## Crea un archivo Dockerfile en el directorio raíz de tu proyecto Spring Boot: 
+
+![Evidencia](images/DockerFile.png)
+
+## Construir la imagen Docker localmente
+
+![Evidencia](images/DockerImage.png)
+
+## Crear Database for MySQL flexible servers
+
+![Evidencia](images/DockerContainer.png)
+
+## Crear App Service
+
+![Evidencia](images/DockerWeb.png)
+
+Puedes ver el BackEnd desplegado aqui:[BackEnd](https://unirider.azurewebsites.net/swagger-ui/index.html)
+
+
+
+
+
+
+
 
 ![Evidencia](images/azure.jpg)
 
