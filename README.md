@@ -1898,7 +1898,7 @@ Posteriormente, se mostrará una tabla que detalla estos puntos finales.
 
 #### [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
 
-En cuanto al Deployment de este producto para el Sprint 4, se desplegó nuestro Frontend mediante Vercel y el Backend mediante Microsoft Azure y Sprint Boot
+En cuanto al Deployment de este producto para el Sprint 3, se desplegó nuestro Frontend mediante Vercel y el Backend mediante Microsoft Azure y Sprint Boot
 
 A continuacion las evidencias de deploy en Azure:
 
@@ -1918,13 +1918,8 @@ A continuacion las evidencias de deploy en Azure:
 
 ![Evidencia](images/DockerWeb.png)
 
+
 Puedes ver el BackEnd desplegado aqui:[BackEnd](https://unirider.azurewebsites.net/swagger-ui/index.html)
-
-
-
-
-
-
 
 
 ![Evidencia](images/azure.jpg)
@@ -2027,8 +2022,93 @@ Link:https://github.com/Unirider-OpenSource/Project-Report/commits/main/
 #### [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
 #### [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
 #### [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+
+A continuación, se presenta una lista de los puntos finales registrados en OpenAPI que están dentro del alcance del Sprint 4. Posteriormente, se mostrará una tabla que detalla estos puntos finales.
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">Entity</th>
+    <th style="border: 1px solid black;">Endpoint</th>
+    <th style="border: 1px solid black;">Swagger</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Users</td>
+    <td style="border: 1px solid black;">/api/v1/users</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_users.png" alt="Swagger Users"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Students</td>
+    <td style="border: 1px solid black;">/api/v1/Students</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_students.png" alt="Swagger Groups"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Roles</td>
+    <td style="border: 1px solid black;">/api/v1/Roles</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Roles.png" alt="Swagger Groups-Operations"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Authentication</td>
+    <td style="border: 1px solid black;">/api/v1/Authentication</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Authentication.png" alt="Swagger Expenses"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Profiles</td>
+    <td style="border: 1px solid black;">/api/v1/Profiles</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Profiles.png" alt="Swagger Payments"></td>
+  </tr>
+</table>
+
 #### [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+
+En cuanto al Deployment de este producto para el Sprint 4, se desplegó nuestro Frontend mediante Vercel y el Backend mediante Microsoft Azure y Sprint Boot
+
+A continuacion las evidencias de deploy en Azure:
+
+## Crea un archivo Dockerfile en el directorio raíz de tu proyecto Spring Boot: 
+
+![Evidencia](images/DockerFile.png)
+
+Se creó un archivo Dockerfile en el directorio raíz del proyecto Spring Boot, el cual contiene las instrucciones necesarias para construir la imagen Docker del backend.
+
+## Construir la imagen Docker localmente
+
+![Evidencia](images/DockerImage.png)
+
+Se procedió a construir la imagen Docker del proyecto localmente para asegurarse de que todos los componentes se compilaran correctamente antes de desplegar en Azure.
+
+
+## Crear Database for MySQL flexible servers
+
+![Evidencia](images/DockerContainer.png)
+
+Se configuró una base de datos MySQL flexible en Azure para gestionar y almacenar los datos necesarios para el funcionamiento del backend.
+
+
+
+## Crear App Service
+
+![Evidencia](images/DockerWeb.png)
+
+Se creó un App Service en Azure para alojar la aplicación desplegada, garantizando así que el backend esté accesible y funcione correctamente en la nube.
+
+
+Puedes ver el BackEnd desplegado aqui:[BackEnd](https://unirider.azurewebsites.net/swagger-ui/index.html)
+
+
+![Evidencia](images/azure.jpg)
+
 #### [5.2.4.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
+
+A continuación se presentan capturas de los insights finales del repositorio del informe en GitHub:
+
+
+De la misma manera, se incluyen capturas de los insights finales del repositorio del Frontend en GitHub:
+
+
+Por último, se muestran capturas de los insights finales del repositorio del Backend en GitHub:
+
+
 
 ## [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
 
