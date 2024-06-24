@@ -1975,7 +1975,7 @@ En el cuarto y último Sprint, procederemos con el desarrollo del Backend de nue
     <td>Como Developer Quiero poder agregar un estudiante a través de la API Para que esté disponible para construir funcionalidades para mis aplicaciones.</td>
     <td>4 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>TS02</td>
@@ -1983,7 +1983,7 @@ En el cuarto y último Sprint, procederemos con el desarrollo del Backend de nue
     <td>Como Developer Quiero implementar autenticación para aumentar la seguridad de las cuentas de usuario.</td>
     <td>6 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>TS03</td>
@@ -1991,7 +1991,7 @@ En el cuarto y último Sprint, procederemos con el desarrollo del Backend de nue
     <td>Como Developer Quiero poder asignar roles de "Estudiante", "Pasajero" y "Conductor" a los usuarios Para gestionar sus permisos y funcionalidades en la plataforma.</td>
     <td>6 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US01</td>
@@ -1999,7 +1999,7 @@ En el cuarto y último Sprint, procederemos con el desarrollo del Backend de nue
     <td>Como Developer Quiero implementar un endpoint que facilite el cobro de comision al usuario y su registro de metodo de pago.</td>
     <td>5 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US02</td>
@@ -2007,7 +2007,7 @@ En el cuarto y último Sprint, procederemos con el desarrollo del Backend de nue
     <td>Como Developer Quiero almacenar los datos de los conductores y mostrarlos al usuario pasajero.</td>
     <td>5 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US03</td>
@@ -2015,7 +2015,7 @@ En el cuarto y último Sprint, procederemos con el desarrollo del Backend de nue
     <td>Como Developer Quiero implementar un estado para los viajes.</td>
     <td>5 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US04</td>
@@ -2023,7 +2023,7 @@ En el cuarto y último Sprint, procederemos con el desarrollo del Backend de nue
     <td>Como Developer Quiero poder cancelar viajes a través de la API para gestionar cambios de planes.</td>
     <td>5 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US05</td>
@@ -2031,7 +2031,7 @@ En el cuarto y último Sprint, procederemos con el desarrollo del Backend de nue
     <td>Como Developer Quiero implementar una funcionalidad de reseñas para que los usuarios puedan valorar sus experiencias.</td>
     <td>4 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US06</td>
@@ -2039,7 +2039,7 @@ En el cuarto y último Sprint, procederemos con el desarrollo del Backend de nue
     <td>Como Developer Quiero implementar una funcionalidad de pagos para procesar transacciones de manera segura.</td>
     <td>6 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>To-do</td>
+    <td>in progress</td>
   </tr>
   <tr>
     <td>US07</td>
@@ -2150,14 +2150,14 @@ A continuación, se presenta una lista de los puntos finales registrados en Open
     <td style="border: 1px solid black;"><img src="images/swagger_Profiles.png" alt="Swagger Profiles"></td>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">Cancelar_Viajes</td>
-    <td style="border: 1px solid black;">/api/v1/Cancelar</td>
-    <td style="border: 1px solid black;"><img src="images/swagger_Cancelar.png" alt="Swagger Cancelar_Viajes"></td>
+    <td style="border: 1px solid black;">Drivers</td>
+    <td style="border: 1px solid black;">/api/v1/Drivers</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Drivers.png" alt="Swagger Driver"></td>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Reviews</td>
     <td style="border: 1px solid black;">/api/v1/Reviews</td>
-    <td style="border: 1px solid black;"><img src="images/swagger_Reviews.png" alt="Swagger Reviews"></td>
+    <td style="border: 1px solid black;"><img src="images/swagger_reviews.png" alt="Swagger Reviews"></td>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Payments</td>
