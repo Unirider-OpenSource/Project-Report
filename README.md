@@ -2100,19 +2100,15 @@ Para este sprint se completo finalmente el backend de el aplicativo, por se hici
 
 <img align="center" src="images/deploy_final4.png" alt="UniRider" width="90%">
 
-<img align="center" src="images/deploy_final5.jpg" alt="UniRider" width="90%">
+<img align="center" src="images/deploy_final5.png" alt="UniRider" width="90%">
 
-<img align="center" src="images/deploy_final6.jpg" alt="UniRider" width="90%">
+<img align="center" src="images/deploy_final6.png" alt="UniRider" width="90%">
 
-<img align="center" src="images/deploy_final7.jpg" alt="UniRider" width="90%">
+<img align="center" src="images/deploy_final7.png" alt="UniRider" width="90%">
 
-<img align="center" src="images/deploy_final8.jpg" alt="UniRider" width="90%">
+<img align="center" src="images/deploy_final8.png" alt="UniRider" width="90%">
 
-<img align="center" src="images/deploy_final9.jpg" alt="UniRider" width="90%">
-
-<img align="center" src="images/deploy_final10.jpg" alt="UniRider" width="90%">
-
-<p>Puedes ver la aplicacion desplegada aquí:<p><a href="https://deploy-front-end-open-source.vercel.app/login ">UniRider</a>
+Puedes ver la aplicacion desplegada aquí:<a href="https://deploy-front-end-open-source.vercel.app/login ">UniRider</a>
 
 #### [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
 
