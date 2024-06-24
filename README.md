@@ -2019,7 +2019,7 @@ En el cuarto y último Sprint, procederemos con el desarrollo del Backend de nue
   </tr>
   <tr>
     <td>US04</td>
-    <td>Cancelar_Viajes</td>
+    <td>Drivers</td>
     <td>Como Developer Quiero poder cancelar viajes a través de la API para gestionar cambios de planes.</td>
     <td>5 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
@@ -2030,16 +2030,8 @@ En el cuarto y último Sprint, procederemos con el desarrollo del Backend de nue
     <td>Reviews</td>
     <td>Como Developer Quiero implementar una funcionalidad de reseñas para que los usuarios puedan valorar sus experiencias.</td>
     <td>4 hour</td>
-    <td>Gustavo Adolfo Pardo Zapata</td>
+    <td>Angel Anampa Lavado</td>
     <td>Done</td>
-  </tr>
-  <tr>
-    <td>US06</td>
-    <td>Payments</td>
-    <td>Como Developer Quiero implementar una funcionalidad de pagos para procesar transacciones de manera segura.</td>
-    <td>6 hour</td>
-    <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>in progress</td>
   </tr>
   <tr>
     <td>US07</td>
@@ -2065,23 +2057,25 @@ Repositorio Backend
 
 | Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
 | -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| Back-end |feature/Back-end||| -|   (5/06/204)      |
-| Back-end |feature/Back-end||  | -|(5/06/204)     |
-| Back-end |feature/Back-end|| | -|(4/06/204)    |
-| Back-end |feature/Back-end||| -| (5/06/204)    |
-| Back-end |feature/Back-end|| | -|(4/06/204)    |
-| Back-end |feature/Back-end||| -|(4/06/204)    |
+| Back-end |feature/Back-end|2b7cb6569dc20d27b022d446a0e1a24bdaef8010|Added driver and review controller | -|(24/06/204)    |
+| Back-end |feature/Back-end|548fa4fef63dbf164444a9890ad3ed64c066b862|Added Authorize| -|(24/06/204)    |
+| Back-end |feature/Back-end|922068aebd713585e6f6f8addd40c7b740e3b919|Added Atuthentication | -|   (5/06/204)      |
+| Back-end |feature/Back-end|aa60d6c7cd5a57fc95235f5f4fcc4014b085fdbf| Added User BC/ Not fixed yet | -|(5/06/204)     |
+| Back-end |feature/Back-end|525f2ae11a8e17758b3c0bcf71bbf1e0e94cc9ef|feat(profiles): added profiles bounded context. | -|(4/06/204)    |
+| Back-end |feature/Back-end|871ebc1e58c9348084e267066efb3e772d7f725f| feat(profiles): added profile aggregate.| -| (5/06/204)    |
+| Back-end |feature/Back-end|6dd7db4e2e5eac9f4a0266c40f64d75eae141c70|chore: added shared context. | -|(4/06/204)    |
+| Back-end |feature/Back-end|aa89417acabe99d18675b6a085a542e389d985ba|New proyect| -|(4/06/204)    |
 
 Repositorio Frontend
 
 | Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
 | -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| Back-end |feature/Front-end||  | -|   (5/06/204)      |
-| Back-end |feature/Front-end||   | -|(5/06/204)     |
-| Back-end |feature/Front-end||| -|(4/06/204)    |
-| Back-end |feature/Front-end|| | -| (5/06/204)    |
-| Back-end |feature/Front-end|| | -|(4/06/204)    |
-| Back-end |feature/Front-end||| -|(4/06/204)    |
+| Fronte-end |feature/Front-end|8fe57a0| feat:i update the toolbar | -| 28/04/2024         |
+| Fronte-end |feature/Front-end|6689f05| feat(comments):i update the comment component | -| 28/04/2024|
+| Fronte-end |feature/Front-end|7638b30| feat:add page maps & comment | -| 28/04/2024|
+| Fronte-end |feature/Front-end|1bedae2| feat:add login but no css| -| 28/04/2024|
+| Fronte-end |feature/Front-end|69d6513| feat:add page plans | -|27/04/2024|
+| Fronte-end |feature/Front-end|07fcffa| feat:plans table | -|27/04/2024|
 
 
 #### [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
