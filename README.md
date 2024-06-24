@@ -2060,8 +2060,60 @@ En el cuarto y último Sprint, procederemos con el desarrollo del Backend de nue
 </table>
 
 #### [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+
+Repositorio Backend
+
+| Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| Back-end |feature/Back-end||| -|   (5/06/204)      |
+| Back-end |feature/Back-end||  | -|(5/06/204)     |
+| Back-end |feature/Back-end|| | -|(4/06/204)    |
+| Back-end |feature/Back-end||| -| (5/06/204)    |
+| Back-end |feature/Back-end|| | -|(4/06/204)    |
+| Back-end |feature/Back-end||| -|(4/06/204)    |
+
+Repositorio Frontend
+
+| Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| Back-end |feature/Front-end||  | -|   (5/06/204)      |
+| Back-end |feature/Front-end||   | -|(5/06/204)     |
+| Back-end |feature/Front-end||| -|(4/06/204)    |
+| Back-end |feature/Front-end|| | -| (5/06/204)    |
+| Back-end |feature/Front-end|| | -|(4/06/204)    |
+| Back-end |feature/Front-end||| -|(4/06/204)    |
+
+
 #### [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+
+Para este sprint se completo finalmente el backend de el aplicativo, por se hicieron algunos test unitarios en cuanto a los aggregates que usamos
+
 #### [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+
+<p align="justify">A continuación se presentan capturas de la aplicacion web en Angular</p>
+
+<img align="center" src="images/deploy_final1.png" alt="UniRider" width="90%">
+
+<img align="center" src="images/deploy_final2.png" alt="UniRider" width="90%">
+
+<img align="center" src="images/deploy_final3.png" alt="UniRider" width="90%">
+
+<img align="center" src="images/deploy_final4.png" alt="UniRider" width="90%">
+
+<img align="center" src="images/deploy_final5.jpg" alt="UniRider" width="90%">
+
+<img align="center" src="images/deploy_final6.jpg" alt="UniRider" width="90%">
+
+<img align="center" src="images/deploy_final7.jpg" alt="UniRider" width="90%">
+
+<img align="center" src="images/deploy_final8.jpg" alt="UniRider" width="90%">
+
+<img align="center" src="images/deploy_final9.jpg" alt="UniRider" width="90%">
+
+<img align="center" src="images/deploy_final10.jpg" alt="UniRider" width="90%">
+
+<p>Puedes ver la aplicacion desplegada aquí:<p><a href="https://deploy-front-end-open-source.vercel.app/login ">UniRider</a>
+
 #### [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
 
 A continuación, se presenta una lista de los puntos finales registrados en OpenAPI que están dentro del alcance del Sprint 4. Posteriormente, se mostrará una tabla que detalla estos puntos finales.
