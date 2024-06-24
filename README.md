@@ -2569,8 +2569,12 @@ La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental
         <td><a href="https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2Flink%20expo%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebeb4d697%2D9d5a%2D458f%2D8eff%2D0516f65b849e">TB2</a></td>
     </tr>
     <tr>
+        <td>Exposicion TF</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/ESvgE3CnzFZAr89309AuxToB1-yV98Twy8o17CX8diFHDA?e=cFy1A7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">TF</a></td>
+    </tr>
+    <tr>
         <td>Entrevistas - Capitulo V</td>
-        <td><a href="(https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EVfGfnJjeOpFgzxw96NoUUABMDtuEz21jlf1GyC0LBzMIA?e=NWSMj4nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EVfGfnJjeOpFgzxw96NoUUABMDtuEz21jlf1GyC0LBzMIA?e=NWSMj4nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a></td>
     </tr>
     <tr>
         <td>Video About-The-Product</td>
@@ -2578,7 +2582,7 @@ La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental
     </tr>
     <tr>
         <td>Video About-The-Team</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EdVRsBA7PUNHlQNCccQtsNQB5R1Tmr2YSL5rS8_I--miSg?e=hSatFn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EYdQ0rFuyTdClruKCXDUenwBD9ud5xq8_lQYDnT7hm16ig?e=77DcuQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
     </tr>
 
 <tr>
