@@ -1953,11 +1953,12 @@ Link:https://github.com/Unirider-OpenSource/Project-Report/commits/main/
 |Sprint 3 Review Summary |	Se realizaran las mejoras especificadas del sprint anterior y se agregaran aquellas caracterirsticas que estuvieron faltantes en la entrega pasada. |
 |Sprint 3 Retrospective Summary |	Se hizo las mejoras correspondientes al TB2. |
 |Sprint Goal & User Stories|
-| Sprint n Goal  |
+| Sprint n Goal  |Implementar funcionalidades clave para la gestión de usuarios y la seguridad, además de preparar el despliegue de la aplicación en entornos de Docker y Azure.|
 | Sprint 3 Velocity                | 15 puntos |
 | Sum of Story Points              | 15 puntos |
 
 #### [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+En el cuarto y último Sprint, procederemos con el desarrollo del Backend de nuestra aplicación. Utilizaremos únicamente la tabla proporcionada para gestionar a los miembros del equipo y para visualizar el progreso del proyecto.
 
 <table border="1">
   <tr>
@@ -1980,40 +1981,80 @@ Link:https://github.com/Unirider-OpenSource/Project-Report/commits/main/
     <td>TS02</td>
     <td>Implementar autenticación de dos factores</td>
     <td>Como Developer Quiero implementar autenticación para aumentar la seguridad de las cuentas de usuario.</td>
-    <td>6 hour </td>
+    <td>6 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
     <td>To-do</td>
   </tr>
   <tr>
     <td>TS03</td>
-    <td>Gestión de roles de usuario	</td>
+    <td>Gestión de roles de usuario</td>
     <td>Como Developer Quiero poder asignar roles de "Estudiante", "Pasajero" y "Conductor" a los usuarios Para gestionar sus permisos y funcionalidades en la plataforma.</td>
-    <td>6 hour </td>
+    <td>6 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
     <td>To-do</td>
   </tr>
-    <tr>
-    <td>US0</td>
+  <tr>
+    <td>US01</td>
     <td>Acceso a metodo de pago</td>
     <td>Como Developer Quiero implementar un endpoint que facilite el cobro de comision al usuario y su registro de metodo de pago.</td>
-    <td>5 hour </td>
+    <td>5 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
     <td>To-do</td>
   </tr>
-    <tr>
-    <td>US0</td>
+  <tr>
+    <td>US02</td>
     <td>Ver perfiles de los conductores</td>
-    <td>Como Developer Quiero almacenar los datos de los conductores y mostrarlos al usuario pasajero .</td>
-    <td>5 hour </td>
+    <td>Como Developer Quiero almacenar los datos de los conductores y mostrarlos al usuario pasajero.</td>
+    <td>5 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
     <td>To-do</td>
   </tr>
-    <tr>
-    <td>US0</td>
+  <tr>
+    <td>US03</td>
     <td>Registrarse en el servicio de carpooling</td>
-    <td>Como Developer quiero implementar un estado para los viajes .</td>
-    <td>5 hour </td>
+    <td>Como Developer Quiero implementar un estado para los viajes.</td>
+    <td>5 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>Cancelar_Viajes</td>
+    <td>Como Developer Quiero poder cancelar viajes a través de la API para gestionar cambios de planes.</td>
+    <td>5 hour</td>
+    <td>Gustavo Adolfo Pardo Zapata</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Reviews</td>
+    <td>Como Developer Quiero implementar una funcionalidad de reseñas para que los usuarios puedan valorar sus experiencias.</td>
+    <td>4 hour</td>
+    <td>Gustavo Adolfo Pardo Zapata</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Payments</td>
+    <td>Como Developer Quiero implementar una funcionalidad de pagos para procesar transacciones de manera segura.</td>
+    <td>6 hour</td>
+    <td>Gustavo Adolfo Pardo Zapata</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>US07</td>
+    <td>Despliegue en Docker</td>
+    <td>Como Developer Quiero desplegar la aplicación en Docker para asegurar la consistencia entre entornos.</td>
+    <td>3 hour</td>
+    <td>Luis Angel Nampa Lavado</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>US08</td>
+    <td>Despliegue en Azure</td>
+    <td>Como Developer Quiero desplegar la aplicación en Azure para aprovechar la escalabilidad y servicios en la nube.</td>
+    <td>4 hour</td>
+    <td>Luis Angel Nampa Lavado</td>
     <td>To-do</td>
   </tr>
 </table>
@@ -2039,22 +2080,37 @@ A continuación, se presenta una lista de los puntos finales registrados en Open
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Students</td>
     <td style="border: 1px solid black;">/api/v1/Students</td>
-    <td style="border: 1px solid black;"><img src="images/swagger_students.png" alt="Swagger Groups"></td>
+    <td style="border: 1px solid black;"><img src="images/swagger_students.png" alt="Swagger Students"></td>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Roles</td>
     <td style="border: 1px solid black;">/api/v1/Roles</td>
-    <td style="border: 1px solid black;"><img src="images/swagger_Roles.png" alt="Swagger Groups-Operations"></td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Roles.png" alt="Swagger Roles"></td>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Authentication</td>
     <td style="border: 1px solid black;">/api/v1/Authentication</td>
-    <td style="border: 1px solid black;"><img src="images/swagger_Authentication.png" alt="Swagger Expenses"></td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Authentication.png" alt="Swagger Authentication"></td>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Profiles</td>
     <td style="border: 1px solid black;">/api/v1/Profiles</td>
-    <td style="border: 1px solid black;"><img src="images/swagger_Profiles.png" alt="Swagger Payments"></td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Profiles.png" alt="Swagger Profiles"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Cancelar_Viajes</td>
+    <td style="border: 1px solid black;">/api/v1/Cancelar</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Cancelar.png" alt="Swagger Cancelar_Viajes"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Reviews</td>
+    <td style="border: 1px solid black;">/api/v1/Reviews</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Reviews.png" alt="Swagger Reviews"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Payments</td>
+    <td style="border: 1px solid black;">/api/v1/Payments</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Payments.png" alt="Swagger Payments"></td>
   </tr>
 </table>
 
