@@ -1888,11 +1888,6 @@ Posteriormente, se mostrará una tabla que detalla estos puntos finales.
     <td style="border: 1px solid black;">/api/v1/Authentication</td>
     <td style="border: 1px solid black;"><img src="images/swagger_Authentication.png" alt="Swagger Expenses"></td>
   </tr>
-  <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">Profiles</td>
-    <td style="border: 1px solid black;">/api/v1/Profiles</td>
-    <td style="border: 1px solid black;"><img src="images/swagger_Profiles.png" alt="Swagger Payments"></td>
-  </tr>
 </table>
 
 
@@ -2421,6 +2416,8 @@ Falta de opción para recuperar contraseña olvidada
 **Problema:**
 La aplicación no ofrece una opción para recuperar la contraseña olvidada, lo que puede impedir que los usuarios accedan a sus cuentas si olvidan su contraseña. Esto causa frustración y puede llevar a la pérdida de usuarios que no pueden acceder a su información.
 
+<img align="center" src="images/deploy_final2.png" alt="UniRider" width="90%">
+
 **Recomendación:**
 Implementar una funcionalidad de recuperación de contraseña en la pantalla de inicio de sesión. Esta función debería permitir a los usuarios solicitar un enlace de restablecimiento de contraseña enviado a su correo electrónico o número de teléfono registrado. Asegurarse de que el proceso sea claro, seguro y fácil de seguir.
 
@@ -2428,6 +2425,8 @@ ________________________________________________________________________________
 
 #### PROBLEMA #2:
 Información de los planes de servicio no es clara
+
+<img align="center" src="images/deploy_final4.png" alt="UniRider" width="90%">
 
 **Severidad: 2**
 **Heurística violada:** Usability: Consistencia y estándares
@@ -2464,6 +2463,8 @@ Claridad en las Opciones de Acceso y Funcionalidad
 **Problema:**
 Las opciones de acceso y funcionalidad no están claramente definidas, lo que puede llevar a confusión y dificultad para navegar por la aplicación.
 
+<img align="center" src="images/deploy_final1.png" alt="UniRider" width="90%">
+
 **Recomendación:**
 Mejorar la organización y la presentación de las opciones de acceso y funcionalidad para que sean más intuitivas y fáciles de encontrar para todos los usuarios.
 
@@ -2478,6 +2479,8 @@ Desnivelación de tamaños con imágenes mostradas en Lista de universidades
 **Heurística violada:** Usability: Consistencia y estándares
 **Problema:**
 Las imágenes de las universidades en la lista presentan tamaños desiguales, lo que afecta la consistencia visual y puede distraer a los usuarios.
+
+<img align="center" src="images/deploy_final3.png" alt="UniRider" width="90%">
 
 **Recomendación:**
 Asegurar que todas las imágenes de las universidades tengan tamaños uniformes para mantener una presentación visual coherente y profesional.
@@ -2494,23 +2497,10 @@ Error al mostrar una de las imágenes de uno de la Lista de Universidades
 **Problema:**
 Una de las imágenes en la lista de universidades no se muestra correctamente, lo que puede causar confusión y frustración en el usuario.
 
+<img align="center" src="images/deploy_final8.png" alt="UniRider" width="90%">
+
 **Recomendación:**
 Revisar el enlace o la fuente de la imagen que presenta el error y corregirlo para garantizar que todas las imágenes se muestren correctamente.
-
-________________________________________________________________________________________________________________________________________________________
-
-
-
-#### **PROBLEMA #7:**
-Claridad en las Opciones de Acceso y Funcionalidad
-
-**Severidad:** 1
-**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
-**Problema:**
-Las opciones de acceso y funcionalidad no están claramente definidas, lo que puede llevar a confusión y dificultad para navegar por la aplicación.
-
-**Recomendación:**
-Mejorar la organización y la presentación de las opciones de acceso y funcionalidad para que sean más intuitivas y fáciles de encontrar para todos los usuarios.
 
 ________________________________________________________________________________________________________________________________________________________
 
