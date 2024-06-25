@@ -2578,23 +2578,23 @@ La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental
     </tr>
     <tr>
         <td>Repositorio General de Unirider</td>
-        <td><a href="https://github.com/orgs/Unirider-OpenSource/repositories">TP</a></td>
+        <td><a href="https://github.com/orgs/Unirider-OpenSource/repositories">Repositories Unirider</a></td>
     </tr>
     <tr>
         <td>Repositorio Reporte Final</td>
-        <td><a href="https://github.com/Unirider-OpenSource/Project-Report">TP</a></td>
+        <td><a href="https://github.com/Unirider-OpenSource/Project-Report">Project-Report-Unirider</a></td>
     </tr>
     <tr>
         <td>Repositorio FrontEnd</td>
-        <td><a href="https://github.com/Unirider-OpenSource/frontend">TP</a></td>
+        <td><a href="https://github.com/Unirider-OpenSource/frontend">Frontend-Unirider</a></td>
     </tr>
     <tr>
         <td>Repositorio Landingpage</td>
-        <td><a href="https://github.com/Unirider-OpenSource/LandingPage.github.io">TP</a></td>
+        <td><a href="https://github.com/Unirider-OpenSource/LandingPage.github.io">LandingPage-Unirider</a></td>
     </tr>
      <tr>
         <td>Repositorio Backend</td>
-        <td><a href="https://github.com/Unirider-OpenSource/BackEnd">TP</a></td>
+        <td><a href="https://github.com/Unirider-OpenSource/BackEnd">Backend-Unirider</a></td>
     </tr>
     <tr>
         <td>Exposicion TB1</td>
