@@ -2577,6 +2577,26 @@ La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental
         <th>Link</th>
     </tr>
     <tr>
+        <td>Repositorio General de Unirider</td>
+        <td><a href="https://github.com/orgs/Unirider-OpenSource/repositories">TP</a></td>
+    </tr>
+    <tr>
+        <td>Repositorio Reporte Final</td>
+        <td><a href="https://github.com/Unirider-OpenSource/Project-Report">TP</a></td>
+    </tr>
+    <tr>
+        <td>Repositorio FrontEnd</td>
+        <td><a href="https://github.com/Unirider-OpenSource/frontend">TP</a></td>
+    </tr>
+    <tr>
+        <td>Repositorio Landingpage</td>
+        <td><a href="https://github.com/Unirider-OpenSource/LandingPage.github.io">TP</a></td>
+    </tr>
+     <tr>
+        <td>Repositorio Backend</td>
+        <td><a href="https://github.com/Unirider-OpenSource/BackEnd">TP</a></td>
+    </tr>
+    <tr>
         <td>Exposicion TB1</td>
         <td><a href="https://upcedupe-my.sharepoint.com/personal/u202120347_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202120347%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideo%2Fupc%2Dpre%2D202401%2D%20si729%2DSW58%2DUniRider%2Dexpo%2Dtb1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4305a931%2D1a79%2D475e%2D8949%2Ddceb6492064a">TB1</a></td>
     </tr>
