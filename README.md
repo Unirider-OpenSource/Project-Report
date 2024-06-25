@@ -1128,125 +1128,56 @@ IAM bounded context
 ![ClassDiagram](images/classdiagram.png)
 
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
-Class Usuario
+Class Passenger
 
 | attribute         | Type       |Description|
 |------------------|------------|-----------|
-| name           | string     | User name |
-| lastname         | string     | user's last name|
-| id              | int        | way to identify the user|
-| useraccount     | Cuenta     | User profile |
-| registrationUser | Matricula  | the user's registration |
-| wallet        | Billetera  | funds to pay for travel |
-| record        | Registro[] | You will be able to see the trips you make |
-| phonenumber    | int       | way to contact the user|
-|notifications    | Notificacion[]| send messages to the user |
+| id           | int     | Identification of the user |
+| name         | String     | user's name|
+| phone        | int     | user's cellphone number|
+| lastName       | String       | user´s lastname|
+| email   | String     | Email of the user |
+| password | String  | Password of the user |
 
-Class Registro
+Class Driver
 
 | attribute         | Type       |Description|
 |------------------|------------|-----------|
-|driverid      | int        |way to identify the driver|
-|start|time|registration home page|
+|id      | int        |way to identify the driver|
+|name|String|driver´s name|
+|lastName|string|driver´s lastname|
+|email|string|requested trip|
+| phone        | int     | user's cellphone number|
+|license|String|Driver´s license|
+|password|String|Drive´r password|
+
 |origin|string|starting place|
 |destination|string|requested trip|
 |price|float|travel cost|
 |typepay|string|payment methods|
 
-Class Notificacion
+Class Review
 
 | attribute     | Type       |Description|
 |--------------|------------|-----------|
-| message      |string|event received by the user|
-| dateissue |time|date the notification came out|
-|type         |string|type of message|
+| id     |int|review identification|
+|comments|String|recommendaions about the service|
+|rating        |int|rating the service|
 
-Class Billetera
+Class DriverImage
 
 | attribute     | Type       |Description|
 |--------------|------------|-----------|
-|cards         |Card[]|registered card|
-|Digitalwalletnumber|int|if you have more wallets|
+|id        |int|image identification|
+|url|String|Url to get the image|
 
-Class Card
+Class Carpooling
 
 | attribute   | Type   |Description|
 |------------|--------|-----------|
-| cardNumber | string |user card number|
-| csv        | int    |3 numbers back|
-| date       | time   |card expiration date|
-
-Class Cuenta
-
-| attribute     | Type   |Description|
-|--------------|--------|-----------|
-|mail        | string |way for reminders to arrive|
-|password    | string |user account password|
-
-Class Matricula
-
-| attribute         | Type      |Description|
-|------------------|-----------|-----------|
-| Institute        |string   |user's institute name|
-| codeStudent | int       |way to identify the user within your institution|
-
-Class Instituto
-
-| attribute         | Type      |Description|
-|------------------|-----------|-----------|
-| name           | string    |Name of the Institution|
-| adress        | string    |institution address|
-| status           | string    |academic level of the institution|
-|   type   | string    |If it is an institute or university|
-
-
-Class Condutor
-
-| attribute         | Type      |Description|
-|------------------|-----------|-----------|
-|route             | Route      |driver's route|
-|license          | License  |valid driver's license|
-
-Class Ruta
-
-| attribute         | Type      |Description|
-|------------------|-----------|-----------|
-| origin           | string    |driving road|
-| destination          | string    |travel destination|
-|Specifications  | string    |details of the trip|
-
-Class Licencia
-
-| attribute       | Type      |Description|
-|----------------|-----------|-----------|
-| licensenumber | int       |driver's license number|
-| class          | string    |license class type|
-| category       | string    |license category type|
-| expirationdate | Time      |license expiration date|
-
-Class Auto
-
-| attribute         | Type      |Description|
-|------------------|-----------|-----------|
-|VehicleRegistration|RegistroVehicular|vehicle registration|
-|insurance           | Insurance    |vehicle insurance|
-
-Class RegistroVehicular
-
-| attribute         | Type      |Description|
-|------------------|-----------|-----------|
-|plate            | string    |Vehicle plate|
-|ownername | string   |name of the vehicle owner|
-|lastnameOwner | string  |last name of the vehicle owner|
-
-
-Class Seguro
-
-| attribute         | Type   |Description|
-|------------------|--------|-----------|
-|id| int    |ID for insurance|
-|expedition| string |insurance issuance|
-|plan| string |insurance plans obtained|
+| id | int |user card number|
+|price|double|travel cost|
+|typepay|string|payment methods|
 
 ## [**4.8. Database Design.**](#database-design)
 ### [**4.8.1. Database Diagram.**](#database-diagram)
