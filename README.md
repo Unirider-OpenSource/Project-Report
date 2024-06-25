@@ -1572,7 +1572,7 @@ https://github.com/Unirider-OpenSource/LandingPage.github.io/commits/develop
     <td>Desarrollar la lógica para procesar el pago del plan de servicio</td>
     <td> 7 hours</td>
     <td> Eric</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
 <tr>
     <td rowspan="2"> 4 </td>
@@ -1590,7 +1590,7 @@ https://github.com/Unirider-OpenSource/LandingPage.github.io/commits/develop
     <td>Desarrollar la logica para verificar la identidad del conductor</td>
     <td> 4 hours</td>
     <td> Eric   </td>
-    <td>To do</td>
+    <td>Done</td>
   </tr>  
 <tr>
     <td rowspan="2"> 5 </td>
@@ -1608,7 +1608,7 @@ https://github.com/Unirider-OpenSource/LandingPage.github.io/commits/develop
     <td>Desarrollar la lógica para mostrar la ruta y los detalles del viaje</td>
     <td> 8 hours</td>
     <td> Harold   </td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
 <tr>
     <td rowspan="2"> 6 </td>
@@ -1618,7 +1618,7 @@ https://github.com/Unirider-OpenSource/LandingPage.github.io/commits/develop
     <td>Diseñar la interfaz de usuario para establecer la ruta y el horario de viaje</td>
     <td> 8 hours</td>
     <td> Angel </td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
    <tr>
     <td>6.2</td>
@@ -1626,7 +1626,7 @@ https://github.com/Unirider-OpenSource/LandingPage.github.io/commits/develop
     <td>Desarrollar la logica para establecer los parametros solicitados</td>
     <td> 5 hours</td>
     <td> Angel  </td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr> 
 <tr>
     <td rowspan="2"> 7 </td>
@@ -1644,7 +1644,7 @@ https://github.com/Unirider-OpenSource/LandingPage.github.io/commits/develop
     <td>Desarrollar la lógica para calificar a los conductores</td>
     <td> 6 hours</td>
     <td> Harold   </td>
-    <td>To do</td>
+    <td>Done</td>
   </tr> 
 <tr>
     <td rowspan="2"> 8 </td>
@@ -1654,7 +1654,7 @@ https://github.com/Unirider-OpenSource/LandingPage.github.io/commits/develop
     <td>Desarrollar la lógica para filtrar los viajes disponibles</td>
     <td> 7 hours</td>
     <td> Ely Cortez  </td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
    <tr>
     <td>7.2</td>
@@ -1662,7 +1662,7 @@ https://github.com/Unirider-OpenSource/LandingPage.github.io/commits/develop
     <td>Desarrollar los parametros solicitados</td>
     <td> 5 hours</td>
     <td> Ely Cortez  </td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr> 
 <tr>
     <td rowspan="2"> 9 </td>
@@ -1672,7 +1672,7 @@ https://github.com/Unirider-OpenSource/LandingPage.github.io/commits/develop
     <td>Diseñar la interfaz de usuario para ver el historial de reservas de viaje</td>
     <td> 8 hours</td>
     <td> Gustavo  </td>
-    <td> To do </td>
+    <td> Done </td>
   </tr>
    <tr>
     <td>9.2</td>
@@ -1680,7 +1680,7 @@ https://github.com/Unirider-OpenSource/LandingPage.github.io/commits/develop
     <td>Desarrollar la logica que permita mostrar el historial de reservas</td>
     <td> 7 hours</td>
     <td> Gustavo   </td>
-    <td>To do</td>
+    <td>Done</td>
   </tr> 
 </table>
 
@@ -1781,23 +1781,23 @@ Mostramos la evidencia de los avances:<br>
     <td>Como Developer Quiero poder agregar un estudiante a través de la API Para que esté disponible para construir funcionalidades para mis aplicaciones.</td>
     <td>4 hour</td>
     <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>TS02</td>
     <td>Implementar autenticación de dos factores</td>
     <td>Como Developer Quiero implementar autenticación para aumentar la seguridad de las cuentas de usuario.</td>
-    <td>6 hour </td>
+    <td>5 hour </td>
     <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>TS03</td>
     <td>Gestión de roles de usuario	</td>
     <td>Como Developer Quiero poder asignar roles de "Estudiante", "Pasajero" y "Conductor" a los usuarios Para gestionar sus permisos y funcionalidades en la plataforma.</td>
-    <td>6 hour </td>
+    <td>5 hour </td>
     <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
     <tr>
     <td>US0</td>
@@ -1805,7 +1805,7 @@ Mostramos la evidencia de los avances:<br>
     <td>Como Developer Quiero implementar un endpoint que facilite el cobro de comision al usuario y su registro de metodo de pago.</td>
     <td>5 hour </td>
     <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
     <tr>
     <td>US0</td>
@@ -1813,15 +1813,15 @@ Mostramos la evidencia de los avances:<br>
     <td>Como Developer Quiero almacenar los datos de los conductores y mostrarlos al usuario pasajero .</td>
     <td>5 hour </td>
     <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
     <tr>
     <td>US0</td>
     <td>Registrarse en el servicio de carpooling</td>
     <td>Como Developer quiero implementar un estado para los viajes .</td>
-    <td>5 hour </td>
+    <td>4 hour </td>
     <td>Gustavo Adolfo Pardo Zapata</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
 </table>
 
@@ -2034,7 +2034,7 @@ En el cuarto y último Sprint, procederemos con el desarrollo del Backend de nue
     <td>Como Developer Quiero desplegar la aplicación en Docker para asegurar la consistencia entre entornos.</td>
     <td>3 hour</td>
     <td>Luis Angel Nampa Lavado</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US08</td>
@@ -2042,7 +2042,7 @@ En el cuarto y último Sprint, procederemos con el desarrollo del Backend de nue
     <td>Como Developer Quiero desplegar la aplicación en Azure para aprovechar la escalabilidad y servicios en la nube.</td>
     <td>4 hour</td>
     <td>Luis Angel Nampa Lavado</td>
-    <td>To-do</td>
+    <td>Done</td>
   </tr>
 </table>
 
