@@ -2071,6 +2071,10 @@ Repositorio Frontend
 | Fronte-end |feature/Front-end|1bedae2| feat:add login but no css| -| 28/04/2024|
 | Fronte-end |feature/Front-end|69d6513| feat:add page plans | -|27/04/2024|
 | Fronte-end |feature/Front-end|07fcffa| feat:plans table | -|27/04/2024|
+| Fronte-end |feature/Front-end|c4f25b7703024e53cc839be3e6a50b5f0bb39161| Feat: add application| -|05/06/2024|
+| Fronte-end |feature/Front-end|aeeb74ab716d92d45f15ad2837eed413968ac2d1| feat(pages): added form component for comÂponent for destination. | -|05/06/2024|
+| Fronte-end |feature/Front-end|f80e29d440396575457408e427fc63dfe00ee5e2| feat(interfaces): added Destination API| -|05/06/2024|
+| Fronte-end |feature/Front-end|096cce4cc3fbed5310a8e268eac46820c857338d| feat(shared): added payments method | -|05/06/2024|
 
 
 #### [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
