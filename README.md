@@ -1125,7 +1125,7 @@ IAM bounded context
 ## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
 ### [**4.7.1. Class Diagrams.**](#class-diagrams)
 
-![ClassDiagram](images/ClassDiagram1.jpeg)
+![ClassDiagram](images/classdiagram.png)
 
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
 Class Usuario
@@ -1253,7 +1253,7 @@ Class Seguro
 
 Para este proyecto se optó por escoger el motor de base de datos de MySQL, para almacenar y gestionar la información de nuestros usuarios, los vehículos, el instituto al que pertenecen entre otros varios. Este motor permite expandir los recursos utilizados en la base de datos del proyecto según las necesidades y requerimientos del negocio. 
 
-![Base de Datos](images/basedatos.png)
+![Base de Datos](images/basediagram.png)
 
 # [**Capítulo V: Product Implementation, Validation \& Deployment.**](#capítulo-v-product-implementation-validation--deployment)
 ## [**5.1. Software Configuration Management.**](#software-configuration-management)
