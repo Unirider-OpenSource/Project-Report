@@ -52,6 +52,7 @@
 |V2.0|29/04/2024|Gustavo<br>Luis<br>Eric <br> Harold<br> Ely Cortez|Finalización del Sprint 2|
 |V3.0|5/06/2024|Gustavo<br>Luis|Finalización del Sprint 3|
 |V4.0|5/06/2024|Gustavo<br>Luis|Finalización del Sprint 4|
+|V5.0|25/06/2024|Gustavo<br>Luis|Correcion de los diagramas C4<br> Correcion de diagrama de base de datos y clase <br> Añadido de bibliografias y anexos|
 
 **Project Report Collaboration Insights**
 URL del repositorio de GitHub de la organización: [https://github.com/Unirider-OpenSource/Project-Report](https://github.com/Unirider-OpenSource)
@@ -1101,18 +1102,17 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
 ### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
 
-![SACD1](images/SACD1.jpeg)
+![SACD1](images/C41.png)
 
 ### [**4.6.2. Software Architecture Container Diagrams.**](#software-architecture-container-diagrams)
 
-![SACD2](images/SACD2.jpeg)
+![SACD2](images/C42.png)
 
 ### [**4.6.3. Software Architecture Components Diagrams.**](#software-architecture-components-diagrams)
-![COMP1](images/COMP1.jpeg)
-![COMP2](images/COMP2.jpeg)
-![COMP3](images/COMP3.jpeg)
-![COMP4](images/COMP4.jpeg)
-![COMP5](images/COMP5.jpeg)
+Profile bounded context
+![COMP1](images/C43.png)
+IAM bounded context
+![COMP2](images/C44.png)
 ## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
 ### [**4.7.1. Class Diagrams.**](#class-diagrams)
 
