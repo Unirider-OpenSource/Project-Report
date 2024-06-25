@@ -854,6 +854,15 @@ A continuación, se presentarán los user persona basados en nuestro segmento ob
 ![SMobjetivo2](images/asis2.png)
 
 ## [**2.4. Ubiquitous Language**](#ubiquitous-language)
+Carpooling (Viaje Compartido): Servicio que permite a los estudiantes compartir viajes hacia sus universidades de manera eficiente y asequible.
+
+Trip (Viaje): Los viajes registrados por los usuarios en la plataforma UniRider, que se pueden clasificar por destino, horario y preferencias.
+
+Register: Sistema para que el usuario pueda crearse una cuenta y poder loguearse en nuestra aplicacion.
+
+Plans: La plataforma ofrece tipos de planes para cada segmento objetivo .
+
+payments : La plataforma ofrece integración con servicios pagos para agregar tarjeta de credito/debito .
 
 # [**Capítulo III: Requirements Specification.**](#capítulo-iii-requirements-specification)
 ## [**3.1. To-Be Scenario Mapping.**](#to-be-scenario-mapping)
