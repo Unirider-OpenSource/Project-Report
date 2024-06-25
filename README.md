@@ -1650,22 +1650,22 @@ Link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EcS
 **Evidencia de implementación por cada US#**<br>
 **US01:Visualizar el inicio de registro**<br>
 Como Usuario Quiero poder crear mi usuario Para acceder al servicio de carpooling.<br>
-![US01](images/FrontEnd1.jpeg)<br>
+![US01](images/deploy_final2.png)<br>
 **US02:Visualizar y seleccionar planes de servicio**<br>
 Como Usuario Quiero seleccionar un plan de servicio Para adquirir los beneficios ofrecidos.<br>
-![US04](images/FrontEnd4.jpeg)<br>
+![US04](images/deploy_final4.png)<br>
 **US03:Diseño de la pagina de pago de plan de servicio**<br>
 Como Usuario Quiero realizar el pago del plan seleccionado Para activar los beneficios ofrecidos.<br>
-![US05](images/FrontEnd5.jpeg)<br>
+![US05](images/deploy_final5.png)<br>
 **US04:Verificar la identidad del conductor**<br>
 Como Usuario Quiero verificar la identidad del conductor Para garantizar mi seguridad durante el viaje<br>
-![US06](images/FrontEnd6.jpeg)<<br>
+![US06](images/deploy_final6.png)<<br>
 **US05:Visualizar ruta y detalles del viaje**<br>
 Como Usuario Quiero ver la ruta y los detalles del viaje Para prepararme adecuadamente y saber qué esperar<br>
-![US06](images/FrontEnd6.jpeg)<br>
+![US06](images/deploy_final6.png)<br>
 **US07:Brindar calificaciones**<br>
 Como Usuario Quiero brindar calificaciones a los conductores designados Para mejorar la experiencia de otros usuarios.<br>
-![US06](images/FrontEnd7.jpeg)<br>
+![US06](images/deploy_final7.png)<br>
 
 #### [**5.2.2.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
 
