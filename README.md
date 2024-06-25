@@ -2144,11 +2144,6 @@ A continuación, se presenta una lista de los puntos finales registrados en Open
     <td style="border: 1px solid black;">/api/v1/Reviews</td>
     <td style="border: 1px solid black;"><img src="images/swagger_reviews.png" alt="Swagger Reviews"></td>
   </tr>
-  <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">Payments</td>
-    <td style="border: 1px solid black;">/api/v1/Payments</td>
-    <td style="border: 1px solid black;"><img src="images/swagger_Payments.png" alt="Swagger Payments"></td>
-  </tr>
 </table>
 
 #### [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
