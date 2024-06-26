@@ -312,20 +312,8 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
     <th>Descripción</th>
   </tr>
   <tr>
-    <td><img src="images/Foto Eric .jpg" alt="" width="100" height="100"></td>
-    <td>Mi nombre es Eric Agama y estudio la carrera de Ingeniería de Software. Me considero una persona creativa a la hora de realizar trabajos y buscando siempre las mejores opciones para el equipo. Manejo el lenguaje Luau Roblox Studio..</td>
-  </tr>
-  <tr>
     <td><img src="/images/angel.jpg" alt="" width="100" height="100"></td>
     <td>Mi nombre es Angel Anampa y tengo 19 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Elegí dicha carrera porque soy una persona que le interesa mucho los temas que tienen que ver con tecnología , me gustan los videojuegos. Me considero una persona atenta, responsable , optimista que sabe solucionar los problemas. Como integrante del equipo me comprometo a apoyar al grupo en este trabajo.</td>
-  </tr>
-  <tr>
-     <td><img src="images/elyCortez.jpeg"  alt="" width="100" height="100"></td>
-    <td>Mi nombre es Ely Rivaldo Cortez Flores, tengo 18 años estudio la carrera de ingeniería de software, actualmente estoy cursando el quinto ciclo. Soy una persona empática y responsable al momento de trabajar de forma grupal.</td>
-  </tr>
-  <tr>
-    <td><img src="images/Harold.jpg" alt="" width="100" height="100"></td>
-    <td>Mi nombre es Harold Jaime Mayta Lopez. Tengo 20 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo consideroque soy bueno identificando problemáticas y buscando soluciones.</td>
   </tr>
    <tr>
     <td><img src="images/Gustavo09.jpg" width="100" height="100"></td>
