@@ -33,7 +33,7 @@
     </table>
 
   <p align="center">
-    Abril-2024
+    Junio-2024
   </p>
 
 </div>
@@ -69,7 +69,21 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 |Eric Agama|Capitulo 4: Style Guidelines,Web applications UX/UI Design,Web Application Prototyping |
 |Luis Anampa|Capitulo 1: Segmentos Objetivos<br>Capitulo 2: Competidores,Entrevistas,needfinding<br> Capitulo 5: Sprint Planning/Baclokg 1  |
 
-![TB!](images/Captura.PNG)
+_Report_
+![TB1](images/contribuitorsmonth.jpg)
+![TB1](images/Captura.PNG)
+
+_Frontend_
+
+![TB!](images/contribuitorsFrontend.jpg)
+
+_Backend_
+
+![TB!](images/contribuitorsBackend.jpg)
+
+_Landing Page_
+
+![TB!](images/contribuitorlandingpage.jpg)
 
 _TP_
 
@@ -83,7 +97,21 @@ Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguie
 |Eric Agama|Correciones al documento<br> execution evidence|
 |Luis Anampa|Correciones deldocumento<br> Sprint review and Collaboration insigths|
 
-<!-- ![TB!](images/Captura.PNG) -->
+![TB!](images/contribuitorsmonth.jpg)
+![TB!](images/Captura.PNG)
+
+_Frontend_
+
+![TB!](images/contribuitorsFrontend.jpg)
+
+_Backend_
+
+![TB!](images/contribuitorsBackend.jpg)
+
+_Landing Page_
+
+![TB!](images/contribuitorlandingpage.jpg)
+
 _TB2_
 
 Para el desarrollo de la entrega TB2, se opto por dividir el trabajo de la siguiente forma
@@ -94,6 +122,21 @@ Para el desarrollo de la entrega TB2, se opto por dividir el trabajo de la sigui
 |Luis Anampa|Correciones del documento <br> Backend|
 
 
+![TB!](images/contribuitorsmonth.jpg)
+![TB!](images/Captura.PNG)
+
+_Frontend_
+
+![TB!](images/contribuitorsFrontend.jpg)
+
+_Backend_
+
+![TB!](images/contribuitorsBackend.jpg)
+
+_Landing Page_
+
+![TB!](images/contribuitorlandingpage.jpg)
+
 _TF_
 
 Para el desarrollo de la entrega TF, se opto por dividir el trabajo de la siguiente forma
@@ -102,6 +145,22 @@ Para el desarrollo de la entrega TF, se opto por dividir el trabajo de la siguie
 |----------|----------|
 |Gustavo Pardo|Correciones del documento <br> Backend<br>Sprint 4|
 |Luis Anampa|Correciones del documento <br> Backend <br>Sprint 4|
+
+
+![TB!](images/contribuitorsweek.jpg)
+![TB!](images/Captura.PNG)
+
+_Frontend_
+
+![TB!](images/contribuitorsFrontend.jpg)
+
+_Backend_
+
+![TB!](images/contribuitorsBackend.jpg)
+
+_Landing Page_
+
+![TB!](images/contribuitorlandingpage.jpg)
 
 # Student Outcome
 
