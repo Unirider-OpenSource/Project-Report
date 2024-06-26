@@ -1173,7 +1173,7 @@ IAM bounded context
 ## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
 ### [**4.7.1. Class Diagrams.**](#class-diagrams)
 
-![ClassDiagram](images/classdiagram.png)
+![ClassDiagram](images/diagrama.png)
 
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
 Class Passenger
