@@ -282,6 +282,7 @@ _Landing Page_
     - [**5.3.3.  Evaluaciones según heurísticas.**](#5211-Evaluations-according-to-heuristics.)
 - [**5.4. Video About-the-Product.**](#52-Video-About-the-Product. )
 - [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
+    - [**6.1. Conclusiones y Recomendaciones.**](#61-conclusiones-y-recomendaciones. )
 - [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 
 
@@ -2515,8 +2516,19 @@ Video en Microsoft Stream:
 
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
+## [**6.1. Conclusiones y Recomendaciones.**](#52-conclusiones-y-recomendaciones. )
 
-La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental en el desarrollo y avance del proyecto. La fluidez en el intercambio de ideas durante las discusiones orales ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará siendo promovido para sostener el progreso y la cohesión grupal. Por otro lado, la comunicación escrita ha desempeñado un papel crucial en la documentación del progreso del proyecto y en la clarificación de los entregables. Mantener un estilo claro y conciso en la comunicación escrita seguirá siendo prioritario para asegurar la eficacia y la calidad del trabajo realizado. En conjunto, tanto la comunicación oral como la escrita se complementan para facilitar un ambiente de trabajo productivo y colaborativo, donde las ideas fluyen libremente y los objetivos del proyecto se alcanzan de manera eficiente.
+- La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental en el desarrollo y avance del proyecto. La fluidez en el intercambio de ideas durante las discusiones orales ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará siendo promovido para sostener el progreso y la cohesión grupal. Por otro lado, la comunicación escrita ha desempeñado un papel crucial en la documentación del progreso del proyecto y en la clarificación de los entregables. Mantener un estilo claro y conciso en la comunicación escrita seguirá siendo prioritario para asegurar la eficacia y la calidad del trabajo realizado. En conjunto, tanto la comunicación oral como la escrita se complementan para facilitar un ambiente de trabajo productivo y colaborativo, donde las ideas fluyen libremente y los objetivos del proyecto se alcanzan de manera eficiente.
+
+- Como equipo, hemos experimentado la importancia y el impacto positivo de una comunicación efectiva tanto oral como escrita en el desarrollo y éxito de nuestro proyecto. La fluidez en las discusiones orales nos permitió alinear nuestros esfuerzos, resolver desafíos de manera colaborativa y sostener el progreso del proyecto de manera constante. La claridad en la comunicación escrita fue clave para documentar nuestro progreso, clarificar los entregables y asegurar la calidad del trabajo realizado.
+
+- Priorizamos la transparencia y la colaboración, lo que creó un ambiente de trabajo productivo donde las ideas fluyeron libremente y se implementaron soluciones eficientes. Esta cultura de comunicación abierta no solo fortaleció nuestra cohesión como equipo, sino que también facilitó la dirección estratégica y el cumplimiento de nuestros objetivos.
+
+- Recomendamos seguir invirtiendo en el desarrollo de habilidades de comunicación dentro del equipo, incluyendo capacitaciones en presentación, técnicas de negociación y el uso efectivo de herramientas digitales colaborativas. Estas mejoras continuarán fortaleciendo nuestro rendimiento colectivo y promoviendo un entorno de aprendizaje continuo y crecimiento profesional.
+
+- La experiencia en este proyecto no solo mejoró nuestras habilidades técnicas y de comunicación, sino que también fomentó un crecimiento personal significativo. A través de la colaboración y el intercambio de ideas, hemos adquirido nuevas perspectivas y habilidades que nos han enriquecido tanto profesional como personalmente.
+
+- La promoción de una comunicación efectiva ha contribuido positivamente a la cultura organizacional. Se ha establecido un precedente para futuros proyectos, donde la transparencia, el trabajo en equipo y la comunicación abierta son valores fundamentales que promoveremos continuamente.
 
 # [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 
